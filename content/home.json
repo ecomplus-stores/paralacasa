@@ -60,7 +60,8 @@
       "collection_id": null,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "info-bar",
