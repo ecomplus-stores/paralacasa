@@ -38,6 +38,20 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cake-3236992_640.jpg"
+        },
+        {
+          "img": "/img/uploads/breakfast-2367097_640.jpg"
+        },
+        {
+          "img": "/img/uploads/cake-3236992_640.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
