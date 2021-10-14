@@ -3,6 +3,17 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/place-setting-2110245_640.jpg"
+        },
+        {
+          "img": "/img/uploads/christmas-table-1926936_640.jpg"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -17,17 +28,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/place-setting-2110245_640.jpg"
-        },
-        {
-          "img": "/img/uploads/christmas-table-1926936_640.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/cake-3236992_640.jpg"
         },
         {
@@ -35,14 +35,6 @@
         },
         {
           "img": "/img/uploads/breakfast-1804457_640.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/table-1719371_640.jpg"
         }
       ]
     },
