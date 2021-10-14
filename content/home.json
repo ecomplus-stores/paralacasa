@@ -3,17 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/place-setting-2110245_640.jpg"
-        },
-        {
-          "img": "/img/uploads/christmas-table-1926936_640.jpg"
-        }
-      ]
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -21,6 +10,17 @@
           "start": "2021-10-14T18:41:18.087Z",
           "end": "2021-10-14T18:41:18.115Z",
           "img": "/img/uploads/principal-2.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/place-setting-2110245_640.jpg"
+        },
+        {
+          "img": "/img/uploads/christmas-table-1926936_640.jpg"
         }
       ]
     },
