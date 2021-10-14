@@ -5,20 +5,22 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "document-banner",
+      "enabled": true
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "news"
     },
     {
-      "type": "document-description",
-      "enabled": true
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
