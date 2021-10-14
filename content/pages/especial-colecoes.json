@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ere.jpg"
+      "img": "/img/uploads/compartilhada-do-lightroom-mobile-18-.jpg"
     },
     {
       "type": "extra-page",
@@ -12,7 +12,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 13,
       "page": 1,
       "sort": "news",
       "headless": true
@@ -21,11 +21,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/place-setting-2110245_640.jpg",
+          "img": "/img/uploads/img_20211001_125924_201.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/breakfast-1804457_640.jpg"
+          "img": "/img/uploads/img_20211001_125530_554.jpg"
         }
       ]
     },
@@ -41,13 +41,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cake-3236992_640.jpg"
+          "img": "/img/uploads/img_20211001_125738_444.jpg"
         },
         {
-          "img": "/img/uploads/breakfast-2367097_640.jpg"
+          "img": "/img/uploads/img_20211001_125511_892.jpg"
         },
         {
-          "img": "/img/uploads/cake-3236992_640.jpg"
+          "img": "/img/uploads/img_20211001_125511_892.jpg"
         }
       ]
     },
