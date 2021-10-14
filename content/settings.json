@@ -1,24 +1,24 @@
 {
-  "store_id": 11908,
-  "name": "paralacasa",
   "domain": "paralacasa.netlify.app",
-  "short_name": "paralacasa",
-  "description": "paralacasa",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#202227",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/paralacasa",
+  "logo": "/img/uploads/logo-preto-150x100px.png",
+  "name": "ParaLaCasa",
+  "short_name": "ParaLaCasa",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-preto-150x100px.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/paralacasa"
+  "secondary_color": "#5e4d60",
+  "icon": "/img/uploads/logo-preto-150x100px.png",
+  "store_id": 11908,
+  "description": "Utilidades Domésticas, Louças e Itens de Decoração de qualidade e bom gosto. Sua casa decorada e completa com produtos ParaLaCasa, envio para Todo Brasil.",
+  "large_icon": "/img/uploads/logo-preto-150x100px.png"
 }
