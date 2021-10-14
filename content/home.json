@@ -34,6 +34,14 @@
           "img": "/img/uploads/breakfast-2367097_640.jpg"
         },
         {
+          "img": "/img/uploads/breakfast-1804457_640.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/table-1719371_640.jpg"
         }
       ]
