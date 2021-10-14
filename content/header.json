@@ -1,20 +1,18 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Tudo em até 6x sem juros | 5% desconto para PIX | SP - Capital Frete Expresso | Use o Cupom: PRIMEIRACOMPRA",
+    "link": "/promotion",
+    "background": "#393941",
+    "color": "#2d2c30"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "ENTRAR | CADASTRAR",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
