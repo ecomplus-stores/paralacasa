@@ -3,6 +3,17 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-10-14T19:05:09.985Z",
+          "end": "",
+          "img": "/img/uploads/table-1719371_640.jpg"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -10,17 +21,6 @@
         },
         {
           "img": "/img/uploads/christmas-table-1926936_640.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-10-14T19:05:09.985Z",
-          "end": "",
-          "img": "/img/uploads/principal-2.jpg"
         }
       ]
     },
