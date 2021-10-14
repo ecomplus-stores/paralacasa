@@ -1,7 +1,7 @@
 {
   "domain": "paralacasa.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#202227",
+  "primary_color": "#393d47",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-preto-150x100px.png",
   "country_code": "BR",
-  "secondary_color": "#5e4d60",
+  "secondary_color": "#a9b5d4",
   "icon": "/img/uploads/logo-preto-150x100px.png",
   "store_id": 11908,
   "description": "Utilidades Domésticas, Louças e Itens de Decoração de qualidade e bom gosto. Sua casa decorada e completa com produtos ParaLaCasa, envio para Todo Brasil.",
