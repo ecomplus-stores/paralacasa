@@ -12,6 +12,20 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/jogo-americano-angra-acafrao-01pc1.jpg"
+        },
+        {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
+          "img": "/img/uploads/bandeja-retangular-bambu-m1.jpg"
+        }
+      ]
     }
   ]
 }
