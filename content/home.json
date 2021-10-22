@@ -3,13 +3,10 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2021-10-14T19:05:09.985Z",
-          "end": "",
-          "img": "/img/uploads/as.jpg"
+          "img": "/img/uploads/bannertopo.jpg"
         }
       ]
     },
