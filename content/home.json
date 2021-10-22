@@ -6,7 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannertopo.jpg"
+          "img": "/img/uploads/bannertopo.jpg",
+          "mobile_img": "/img/uploads/bannertopo-mobile.jpg"
         }
       ]
     },
