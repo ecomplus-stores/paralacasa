@@ -59,6 +59,17 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-4-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-5-.jpg"
+        }
+      ]
     }
   ]
 }
