@@ -14,6 +14,10 @@
       "sort": "news"
     },
     {
+      "type": "page-title",
+      "title": "Confira as Novidades "
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
