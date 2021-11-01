@@ -17,11 +17,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/paralacasa-mobile1.jpg",
-          "mobile_img": ""
+          "img": "/img/uploads/72-compressed.jpg",
+          "mobile_img": "",
+          "link": "https://paralacasa.netlify.app/copa/"
         },
         {
-          "img": "/img/uploads/paralacasa-home2.3.jpg"
+          "img": "/img/uploads/jogos-americanos-4-compressed.jpg",
+          "link": "https://paralacasa.netlify.app/jogos-americanos/"
+        },
+        {
+          "img": "/img/uploads/faqueiros-eme-2.jpg",
+          "link": "https://paralacasa.netlify.app/eme"
         }
       ]
     },
