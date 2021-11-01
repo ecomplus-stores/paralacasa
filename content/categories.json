@@ -12,6 +12,15 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "page-title",
+      "title": "CONFIRA OS LANÇAMENTOS"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
