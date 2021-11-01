@@ -21,6 +21,18 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/paralacasa-mobile1.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/paralacasa-home2.3.jpg"
+        }
+      ]
     }
   ]
 }
