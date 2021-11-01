@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "ENTRAR | CADASTRAR",
-        "link": "/pages/sobre-nos"
+        "link": "/app/#/account/orders"
       }
     ],
     "phone_wpp": false,
