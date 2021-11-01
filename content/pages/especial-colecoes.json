@@ -16,7 +16,7 @@
       "page": 1,
       "sort": "news",
       "headless": true,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO - CERÂMICA:/bordallo-pinheiro-ceramica"
     },
     {
       "type": "banners-grid",
@@ -37,7 +37,7 @@
       "page": 1,
       "headless": true,
       "sort": "lowest_price",
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO - CERÂMICA:/bordallo-pinheiro-ceramica"
     },
     {
       "type": "banners-grid",
