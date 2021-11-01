@@ -29,6 +29,18 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-4-.jpg",
+          "link": "https://paralacasa.netlify.app/shop-the-look"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-5-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/paralacasa-home5.jpg",
           "link": "https://paralacasa.netlify.app/bandejas-tabuas/"
         },
@@ -64,18 +76,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-4-.jpg",
-          "link": "https://paralacasa.netlify.app/shop-the-look"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-5-.jpg"
-        }
-      ]
     }
   ]
 }
