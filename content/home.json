@@ -7,7 +7,8 @@
       "banners": [
         {
           "img": "/img/uploads/paralacasa1.jpg",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://paralacasa.netlify.app/colecao-olinda"
         }
       ]
     },
