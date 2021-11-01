@@ -29,7 +29,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/paralacasa-home5.jpg"
+          "img": "/img/uploads/paralacasa-home5.jpg",
+          "link": "https://paralacasa.netlify.app/bandejas-tabuas/"
         },
         {
           "img": "/img/uploads/paralacasa-home6.jpg",
