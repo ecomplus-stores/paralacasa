@@ -16,7 +16,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/novidades/?NOVIDADES",
+      "/mesa/?MESA",
+      "/bambu/?BAMBU",
+      "/moveis/?MÓVEIS",
+      "/decor/?DÉCOR",
+      "/cozinha/?COZINHA",
+      "/organizar/?ORGANIZAR"
+    ],
     "random": 7,
     "full_width": true
   },
