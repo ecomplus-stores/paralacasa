@@ -15,7 +15,8 @@
       "limit": 13,
       "page": 1,
       "sort": "news",
-      "headless": true
+      "headless": true,
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
     },
     {
       "type": "banners-grid",
@@ -35,7 +36,8 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": "news"
+      "sort": "lowest_price",
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
     },
     {
       "type": "banners-grid",
