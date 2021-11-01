@@ -14,15 +14,6 @@
       "sort": "news"
     },
     {
-      "type": "page-title",
-      "title": "CONFIRA OS LANÇAMENTOS"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -33,6 +24,15 @@
           "img": "/img/uploads/paralacasa-home2.3.jpg"
         }
       ]
+    },
+    {
+      "type": "page-title",
+      "title": "CONFIRA OS LANÇAMENTOS"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
