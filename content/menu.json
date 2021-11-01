@@ -1,6 +1,14 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "novidades/",
+    "mesa/",
+    "bambu/",
+    "moveis/",
+    "decor/",
+    "cozinha/",
+    "organizar/"
+  ],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": false
+  "alphabetical_order": true
 }
