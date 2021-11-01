@@ -1,0 +1,58 @@
+{
+  "title": "COLEÇÃO OLINDA",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/paralacasa1.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 13,
+      "page": 1,
+      "sort": "news",
+      "headless": true,
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner212.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/banner212.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": "lowest_price",
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/trio.jpg"
+        },
+        {
+          "img": "/img/uploads/trio.jpg"
+        },
+        {
+          "img": "/img/uploads/trio.jpg"
+        }
+      ]
+    }
+  ],
+  "body": "Lorem ipsum congue ultrices litora morbi vehicula donec, class nec himenaeos rhoncus mollis faucibus risus, tincidunt nibh taciti rutrum ante iaculis. condimentum potenti venenatis dolor eget congue id sem volutpat id, habitant diam eu ut cursus egestas nec vulputate, auctor sociosqu eget litora ornare imperdiet auctor aliquam. pharetra cubilia torquent conubia semper orci in consectetur ullamcorper nisi, ad scelerisque quis leo mattis sodales nullam mollis. congue nostra morbi adipiscing nunc sit dui nunc duis accumsan sem euismod, leo nisl ante eget neque pharetra duis vehicula metus. cras donec at inceptos non himenaeos arcu facilisis praesent pellentesque, placerat netus porttitor nam pellentesque litora lectus integer. \n\n```\n\n```"
+}
