@@ -15,10 +15,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner212.jpg"
+          "img": "/img/uploads/paralacasa-home3.3.jpg"
         },
         {
-          "img": "/img/uploads/banner212.jpg"
+          "img": "/img/uploads/paralacasa-home4.jpg"
         }
       ]
     },
@@ -26,13 +26,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/trio.jpg"
+          "img": "/img/uploads/paralacasa-home5.jpg"
         },
         {
-          "img": "/img/uploads/trio.jpg"
+          "img": "/img/uploads/paralacasa-home6.jpg"
         },
         {
-          "img": "/img/uploads/trio.jpg"
+          "img": "/img/uploads/paralacasa-home7.jpg"
         }
       ]
     },
@@ -40,10 +40,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/duplo2.jpg"
-        },
-        {
-          "img": "/img/uploads/duplo2.jpg"
+          "img": "/img/uploads/paralacasa-home2.3.jpg"
         }
       ]
     },
