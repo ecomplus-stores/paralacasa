@@ -31,7 +31,8 @@
           "img": "/img/uploads/paralacasa-home5.jpg"
         },
         {
-          "img": "/img/uploads/paralacasa-home6.jpg"
+          "img": "/img/uploads/paralacasa-home6.jpg",
+          "link": "https://paralacasa.netlify.app/potes-hermeticos/"
         },
         {
           "img": "/img/uploads/paralacasa-home7.jpg"
