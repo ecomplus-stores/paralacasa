@@ -42,15 +42,15 @@
       "banners": [
         {
           "img": "/img/uploads/paralacasa-home5.jpg",
-          "link": "https://paralacasa.netlify.app/bandejas-tabuas/"
+          "link": "https://paralacasa.netlify.app/blog"
         },
         {
           "img": "/img/uploads/paralacasa-home6.jpg",
-          "link": "https://paralacasa.netlify.app/potes-hermeticos/"
+          "link": "https://paralacasa.netlify.app/faqueiros/"
         },
         {
           "img": "/img/uploads/paralacasa-home7.jpg",
-          "link": "https://paralacasa.netlify.app/search?term=potes+met%C3%A1licos"
+          "link": "https://paralacasa.netlify.app/copa/"
         }
       ]
     },
@@ -59,7 +59,7 @@
       "banners": [
         {
           "img": "/img/uploads/e-com-plus-home-788-x-518-px-7-.jpg",
-          "link": "https://paralacasa.netlify.app/eme"
+          "link": "https://paralacasa.netlify.app/faqueiros/"
         },
         {
           "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg",
