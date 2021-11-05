@@ -30,26 +30,14 @@
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-home-527-x-515-px-4-.jpg",
-          "link": "https://paralacasa.netlify.app/shop-the-look"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-5-.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/paralacasa-home5.jpg",
           "link": "https://paralacasa.netlify.app/blog"
         },
         {
-          "img": "/img/uploads/paralacasa-home6.jpg",
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-5-.jpg",
           "link": "https://paralacasa.netlify.app/organizar/"
         },
         {
-          "img": "/img/uploads/paralacasa-home7.jpg",
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-6-.jpg",
           "link": "https://paralacasa.netlify.app/copa/"
         }
       ]
@@ -59,11 +47,10 @@
       "banners": [
         {
           "img": "/img/uploads/e-com-plus-home-788-x-518-px-7-.jpg",
-          "link": "https://paralacasa.netlify.app/faqueiros/"
+          "link": "https://paralacasa.netlify.app/shop-the-look"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg",
-          "link": "https://paralacasa.netlify.app/vista-alegre"
+          "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg"
         }
       ]
     },
@@ -86,6 +73,22 @@
       "sort": "news",
       "title": "VEJA NOVIDADES",
       "link": "https://paralacasa.netlify.app/bordallo-pinheiro-ceramica"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-9-.jpg",
+          "link": "https://paralacasa.netlify.app/faqueiros/"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg",
+          "link": "https://paralacasa.netlify.app/vista-alegre"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg"
+        }
+      ]
     }
   ]
 }
