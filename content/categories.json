@@ -33,12 +33,11 @@
     },
     {
       "type": "page-title",
-      "title": "CONFIRA MAIS"
+      "title": "DESTAQUES"
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
+      "load_more": false
     }
   ]
 }
