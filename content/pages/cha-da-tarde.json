@@ -1,0 +1,84 @@
+{
+  "title": "CHÁ DA TARDE",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/paralacasa1.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 13,
+      "page": 1,
+      "sort": null,
+      "headless": true,
+      "collection_id": "6180479f239b7206d3fc14b9:collections:LINHA CERÂMICA BAMBU:/linha-ceramica-bambu"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/16.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": null,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/18.jpg"
+        },
+        {
+          "img": "/img/uploads/17.jpg"
+        }
+      ]
+    },
+    {
+      "type": "page-title",
+      "title": "MAIS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/19.jpg"
+        },
+        {
+          "img": "/img/uploads/15.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185c359239b7206d30256da:collections:TAÇAS ILHÉUS:/tacas-ilheus"
+    }
+  ],
+  "body": "Lorem ipsum congue ultrices litora morbi vehicula donec, class nec himenaeos rhoncus mollis faucibus risus, tincidunt nibh taciti rutrum ante iaculis. condimentum potenti venenatis dolor eget congue id sem volutpat id, habitant diam eu ut cursus egestas nec vulputate, auctor sociosqu eget litora ornare imperdiet auctor aliquam. pharetra cubilia torquent conubia semper orci in consectetur ullamcorper nisi, ad scelerisque quis leo mattis sodales nullam mollis. congue nostra morbi adipiscing nunc sit dui nunc duis accumsan sem euismod, leo nisl ante eget neque pharetra duis vehicula metus. cras donec at inceptos non himenaeos arcu facilisis praesent pellentesque, placerat netus porttitor nam pellentesque litora lectus integer. \n\n```\n\n```"
+}
