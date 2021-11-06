@@ -12,16 +12,6 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "DESTAQUES"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
