@@ -30,14 +30,6 @@
           "link": "https://paralacasa.netlify.app/eme"
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": "DESTAQUES"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false
     }
   ]
 }
