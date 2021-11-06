@@ -1,5 +1,5 @@
 {
-  "title": "COLEÇÃO OLINDA",
+  "title": "CAFÉ DA MANHÃ - COLEÇÃO OLINDA",
   "sections": [
     {
       "type": "responsive-banner",
@@ -14,7 +14,7 @@
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "sort": "news",
+      "sort": null,
       "headless": true,
       "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
     },
@@ -22,11 +22,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner212.jpg",
+          "img": "/img/uploads/2.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner212.jpg"
+          "img": "/img/uploads/3.jpg"
         }
       ]
     },
@@ -36,20 +36,17 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": "views",
-      "collection_id": "6180479f239b7206d3fc14b9:collections:LINHA CERÂMICA BAMBU:/linha-ceramica-bambu"
+      "sort": null,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/trio.jpg"
+          "img": "/img/uploads/4.jpg"
         },
         {
-          "img": "/img/uploads/trio.jpg"
-        },
-        {
-          "img": "/img/uploads/trio.jpg"
+          "img": "/img/uploads/5.jpg"
         }
       ]
     },
@@ -63,6 +60,23 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:EME:/eme"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/6.jpg"
+        },
+        {
+          "img": "/img/uploads/7.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ],
   "body": "Lorem ipsum congue ultrices litora morbi vehicula donec, class nec himenaeos rhoncus mollis faucibus risus, tincidunt nibh taciti rutrum ante iaculis. condimentum potenti venenatis dolor eget congue id sem volutpat id, habitant diam eu ut cursus egestas nec vulputate, auctor sociosqu eget litora ornare imperdiet auctor aliquam. pharetra cubilia torquent conubia semper orci in consectetur ullamcorper nisi, ad scelerisque quis leo mattis sodales nullam mollis. congue nostra morbi adipiscing nunc sit dui nunc duis accumsan sem euismod, leo nisl ante eget neque pharetra duis vehicula metus. cras donec at inceptos non himenaeos arcu facilisis praesent pellentesque, placerat netus porttitor nam pellentesque litora lectus integer. \n\n```\n\n```"
