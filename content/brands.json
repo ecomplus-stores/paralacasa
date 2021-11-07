@@ -8,7 +8,7 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
@@ -17,7 +17,7 @@
       "sort": "sales"
     },
     {
-      "type": "document-description",
+      "type": "blog",
       "enabled": true
     }
   ]
