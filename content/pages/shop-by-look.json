@@ -7,6 +7,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
+          "img": "/img/uploads/1.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/15.jpg"
     },
