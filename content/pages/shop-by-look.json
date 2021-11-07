@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/17.jpg"
+      "img": "/img/uploads/bannertopo.jpg",
+      "mobile_img": "/img/uploads/bannertopo-mobile.jpg"
     },
     {
       "type": "extra-page",
@@ -26,10 +27,6 @@
           "img": "/img/uploads/1.jpg"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/15.jpg"
     },
     {
       "type": "collection-shelf",
@@ -56,5 +53,5 @@
       "sort": "views"
     }
   ],
-  "body": "# SHOP BY LOOK \n\n\n\nLorem ipsum placerat auctor conubia sodales fermentum gravida fermentum eros fringilla, netus non vitae pretium malesuada eleifend felis lobortis accumsan, etiam in orci hac venenatis convallis dictum ante phasellus. urna hac pulvinar per nec nisi quisque aptent vitae nisl mi aenean, aliquet fermentum orci elit cubilia proin malesuada habitasse auctor senectus. nibh aliquam orci justo ornare cubilia bibendum mattis, vivamus nisl massa purus ut in sapien molestie, habitant malesuada ut cras luctus libero. cursus ipsum potenti auctor lectus molestie nisi sodales lectus sed, venenatis erat nunc lorem congue nisi suspendisse varius mattis ultricies, vehicula ultricies platea imperdiet tellus per maecenas interdum."
+  "body": "# SHOP BY LOOK\n\nLorem ipsum placerat auctor conubia sodales fermentum gravida fermentum eros fringilla, netus non vitae pretium malesuada eleifend felis lobortis accumsan, etiam in orci hac venenatis convallis dictum ante phasellus. urna hac pulvinar per nec nisi quisque aptent vitae nisl mi aenean, aliquet fermentum orci elit cubilia proin malesuada habitasse auctor senectus. nibh aliquam orci justo ornare cubilia bibendum mattis, vivamus nisl massa purus ut in sapien molestie, habitant malesuada ut cras luctus libero. cursus ipsum potenti auctor lectus molestie nisi sodales lectus sed, venenatis erat nunc lorem congue nisi suspendisse varius mattis ultricies, vehicula ultricies platea imperdiet tellus per maecenas interdum.\n\n![]()"
 }
