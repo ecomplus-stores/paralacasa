@@ -1,6 +1,29 @@
 {
-  "title": "Dúvidas frequentes",
-  "meta_title": "Dúvidas frequentes",
-  "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "FRETE E FORMAS DE ENVIO ",
+  "meta_title": "FRETE E FORMAS DE ENVIO ",
+  "meta_description": "FRETE E FORMAS DE ENVIO ",
+  "body": "<!--StartFragment-->\n\n**ParaLaCasa** possui parceiros logísticos em constante trabalho conjunto para oferecer as melhores condições de custo e entrega dentro do prazo estabelecido no momento da compra. Os valores irão variar de acordo a localidade e a cubagem da encomenda. Ao indicar o CEP a calculadora irá mostrar os custos referentes ao valor da entrega no endereço especificado. A transportadora fará 03 (três) tentativas de entrega em dias úteis seguidos, após este período não conseguindo entregar a encomenda, esta estará disponível na agência dos correios mais próxima do endereço do destinatário durante 07 (sete) dias corridos, após este período a encomenda será devolvida ao remetente, para ser reenviada será necessário pagar novamente o valor do frete.\\\nAs encomendas serão entregues de **segunda à sexta feira das 8:00 às 17:00h**.\\\nDúvidas entre em contato através do e-mail **paralacasa@uol.com.br** ou<!--StartFragment-->\n\n* [ LIGUE AGORA (11) 99959-1322](https://api.whatsapp.com/send?1=pt_BR&phone=55011999591322 \"Clique aqui e fale via whatsapp \") \n\n<!--EndFragment-->\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "618837c8239b7206d303d1f5:collections:NOVIDADES:/novidades",
+      "sort": "news",
+      "title": "NOVIDADES EM DESTAQUE",
+      "link": "https://paralacasa.netlify.app/novidades"
+    }
+  ]
 }
