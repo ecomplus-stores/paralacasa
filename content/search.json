@@ -6,12 +6,12 @@
     },
     {
       "type": "page-title",
-      "title": "CONFIRA AS NOVIDADES"
+      "title": "VEJA DESTAQUES"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "views"
     }
   ]
 }
