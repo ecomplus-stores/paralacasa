@@ -1,0 +1,39 @@
+{
+  "title": "SHOP BY LOOK ",
+  "meta_title": "SHOP BY LOOK ",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/15.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW ARRIVING:/new-arriving",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde",
+      "sort": "views"
+    }
+  ],
+  "body": "# SHOP BY LOOK \n\n\n\nLorem ipsum placerat auctor conubia sodales fermentum gravida fermentum eros fringilla, netus non vitae pretium malesuada eleifend felis lobortis accumsan, etiam in orci hac venenatis convallis dictum ante phasellus. urna hac pulvinar per nec nisi quisque aptent vitae nisl mi aenean, aliquet fermentum orci elit cubilia proin malesuada habitasse auctor senectus. nibh aliquam orci justo ornare cubilia bibendum mattis, vivamus nisl massa purus ut in sapien molestie, habitant malesuada ut cras luctus libero. cursus ipsum potenti auctor lectus molestie nisi sodales lectus sed, venenatis erat nunc lorem congue nisi suspendisse varius mattis ultricies, vehicula ultricies platea imperdiet tellus per maecenas interdum."
+}
