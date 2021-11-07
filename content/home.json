@@ -46,8 +46,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-788-x-518-px-7-.jpg",
-          "link": "https://paralacasa.netlify.app/eme"
+          "img": "/img/uploads/e-com-plus-788-x-518-px-2-.jpg",
+          "link": "https://paralacasa.netlify.app/colecao-eme"
         },
         {
           "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg"
@@ -55,23 +55,19 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "title": "DESTAQUES DO MÊS",
-      "link": "https://paralacasa.netlify.app/novidades"
+      "type": "page-title",
+      "title": "Seu Mood para sua Casa ",
+      "description": "Conheça os Destaques que separamos para você "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "ESPECIAL NOVEMBRO ",
-      "link": "https://paralacasa.netlify.app/pages/shop-by-look"
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
+      "sort": "news",
+      "title": "VEJA NOVIDADES",
+      "link": "https://paralacasa.netlify.app/bordallo-pinheiro-ceramica"
     },
     {
       "type": "banners-grid",
