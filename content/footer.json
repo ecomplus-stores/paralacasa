@@ -4,7 +4,7 @@
     "text": "ParaLaCasa nasce com a determinação de oferecer um mix de produtos em utilidades domésticas, louças e itens de decoração que reflitam um estilo pessoal."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "INFORMAÇÕES",
     "list": [
       {
@@ -22,7 +22,7 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "MAIS",
     "list": [
       {
