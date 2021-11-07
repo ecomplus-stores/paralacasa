@@ -8,10 +8,6 @@
   "meta_description": "164 PALAVRAS",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/16.jpg"
-    },
-    {
       "type": "blog-post",
       "enabled": true
     },
