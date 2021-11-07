@@ -3,6 +3,10 @@
   "meta_title": "SHOP BY LOOK ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/17.jpg"
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
