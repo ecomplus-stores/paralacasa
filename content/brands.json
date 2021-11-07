@@ -17,6 +17,10 @@
       "sort": "sales"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://paralacasa.netlify.app/blog\">CONFIRA ARTIGOS DO BLOG</a></h4>"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
