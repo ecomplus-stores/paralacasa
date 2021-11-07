@@ -1,20 +1,46 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "PARA LA CASA",
+    "text": "ParaLaCasa nasce com a determinação de oferecer um mix de produtos em utilidades domésticas, louças e itens de decoração que reflitam um estilo pessoal."
   },
   "links_1": {
     "list_pages": false,
-    "title": "Páginas",
-    "list": []
+    "title": "INFORMAÇÕES",
+    "list": [
+      {
+        "text": "CONTATO"
+      },
+      {
+        "text": "FRETE"
+      },
+      {
+        "text": "PAGAMENTO"
+      },
+      {
+        "text": "PRAZO DE ENTREGA"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categorias",
-    "list": []
+    "title": "MAIS",
+    "list": [
+      {
+        "text": "SOBRE NÓS"
+      },
+      {
+        "text": "TROCAS E DEVOLUÇÕES"
+      },
+      {
+        "text": "POLÍTICA DA LOJA "
+      },
+      {
+        "text": "POLÍTICA DE PRIVACIDADE"
+      }
+    ]
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "FALE CONOSCO",
     "phone_wpp": true,
     "socials": true,
     "email": true,
