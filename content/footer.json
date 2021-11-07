@@ -8,7 +8,7 @@
     "title": "INFORMAÇÕES",
     "list": [
       {
-        "text": "CONTATO",
+        "text": "SOBRE NÓS",
         "url": "https://paralacasa.netlify.app/pages/sobre-nos"
       },
       {
@@ -22,16 +22,6 @@
       {
         "text": "PRAZO DE ENTREGA",
         "url": "https://paralacasa.netlify.app/pages/faq"
-      }
-    ]
-  },
-  "links_2": {
-    "list_categories": false,
-    "title": "MAIS",
-    "list": [
-      {
-        "text": "SOBRE NÓS",
-        "url": "https://paralacasa.netlify.app/pages/sobre-nos"
       },
       {
         "text": "TROCAS E DEVOLUÇÕES",
@@ -42,10 +32,15 @@
         "url": "https://paralacasa.netlify.app/pages/privacidade"
       },
       {
-        "text": "BLOG PARA LA CASA",
+        "text": "BLOG PARALACASA",
         "url": "https://paralacasa.netlify.app/blog"
       }
     ]
+  },
+  "links_2": {
+    "list_categories": false,
+    "title": "",
+    "list": []
   },
   "contacts": {
     "title": "FALE CONOSCO",
