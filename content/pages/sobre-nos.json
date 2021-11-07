@@ -19,6 +19,16 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "618837c8239b7206d303d1f5:collections:NOVIDADES:/novidades",
+      "sort": "news",
+      "title": "NOVIDADES EM DESTAQUE",
+      "link": "https://paralacasa.netlify.app/novidades"
     }
   ]
 }
