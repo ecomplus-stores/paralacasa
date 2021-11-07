@@ -8,16 +8,20 @@
     "title": "INFORMAÇÕES",
     "list": [
       {
-        "text": "CONTATO"
+        "text": "CONTATO",
+        "url": "https://paralacasa.netlify.app/pages/sobre-nos"
       },
       {
-        "text": "FRETE"
+        "text": "FRETE",
+        "url": "https://paralacasa.netlify.app/pages/faq"
       },
       {
-        "text": "PAGAMENTO"
+        "text": "PAGAMENTO",
+        "url": "https://paralacasa.netlify.app/pages/pagamentos"
       },
       {
-        "text": "PRAZO DE ENTREGA"
+        "text": "PRAZO DE ENTREGA",
+        "url": "https://paralacasa.netlify.app/pages/faq"
       }
     ]
   },
@@ -26,13 +30,16 @@
     "title": "MAIS",
     "list": [
       {
-        "text": "SOBRE NÓS"
+        "text": "SOBRE NÓS",
+        "url": "https://paralacasa.netlify.app/pages/sobre-nos"
       },
       {
-        "text": "TROCAS E DEVOLUÇÕES"
+        "text": "TROCAS E DEVOLUÇÕES",
+        "url": "https://paralacasa.netlify.app/pages/trocas"
       },
       {
-        "text": "POLÍTICA DA LOJA | PRIVACIDADE"
+        "text": "POLÍTICA DA LOJA | PRIVACIDADE",
+        "url": "https://paralacasa.netlify.app/pages/privacidade"
       },
       {
         "text": "BLOG PARA LA CASA",
