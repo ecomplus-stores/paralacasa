@@ -30,11 +30,11 @@
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-colecao-cafe-da-tarde-527-x-515-px.jpg",
-          "link": "https://paralacasa.netlify.app/admin/#/collections/extra-pages/entries/cha-da-tarde"
+          "link": "https://paralacasa.netlify.app/pages/shop-by-look"
         },
         {
           "img": "/img/uploads/ecom-plus-colecao-blue-and-white-527-x-515-px.jpg",
-          "link": "https://paralacasa.netlify.app/organizar/"
+          "link": "https://paralacasa.netlify.app/pages/shop-by-look"
         },
         {
           "img": "/img/uploads/ecom-plus-home-527-x-515-px-6-.jpg",
@@ -50,7 +50,8 @@
           "link": "https://paralacasa.netlify.app/colecao-eme"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg"
+          "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg",
+          "link": "https://paralacasa.netlify.app/vista-alegre"
         }
       ]
     },
@@ -69,14 +70,15 @@
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-home-527-x-515-px-9-.jpg",
-          "link": "https://paralacasa.netlify.app/faqueiros/"
+          "link": "https://paralacasa.netlify.app/potes-hermeticos/"
         },
         {
           "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg",
-          "link": "https://paralacasa.netlify.app/vista-alegre"
+          "link": "https://paralacasa.netlify.app/organizar/"
         },
         {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg"
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg",
+          "link": "https://paralacasa.netlify.app/jogos-americanos/"
         }
       ]
     }
