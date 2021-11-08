@@ -15,16 +15,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg"
         },
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/2.jpg"
         },
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/fibras-naturais.jpg"
         },
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/blue-and-white.jpg"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
       "sort": "views"
     },
     {
@@ -49,7 +49,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde",
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
       "sort": "views"
     }
   ],
