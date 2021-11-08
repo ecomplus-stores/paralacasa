@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "INFORMAÇÕES",
+    "title": "SAIBA MAIS",
     "list": [
       {
         "text": "SOBRE NÓS",
@@ -16,7 +16,7 @@
         "url": "https://paralacasa.netlify.app/pages/faq"
       },
       {
-        "text": "PAGAMENTO",
+        "text": " FORMAS DE PAGAMENTO",
         "url": "https://paralacasa.netlify.app/pages/pagamentos"
       },
       {
@@ -28,7 +28,7 @@
         "url": "https://paralacasa.netlify.app/pages/trocas"
       },
       {
-        "text": "POLÍTICA DA LOJA | PRIVACIDADE",
+        "text": "POLÍTICA DA LOJA  |  PRIVACIDADE",
         "url": "https://paralacasa.netlify.app/pages/privacidade"
       },
       {
@@ -43,7 +43,7 @@
     "list": []
   },
   "contacts": {
-    "title": "FALE CONOSCO",
+    "title": "ENTRE EM CONTATO",
     "phone_wpp": true,
     "socials": true,
     "email": true,
