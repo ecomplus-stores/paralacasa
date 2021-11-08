@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil."
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas compras no cartão"
+    "text": "Parcele suas compras em até 6x no cartão de crédito."
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": ""
   }
 }
