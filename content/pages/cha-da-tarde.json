@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/paralacasa1.jpg"
+      "img": "/img/uploads/17.jpg"
     },
     {
       "type": "extra-page",
@@ -16,7 +16,7 @@
       "page": 1,
       "sort": null,
       "headless": true,
-      "collection_id": "6180479f239b7206d3fc14b9:collections:LINHA CERÂMICA BAMBU:/linha-ceramica-bambu"
+      "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu"
     },
     {
       "type": "banners-grid",
@@ -46,13 +46,14 @@
           "img": "/img/uploads/18.jpg"
         },
         {
-          "img": "/img/uploads/17.jpg"
+          "img": "/img/uploads/16.jpg"
         }
       ]
     },
     {
       "type": "page-title",
-      "title": "MAIS"
+      "title": "Chá da Tarde.",
+      "description": "Tudo fresh para este chá no meio da tarde !"
     },
     {
       "type": "collection-shelf",
