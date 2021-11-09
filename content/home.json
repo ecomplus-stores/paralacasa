@@ -1,6 +1,6 @@
 {
-  "meta_title": "ParaLaCasa - Décor | Design | Mesa Posta ",
-  "meta_description": "Compre Online produtos com qualidade, design e tendências para decorar sua Casa. Produtos a Pronta Entrega para Todo Brasil",
+  "meta_title": "PARA la CASA - Décor | Design | Tableware",
+  "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
       "type": "banners-grid",
@@ -60,10 +60,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618837c8239b7206d303d1f5:collections:NOVIDADES:/novidades",
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
-      "title": "VEJA NOVIDADES",
-      "link": "https://paralacasa.netlify.app/novidades"
+      "title": "NEW",
+      "link": "https://paralacasa.netlify.app/new"
     },
     {
       "type": "banners-grid",
