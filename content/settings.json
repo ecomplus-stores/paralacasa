@@ -8,17 +8,17 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/paralacasa",
-  "logo": "/img/uploads/logo-preto-150x100px.png",
+  "logo": "/img/uploads/logo-novo-para-la-casa.png",
   "name": "ParaLaCasa",
   "short_name": "ParaLaCasa",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo-preto-150x100px.png",
+  "favicon": "/img/uploads/logoapp.jpg",
   "country_code": "BR",
   "secondary_color": "#636363",
-  "icon": "/img/uploads/logo-preto-150x100px.png",
+  "icon": "/img/uploads/logoapp.jpg",
   "store_id": 11908,
   "description": "ParaLaCasa nasce com a determinação de oferecer um mix de produtos em utilidades domésticas, louças e itens de decoração que reflitam um estilo pessoal.",
-  "large_icon": "/img/uploads/logo-preto-150x100px.png"
+  "large_icon": "/img/uploads/logoapp.jpg"
 }
