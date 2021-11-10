@@ -6,6 +6,10 @@
       "img": "/img/uploads/paralacasa1.jpg"
     },
     {
+      "type": "page-title",
+      "title": ""
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
@@ -49,10 +53,6 @@
           "img": "/img/uploads/5.jpg"
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": ""
     },
     {
       "type": "collection-shelf",
