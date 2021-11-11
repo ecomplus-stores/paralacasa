@@ -1,0 +1,93 @@
+{
+  "title": "BLUE and WHITE",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-fibras-naturais-1576-x-1136-7-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 13,
+      "page": 1,
+      "sort": null,
+      "headless": true,
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-prato.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-frente.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": null,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-vaso.jpg"
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-bandeja.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-argola.jpg"
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-cesto.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios"
+    }
+  ],
+  "body": "## FIBRAS NATURAIS\n\n## O azul e branco está presente desde sempre em nossas produções, um clássico para todos os momentos, chic e atemporal veste bem os mais variados tipos de mesa, aqui o royal em harmonia com tons brancos e off white.",
+  "meta_title": "FIBRAS NATURAIS",
+  "meta_description": "Uma seleção de produtos artesanais em fibra natural para compor o almoço."
+}
