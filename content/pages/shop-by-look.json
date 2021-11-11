@@ -15,7 +15,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg"
+          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
+          "link": "https://paralacasa.netlify.app/pages/colecao-olinda"
         },
         {
           "img": "/img/uploads/2.jpg"
