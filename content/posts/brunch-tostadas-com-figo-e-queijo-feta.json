@@ -1,0 +1,37 @@
+{
+  "date": "2021-11-11T22:29:08.694Z",
+  "title": "BRUNCH - TOSTADAS COM FIGO E QUEIJO FETA.",
+  "body": "\n\n## BRUNCH \n\nPara um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !\n\n\nMas, o que é Brunch?\n\n\nNada mais é do que, a junção do café da manhã (breakfast) com o almoço (lunch), a origem é inglesa, mas se adapta a qualquer continente. Tarde demais para o café e cedo demais para o almoço, daí entra o brunch e entra também essa mistura de sabores e permissões, cafés, frutas, geleias, pães, tostados, frios, tortas, ovos etc...\n\n\nPara inspirar, segue sugestão de tostada rápida, fácil e saborosa.\n\n\n\n**TOSTADAS COM FIGO E QUEIJO FETA**\n\n\nIngredientes\n\n* fatias de pão italiano\n* presunto crú\n* queijo feta\n* figos\n* cebola\n* alho\n  -azeite\n* verdura\n  PREPARO\n  Leve ao fogo uma cebola cortada em rodelas finas, refogue no azeite até dourar. Não deix queimar. Reserve.\n  Leve uma prancha ao fogo e levemente pincele com azeite, coloque umas fatias de pão para aquecer e tomar cor, uma vez terminado, esfregue sobre as fatias o dente de alho crú para dar sabor. Reserve.\n  Monte as tostadas, colocando as cebolas sobre o pão, e logo depois os demais ingredientes, queijo feta, presunto crú, figos, regue com azeite, sal e pimenta do reino. \n  Finalize com algumas folhas de verdura de sua preferência.",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/brunch-figo-lat-dir.jpg"
+        },
+        {
+          "img": "/img/uploads/brunch-figo-lat-esq.jpg"
+        }
+      ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Brunch - tostada com figo e queijo feta.",
+      "description": "Para um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    }
+  ]
+}
