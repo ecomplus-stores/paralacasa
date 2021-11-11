@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-fibras-naturais-1576-x-1136-7-.jpg"
+      "img": "/img/uploads/ecom-plus-blue-and-white-1576-x-1136-7-.jpg"
     },
     {
       "type": "extra-page",
@@ -26,11 +26,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fibras-naturais-prato.jpg",
+          "img": "/img/uploads/blue-and-white-lat-dir-7-.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/fibras-naturais-frente.jpg"
+          "img": "/img/uploads/blue-and-white-lat-dir-6-.jpg"
         }
       ]
     },
@@ -47,10 +47,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fibras-naturais-vaso.jpg"
+          "img": "/img/uploads/blue-and-white-lat-dir-4-.jpg"
         },
         {
-          "img": "/img/uploads/fibras-naturais-bandeja.jpg"
+          "img": "/img/uploads/blue-and-white-lat-dir-3-.jpg"
         }
       ]
     },
@@ -65,10 +65,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fibras-naturais-argola.jpg"
+          "img": "/img/uploads/blue-and-white-lat-dir-1-.jpg"
         },
         {
-          "img": "/img/uploads/fibras-naturais-cesto.jpg"
+          "img": "/img/uploads/blue-and-white-horiz.jpg"
         }
       ]
     },
