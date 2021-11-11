@@ -59,7 +59,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -77,7 +78,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU - Coleção Olinda:/bambu-colecao-olinda"
+      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU - Coleção Olinda:/bambu-colecao-olinda",
+      "headless": true
     }
   ],
   "body": "## A Coleção Olinda foi nosso ponto de partida para esta produção de café da manhã, as peças são artesanais, feitas à mão em porcelana, uma a uma, cada peça é única e isso é o que encanta e valoriza cada uma delas. Para compor com as formas orgânicas e o tom celadon, escolhemos nossas peças em bambu, celadon e bambu são o novo \"must have\", já um clássico aqui no PARA la CASA, os tons neutros complementam a composição.",
