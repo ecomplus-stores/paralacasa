@@ -20,7 +20,7 @@
       "page": 1,
       "sort": null,
       "headless": true,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro"
     },
     {
       "type": "banners-grid",
@@ -59,7 +59,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+      "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu"
     },
     {
       "type": "banners-grid",
