@@ -34,7 +34,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofadas"
     }
   ]
 }
