@@ -1,0 +1,86 @@
+{
+  "title": "FIBRAS NATURAIS",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fibras-naturais-prato.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 13,
+      "page": 1,
+      "sort": null,
+      "headless": true,
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-prato.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-frente.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": null,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-vaso.jpg"
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-bandeja.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fibras-naturais-argola.jpg"
+        },
+        {
+          "img": "/img/uploads/fibras-naturais-cesto.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU - Coleção Olinda:/bambu-colecao-olinda"
+    }
+  ],
+  "body": "\n\nUma seleção de peças em fibras naturais, bambus e cerâmicas artesanais compondo esta proposta para um almoço leve e descontraído com um ar rústico e chic !",
+  "meta_title": "CAFÉ DA MANHÃ - COLEÇÃO OLINDA",
+  "meta_description": "Componha sua Mesa de Café da Manhã com produtos selecionados por Para la Casa, cada peça é única e isso é o que encanta e valoriza cada uma delas."
+}
