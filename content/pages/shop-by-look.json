@@ -3,11 +3,6 @@
   "meta_title": "SHOP BY LOOK ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bannertopo.jpg",
-      "mobile_img": "/img/uploads/bannertopo-mobile.jpg"
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
@@ -55,5 +50,5 @@
       "sort": "views"
     }
   ],
-  "body": "# SHOP BY LOOK\n\nLorem ipsum placerat auctor conubia sodales fermentum gravida fermentum eros fringilla, netus non vitae pretium malesuada eleifend felis lobortis accumsan, etiam in orci hac venenatis convallis dictum ante phasellus. urna hac pulvinar per nec nisi quisque aptent vitae nisl mi aenean, aliquet fermentum orci elit cubilia proin malesuada habitasse auctor senectus. nibh aliquam orci justo ornare cubilia bibendum mattis, vivamus nisl massa purus ut in sapien molestie, habitant malesuada ut cras luctus libero. cursus ipsum potenti auctor lectus molestie nisi sodales lectus sed, venenatis erat nunc lorem congue nisi suspendisse varius mattis ultricies, vehicula ultricies platea imperdiet tellus per maecenas interdum.\n\n![]()"
+  "body": "## \nCompartilhando as produções, apostas e escolhas, aqui o nosso olhar sobre as peças e como usá-las em nossas casas.\n\n![]()"
 }
