@@ -8,6 +8,17 @@
   "meta_description": "Em linhas gerais, um pequeno roteiro para o faça você mesmo, quando o assunto é repaginar estantes e nichos.",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.jpg"
+        },
+        {
+          "img": "/img/uploads/1.jpg"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
