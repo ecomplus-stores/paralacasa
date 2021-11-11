@@ -7,11 +7,34 @@
   "meta_title": " ALMOFADAS !! NOSSA INSPIRAÇÃO DE HOJE !",
   "sections": [
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/almofadas-fren.jpg"
+        },
+        {
+          "img": "/img/uploads/almofadas-lat.jpg"
+        }
+      ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": " ALMOFADAS !! NOSSA INSPIRAÇÃO DE HOJE !",
+      "description": "Essenciais para arrematar qualquer decoração, as almofadas nos remetem sempre a momentos de descanso com pitadas de conforto."
     },
     {
       "type": "blog-post",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
