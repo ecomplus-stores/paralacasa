@@ -1,0 +1,59 @@
+{
+  "title": "SHOP BY LOOK ",
+  "meta_title": "SHOP BY LOOK ",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannertopo.jpg",
+      "mobile_img": "/img/uploads/bannertopo-mobile.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
+          "link": "https://paralacasa.netlify.app/pages/colecao-olinda"
+        },
+        {
+          "img": "/img/uploads/2.jpg",
+          "link": "https://paralacasa.netlify.app/pages/cha-da-tarde"
+        },
+        {
+          "img": "/img/uploads/fibras-naturais.jpg"
+        },
+        {
+          "img": "/img/uploads/blue-and-white.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW ARRIVING:/new-arriving",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
+      "sort": "views"
+    }
+  ],
+  "body": "# SHOP BY LOOK\n\nLorem ipsum placerat auctor conubia sodales fermentum gravida fermentum eros fringilla, netus non vitae pretium malesuada eleifend felis lobortis accumsan, etiam in orci hac venenatis convallis dictum ante phasellus. urna hac pulvinar per nec nisi quisque aptent vitae nisl mi aenean, aliquet fermentum orci elit cubilia proin malesuada habitasse auctor senectus. nibh aliquam orci justo ornare cubilia bibendum mattis, vivamus nisl massa purus ut in sapien molestie, habitant malesuada ut cras luctus libero. cursus ipsum potenti auctor lectus molestie nisi sodales lectus sed, venenatis erat nunc lorem congue nisi suspendisse varius mattis ultricies, vehicula ultricies platea imperdiet tellus per maecenas interdum.\n\n![]()"
+}
