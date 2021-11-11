@@ -167,7 +167,7 @@ const contacts = _.cms('contacts') || {}
               <% if (footer.payment_methods[method]) { %>
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
-            <% }) %>
+            <% }) %> Pague suas compras no cartão de crédito ou boleto bancário
           </p>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
@@ -191,5 +191,5 @@ const contacts = _.cms('contacts') || {}
     </div>
   </div>
 </footer>
-
+<a href="https://alyma.com.br" target="_blank" alt="Layout e Diagramação">Alyma</a>
 <%- await include('@/layout/inc/ecom-credits') %>
