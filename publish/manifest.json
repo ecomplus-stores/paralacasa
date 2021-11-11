@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.fdae54d52e8c70c838e6c41b23e9d098.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.a50951abf40f0a4d2d377a32e533c23c.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.67c03e19a60b49ff3732b031e1014e85.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d12ca745d09e96715cb4d024a4472d65.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.55728fc4b99d0b9f5c6db16436b3bba4.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Para la Casa",
+  "short_name": "Para la Casa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "PARA la CASA, Shop on line de tableware e décor, conta desde o início com uma curadoria cuidadosa na escolha das suas peças, em nosso acervo, marcas nacionais e importadas convivem com a arte de artesãos locais, através de produções autorais mostramos o nosso olhar sobre a estética e a maneira como vivenciamos nossa casa.",
+  "background_color": "#ffffff",
+  "theme_color": "#393d47"
+}
