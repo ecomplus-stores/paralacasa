@@ -85,7 +85,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios"
+      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios",
+      "headless": true
     }
   ],
   "body": "## BLUE and WHITE\n\n## O azul e branco está presente desde sempre em nossas produções, um clássico para todos os momentos, chic e atemporal veste bem os mais variados tipos de mesa, aqui o royal em harmonia com tons brancos e off white.",
