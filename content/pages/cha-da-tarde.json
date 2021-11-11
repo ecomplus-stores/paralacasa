@@ -10,6 +10,10 @@
       "enabled": true
     },
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 13,
@@ -17,6 +21,15 @@
       "sort": null,
       "headless": true,
       "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": null,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde"
     },
     {
       "type": "banners-grid",
@@ -29,15 +42,6 @@
           "img": "/img/uploads/16.jpg"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "headless": true,
-      "sort": null,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde"
     },
     {
       "type": "banners-grid",
