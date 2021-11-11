@@ -60,7 +60,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis"
+      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -78,7 +79,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185c359239b7206d30256da:collections:TAÇAS ILHÉUS:/tacas-ilheus"
+      "collection_id": "6185c359239b7206d30256da:collections:TAÇAS ILHÉUS:/tacas-ilheus",
+      "headless": true
     }
   ],
   "body": "Tudo fresh para este chá no meio da tarde !\n\nVanilla, nosso jogo americano com franjinhas deu o tom e nos inspirou uma atmosfera fluida, com tons pastéis, fibras naturais, bambus e transparências.\n\nUm vaso de flores despretensioso, em tons pálidos de rosa completou o cenário\n\n```\n\n```"
