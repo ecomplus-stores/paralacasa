@@ -77,7 +77,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU - Coleção Olinda:/bambu-colecao-olinda"
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ],
   "body": "\n\nUma seleção de peças em fibras naturais, bambus e cerâmicas artesanais compondo esta proposta para um almoço leve e descontraído com um ar rústico e chic !",
