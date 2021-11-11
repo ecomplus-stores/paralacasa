@@ -10,10 +10,6 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 13,
