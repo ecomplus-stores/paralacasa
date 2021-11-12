@@ -18,7 +18,7 @@
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "sort": null,
+      "sort": "news",
       "headless": true,
       "collection_id": "618d7cb90c7c7272257c8a88:collections:SAGRES:/sagres"
     },
@@ -40,7 +40,7 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": null,
+      "sort": "news",
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
     },
     {
@@ -60,7 +60,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "618d7bdc0c7c7272257c8615:collections:BLUE AND WHITE:/blue-and-white",
-      "headless": true
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -79,10 +80,11 @@
       "limit": 12,
       "page": 1,
       "collection_id": "618d7c620c7c7272257c8821:collections:TAÇAS AZUIS:/tacas-azuis",
-      "headless": true
+      "headless": true,
+      "sort": "news"
     }
   ],
-  "body": "## BLUE and WHITE\n\n## O azul e branco está presente desde sempre em nossas produções, um clássico para todos os momentos, chic e atemporal veste bem os mais variados tipos de mesa, aqui o royal em harmonia com tons brancos e off white.",
-  "meta_title": "FIBRAS NATURAIS",
-  "meta_description": "Uma seleção de produtos artesanais em fibra natural para compor o almoço."
+  "body": "## BLUE and WHITE\n\nO azul e branco está presente desde sempre em nossas produções, um clássico para todos os momentos, chic e atemporal veste bem os mais variados tipos de mesa, aqui o royal em harmonia com tons brancos e off white.",
+  "meta_title": "BLUE and WHITE",
+  "meta_description": "O azul e branco está presente desde sempre em nossas produções, um clássico para todos os momentos, chic e atemporal veste bem os mais variados tipos de mesa"
 }
