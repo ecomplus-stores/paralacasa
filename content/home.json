@@ -77,16 +77,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-9-.jpg",
-          "link": "https://paralacasa.netlify.app/potes-hermeticos/"
+          "img": "/img/uploads/home-organizar-categ-blog-rodape.jpg",
+          "link": "https://paralacasa.com.br/potes-hermeticos/",
+          "alt": "Potes Herméticos "
         },
         {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-10-.jpg",
-          "link": "https://paralacasa.netlify.app/organizar/"
+          "img": "/img/uploads/home-copa-categ-blog-rodape.jpg",
+          "link": "https://paralacasa.com.br/organizar/",
+          "alt": "Para Organizar confira"
         },
         {
-          "img": "/img/uploads/ecom-plus-home-jg-americano-527-x-515-px.jpg",
-          "link": "https://paralacasa.netlify.app/jogos-americanos/"
+          "img": "/img/uploads/home-jg-americ-categoria-blog-rodape.jpg",
+          "link": "https://paralacasa.com.br/jogos-americanos/",
+          "alt": "Jogos Americanos, vem conferir"
         }
       ]
     }
