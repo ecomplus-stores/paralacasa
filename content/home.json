@@ -8,7 +8,8 @@
         {
           "img": "/img/uploads/paralacasa1.jpg",
           "mobile_img": "",
-          "link": "https://paralacasa.netlify.app/colecao-olinda"
+          "link": "https://paralacasa.com.br/colecao-olinda",
+          "alt": "Coleção Olinda"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "banners": [
         {
           "img": "/img/uploads/paralacasa-mobile1.jpg",
-          "link": "https://paralacasa.netlify.app/bambu/"
+          "link": "https://paralacasa.com.br/bambu/",
+          "alt": "Bambu - Veja Todos"
         },
         {
           "img": "/img/uploads/paralacasa-home2.3.jpg",
-          "link": "https://paralacasa.netlify.app/bordallo-pinheiro-ceramica"
+          "link": "https://paralacasa.com.br/bordallo-pinheiro-ceramica",
+          "alt": "Bordallo Pinheiro Cerâmica"
         }
       ]
     },
@@ -30,15 +33,18 @@
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-colecao-cafe-da-tarde-527-x-515-px.jpg",
-          "link": "https://paralacasa.netlify.app/pages/cha-da-tarde"
+          "link": "https://paralacasa.com.br/pages/cha-da-tarde",
+          "alt": "Chá da Tarde - Confira o que preparamos para você!"
         },
         {
           "img": "/img/uploads/ecom-plus-colecao-blue-and-white-527-x-515-px.jpg",
-          "link": "https://paralacasa.netlify.app/pages/shop-by-look"
+          "link": "https://paralacasa.com.br/pages/shop-by-look",
+          "alt": "Shop By Look "
         },
         {
           "img": "/img/uploads/brunch-figo-home.jpg",
-          "link": "https://paralacasa.netlify.app/copa/"
+          "link": "https://paralacasa.com.br/copa/",
+          "alt": "Copa - veja aqui "
         }
       ]
     },
@@ -47,11 +53,13 @@
       "banners": [
         {
           "img": "/img/uploads/e-com-plus-788-x-518-px-2-.jpg",
-          "link": "https://paralacasa.netlify.app/colecao-eme"
+          "link": "https://paralacasa.com.br/colecao-eme",
+          "alt": "Coleção Eme"
         },
         {
           "img": "/img/uploads/e-com-plus-home-788-x-518-px-8-.jpg",
-          "link": "https://paralacasa.netlify.app/vista-alegre"
+          "link": "https://paralacasa.com.br/vista-alegre",
+          "alt": "Vista Alegre - Apaixone-se"
         }
       ]
     },
@@ -63,7 +71,7 @@
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
       "title": "NEW",
-      "link": "https://paralacasa.netlify.app/new"
+      "link": "https://paralacasa.com.br/new"
     },
     {
       "type": "banners-grid",
