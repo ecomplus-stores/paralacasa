@@ -18,13 +18,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/home-jg-americ-categoria-blog-rodape.jpg",
+          "link": "https://www.paralacasa.com.br/jogos-americanos",
+          "alt": "Conheça Todos os Jogos Americanos"
         },
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/home-copa-categ-blog-rodape.jpg",
+          "link": "https://www.paralacasa.com.br/copa/",
+          "alt": "Produtos para sua Copa"
         },
         {
-          "img": "/img/uploads/1.jpg"
+          "img": "/img/uploads/home-organizar-categ-blog-rodape.jpg",
+          "link": "https://www.paralacasa.com.br/potes-hermeticos/",
+          "alt": "Potes Organizadores escolha aqui"
         }
       ]
     }
