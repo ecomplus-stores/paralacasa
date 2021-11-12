@@ -18,11 +18,11 @@
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Confira também"
     },
     {
       "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
+      "title": "Recomendamos para você!"
     }
   ]
 }
