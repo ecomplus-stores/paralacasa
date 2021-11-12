@@ -3,7 +3,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-fibras-naturais-1576-x-1136-7-.jpg"
+      "img": "/img/uploads/ecom-plus-fibras-naturais-1576-x-1136-7-.jpg",
+      "alt": "Fibras Naturais"
     },
     {
       "type": "extra-page",
@@ -18,7 +19,7 @@
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "sort": null,
+      "sort": "news",
       "headless": true,
       "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro"
     },
@@ -40,7 +41,7 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": null,
+      "sort": "news",
       "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos"
     },
     {
@@ -60,7 +61,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu",
-      "headless": true
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -79,17 +81,19 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
-      "headless": true
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios"
+      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios",
+      "sort": "news"
     }
   ],
-  "body": "## FIBRAS NATURAIS\n\n## Uma seleção de peças em fibras naturais, bambus e cerâmicas artesanais compondo esta proposta para um almoço leve e descontraído com um ar rústico e chic !",
+  "body": "## FIBRAS NATURAIS\n\nUma seleção de peças em fibras naturais, bambus e cerâmicas artesanais compondo esta proposta para um almoço leve e descontraído com um ar rústico e chic !",
   "meta_title": "FIBRAS NATURAIS",
   "meta_description": "Uma seleção de produtos artesanais em fibra natural para compor o almoço."
 }
