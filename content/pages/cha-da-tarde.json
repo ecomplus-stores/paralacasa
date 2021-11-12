@@ -3,7 +3,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/38.jpg"
+      "img": "/img/uploads/38.jpg",
+      "alt": "Chá da tarde"
     },
     {
       "type": "extra-page",
@@ -14,7 +15,7 @@
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "sort": null,
+      "sort": "news",
       "headless": true,
       "collection_id": "6185c094239b7206d30254b8:collections:CERÂMICA BAMBU:/ceramica-bambu"
     },
@@ -36,8 +37,8 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": null,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - CAFÉ DA TARDE:/bambu-cafe-da-tarde"
+      "sort": "news",
+      "collection_id": "618d3780deb21f68645f3c17:collections:FIBRAS NATURAIS VÁRIOS:/fibras-naturais-varios"
     },
     {
       "type": "banners-grid",
@@ -60,8 +61,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:CAFÉ DA TARDE - TEXTEIS:/cafe-da-tarde-texteis",
-      "headless": true
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -80,8 +82,11 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6185c359239b7206d30256da:collections:TAÇAS ILHÉUS:/tacas-ilheus",
-      "headless": true
+      "headless": true,
+      "sort": "news"
     }
   ],
-  "body": "CHÁ DA TARDE\n\n\n\nTudo fresh para este chá no meio da tarde !\n\nVanilla, nosso jogo americano com franjinhas deu o tom e nos inspirou uma atmosfera fluida, com tons pastéis, fibras naturais, bambus e transparências.\n\nUm vaso de flores despretensioso, em tons pálidos de rosa completou o cenário\n\n```\n\n```"
+  "body": "## CHÁ DA TARDE\n\nTudo fresh para este chá no meio da tarde !\n\nVanilla, nosso jogo americano com franjinhas deu o tom e nos inspirou uma atmosfera fluida, com tons pastéis, fibras naturais, bambus e transparências.\n\nUm vaso de flores despretensioso, em tons pálidos de rosa completou o cenário",
+  "meta_title": "CHÁ DA TARDE",
+  "meta_description": "Vanilla, nosso jogo americano com franjinhas deu o tom e nos inspirou uma atmosfera fluida, com tons pastéis, fibras naturais, bambus e transparências."
 }
