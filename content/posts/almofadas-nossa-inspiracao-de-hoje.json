@@ -10,10 +10,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/almofadas-fren.jpg"
+          "img": "/img/uploads/almofadas-fren.jpg",
+          "link": "https://www.paralacasa.com.br/almofadas/",
+          "alt": "Almofadas"
         },
         {
-          "img": "/img/uploads/almofadas-lat.jpg"
+          "img": "/img/uploads/almofadas-lat.jpg",
+          "link": "https://www.paralacasa.com.br/almofadas/",
+          "alt": "Almofadas "
         }
       ]
     },
@@ -35,7 +39,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofadas"
+      "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofadas",
+      "sort": "news"
     }
   ]
 }
