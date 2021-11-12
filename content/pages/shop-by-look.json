@@ -11,19 +11,19 @@
       "banners": [
         {
           "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
-          "link": "https://paralacasa.netlify.app/pages/colecao-olinda"
+          "link": "https://www.paralacasa.com.br/pages/colecao-olinda"
         },
         {
           "img": "/img/uploads/2.jpg",
-          "link": "https://paralacasa.netlify.app/pages/cha-da-tarde"
+          "link": "https://www.paralacasa.com.br/pages/cha-da-tarde"
         },
         {
           "img": "/img/uploads/fibras-naturais.jpg",
-          "link": "https://paralacasa.netlify.app/pages/fibras-naturais"
+          "link": "https://www.paralacasa.com.br/pages/fibras-naturais"
         },
         {
           "img": "/img/uploads/blue-and-white.jpg",
-          "link": "https://paralacasa.netlify.app/pages/blue-and-white"
+          "link": "https://www.paralacasa.com.br/pages/blue-and-white"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -49,7 +49,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
-      "sort": "views"
+      "sort": "news"
     }
   ],
   "body": "## SHOP by LOOK\n\n\nCompartilhando as produções, apostas e escolhas, aqui o nosso olhar sobre as peças e como usá-las em nossas casas."
