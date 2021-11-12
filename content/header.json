@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Tudo em até 6x sem juros | 5% desconto nas compras à vista  | CUPOM: PRIMEIRACOMPRA para 5% desc na primeira compra.",
-    "link": "https://paralacasa.netlify.app/pages/pagamentos",
+    "link": "https://paralacasa.com.br/pages/pagamentos",
     "background": "#393d47",
     "color": "#ffffff"
   },
@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "ENTRAR | CADASTRAR",
-        "link": "https://paralacasa.netlify.app/app/#/account/"
+        "link": "https://paralacasa.com.br/app/#/account/"
       }
     ],
     "phone_wpp": false,
