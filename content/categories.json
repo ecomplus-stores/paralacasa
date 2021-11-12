@@ -17,17 +17,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/72-compressed.jpg",
+          "img": "/img/uploads/home-jg-americ-categoria-blog-rodape.jpg",
           "mobile_img": "",
-          "link": "https://paralacasa.netlify.app/copa/"
+          "link": "https://paralacasa.com.br/jogos-americanos/",
+          "alt": "Jogos Americanos confira"
         },
         {
-          "img": "/img/uploads/jogos-americanos-4-compressed.jpg",
-          "link": "https://paralacasa.netlify.app/jogos-americanos/"
+          "img": "/img/uploads/home-copa-categ-blog-rodape.jpg",
+          "link": "https://paralacasa.com.br/copa/",
+          "alt": "Copa, veja todos"
         },
         {
-          "img": "/img/uploads/faqueiros-eme-2.jpg",
-          "link": "https://paralacasa.netlify.app/eme"
+          "img": "/img/uploads/home-organizar-categ-blog-rodape.jpg",
+          "link": "https://paralacasa.com.br/potes-hermeticos/",
+          "alt": "Potes Organizadores"
         }
       ]
     }
