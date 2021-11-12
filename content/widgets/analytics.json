@@ -1,7 +1,7 @@
 {
   "pkg": "@ecomplus/widget-analytics",
   "active": true,
-  "desktopOnly": true,
+  "desktopOnly": false,
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "UA-66711395-1"
