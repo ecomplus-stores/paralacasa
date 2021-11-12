@@ -1,0 +1,48 @@
+{
+  "date": "2021-11-12T03:03:14.172Z",
+  "title": "5 REGRAS DE OURO PARA  PRODUÇÃO DE ESTANTES",
+  "thumbnail": "/img/uploads/estante-1-1-.jpg",
+  "description": "Em linhas gerais, um pequeno roteiro para o faça você mesmo, quando o assunto é repaginar estantes e nichos.\n",
+  "body": "## 5 REGRAS DE OURO PARA PRODUÇÃO DE ESTANTES.\n\nEm linhas gerais, um pequeno roteiro para o faça você mesmo, quando o assunto é repaginar estantes e nichos.\n\n1 - EQUILÍBRIO\n\nLembre-se menos é mais ! O mais importante aqui é que haja harmonia entre cores, tamanhos e quantidades de peças.\n\n2 - PROPORÇÃO\n\nLeve em conta o espaço disponível e o tamanho da peça, atente também o tamanho dos objetos que ficarão lado a lado.\n\n3 - ESPAÇAMENTO\n\nEvite acumular objetos nas prateleiras e nichos, tão importante quanto preencher um espaço é saber preservar espaços vazios ao redor das peças escolhidas.\n\n4 - PERSONALIDADE\n\nHome sweet home ! Reserve lugares para fotos, quadros, livros, tudo aquilo que trouxer referência a uma memória afetiva, afinal é desejável que sua casa reflita sua personalidade e conte histórias.\n\n5 - FLORES | PLANTAS\n\nPorque, encantam, prendem o olhar, decoram e trazem a sensação de lar.",
+  "meta_title": "Decoração: 5 REGRAS DE OURO PARA  PRODUÇÃO DE ESTANTES",
+  "meta_description": "Repaginar Estantes e Nicho , confira 5 regras de ouro para decorar agora mesmo.",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/estante-1-1-.jpg",
+          "link": "https://www.paralacasa.com.br/decor/",
+          "alt": "Décor: Prateleiras e Nichos"
+        },
+        {
+          "img": "/img/uploads/estante-2.jpg",
+          "link": "https://www.paralacasa.com.br/decor/",
+          "alt": "Décor: Prateleiras e Nichos"
+        }
+      ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "5 Regras de ouro para produção de estantes.",
+      "description": "Em linhas gerais, um pequeno roteiro para o faça você mesmo, quando o assunto é repaginar estantes e nichos."
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61899ab6239b7206d3056e37:collections:DÉCOR ESTANTES:/decor-estante",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/decor/"
+    }
+  ]
+}
