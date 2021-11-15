@@ -23,7 +23,8 @@
       "/moveis/?MÓVEIS",
       "/decor/?DÉCOR",
       "/cozinha/?COZINHA",
-      "/organizar/?ORGANIZAR"
+      "/organizar/?ORGANIZAR",
+      "/aromas?AROMAS"
     ],
     "random": 7,
     "full_width": true
