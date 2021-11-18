@@ -14,9 +14,9 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 48,
-      "start": "2021-11-11T07:44:37.679Z",
-      "end": "2021-11-30T07:44:37.782Z"
+      "max_hours": 169,
+      "start": "2021-11-22T03:01:37.679Z",
+      "end": "2021-11-29T02:59:37.782Z"
     },
     {
       "type": "dynamic-showcase",
