@@ -9,6 +9,17 @@
       "mobile_img": "/img/uploads/bannertopo-mobile.jpg"
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2021-11-19T15:12:28.348Z",
+      "end": "2021-11-20T15:12:28.375Z",
+      "offers": [
+        "617b494088313d7b95863124",
+        "617b496f88313d7b9586316e",
+        "617b496f88313d7b9586316e"
+      ]
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
