@@ -38,7 +38,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "collection_id": "61899ab6239b7206d3056e37:collections:DÉCOR ESTANTES:/decor-estante",
       "sort": "news",
