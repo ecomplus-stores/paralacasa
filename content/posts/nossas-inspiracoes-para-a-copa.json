@@ -5,10 +5,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/studiomcgee_beckhamproject_197-1-540x395.jpg"
-        },
-        {
-          "img": "/img/uploads/inspirations-copa.jpg"
+          "img": "/img/uploads/inspiracoes-para-a-copa.jpg",
+          "mobile_img": "/img/uploads/inspiracao-para-a-copa.jpg",
+          "link": "https://www.paralacasa.com.br/posts/nossas-inspiracoes-para-a-copa"
         }
       ]
     },
@@ -52,5 +51,6 @@
   "description": "O que levar em conta na hora de decorar este ambiente.",
   "body": "\n\nCOPA | COZINHA\n\nO que levar em conta na hora de decorar este ambiente.\n\n\n\n1- PRATICIDADE \n\nTer ao alcance das mãos objetos do uso diário torna tudo mais prático e se ainda os objetos forem capazes de decorar e mostrar sua personalidade estilo muito melhor!, Deixe à mostra, colheres de pau, jarras charmosas, tábuas de mármore ou madeira, use e abuse dos formatos e tamanhos, exponha suas melhores peças.\n\n2 - INTEGRAÇÃO\n\nA preparação das refeições e a organização  da cozinha, não precisa ser um ato isolado, sempre que possível opte por integrar este ambiente com o restante da casa. Tente usar alguns elementos de cores diferentes, um toque de dourado ou tons mais escuros nos objetos, lustres, puxadores ou até banquetas, trarão charme e personalidade.\n\n3 - ORGANIZAÇÃO\n\nIndispensável para aquela sensação de conforto visual e para agilizar o dia a dia, opte por tons neutros para não interferirem no décor quando o assunto for: potes e cestos.\n\n4 - OBJETOS\n\nAlguns itens de décor podem perfeitamente encontrar morada em nossas prateleiras e bancadas: quadros, pequenas esculturas, cerâmicas descoladas, tábuas para frios, bandejas, cestos para frutas etc..\n\n5 - TEMPEROS E PLANTAS\n\nPara usar e decorar, uma seleção de vasos para temperos variados, cachepôs com aquela plantinha preferida e um vaso com flores, irão harmonizar e humanizar o ambiente. \n\n6 – ACONCHEGO\n\nVale a pena investir em aromas para a casa, velas, home spray e difusores, aguçam o olfato, nos trazem lembranças olfativas, nos fazem relaxar e podem ter outros significados como: despertar da criatividade, fortalecimento da autoestima, equilíbrio emocional e muitos outros, além disso claro trazem um aroma delicioso para o ambiente.\n\nA maior dica é: \n\nQuando o assunto é o décor, a casa deve representar o estilo de vida de seus habitantes. Os moradores devem se sentir à vontade e identificados com o local.",
   "meta_title": "Nossas inspirações para a Copa",
-  "meta_description": "O que levar em conta na hora de decorar este ambiente."
+  "meta_description": "O que levar em conta na hora de decorar este ambiente.",
+  "thumbnail": "/img/uploads/inspiracoes-para-a-copa.jpg"
 }
