@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "document-description",
       "enabled": true
     },
