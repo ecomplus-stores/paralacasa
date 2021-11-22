@@ -6,7 +6,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/ecom-plus-black-week-2021576-x-1136-7-.jpg",
-      "mobile_img": "/img/uploads/home-mobile-black-week-2021-ecom-plus.jpg"
+      "mobile_img": "/img/uploads/home-mobile-black-week-2021-ecom-plus.jpg",
+      "link": "https://www.paralacasa.com.br/pages/black-friday"
     },
     {
       "type": "extra-page",
