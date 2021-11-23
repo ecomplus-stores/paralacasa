@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-pag-extra-tapas-1576-x-1136-8-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1
+    }
+  ],
+  "title": "TAPAS",
+  "meta_title": "TAPAS",
+  "body": "## TAPAS\n\n\nUma produção para as Tapas no final de semana.\nBowls, mini bowls, bandejas, pratos, em porcelana hand made, versáteis e em perfeita harmonia com as peças em bambu, flores e está criado um ambiente informal e charmoso para servir a família e amigos aos finais de semana."
+}
