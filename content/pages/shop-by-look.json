@@ -24,6 +24,10 @@
         {
           "img": "/img/uploads/blue-and-white.jpg",
           "link": "https://www.paralacasa.com.br/pages/blue-and-white"
+        },
+        {
+          "img": "/img/uploads/banner-home-tapas.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tapas"
         }
       ]
     },
