@@ -30,7 +30,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 1
+      "page": 1,
+      "collection_id": "619d85370c7c72722596f8e2:collections:TALHERES TAPAS:/talheres-tapas"
     },
     {
       "type": "banners-grid",
@@ -53,7 +54,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 1
+      "page": 1,
+      "collection_id": "619d826e0c7c72722596f13a:collections:TAPAS:/tapas"
     },
     {
       "type": "banners-grid",
@@ -70,7 +72,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 1
+      "page": 1,
+      "collection_id": "619d84150c7c72722596f5c3:collections:TÊXTEIS TAPAS:/texteis-tapas"
     }
   ],
   "title": "TAPAS",
