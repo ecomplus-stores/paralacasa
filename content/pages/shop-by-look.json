@@ -24,10 +24,15 @@
         {
           "img": "/img/uploads/blue-and-white.jpg",
           "link": "https://www.paralacasa.com.br/pages/blue-and-white"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-2-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tapas"
+          "link": "https://www.paralacasa.com.br/pages/tapas",
+          "img": "/img/uploads/ecom-plus-home-527-x-515-px-2-.jpg"
         }
       ]
     },
