@@ -28,13 +28,9 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "link": "https://www.paralacasa.com.br/pages/tapas",
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-2-.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "link": "https://www.paralacasa.com.br/pages/tapas",
+      "img": "/img/uploads/ecom-plus-home-527-x-515-px-2-.jpg"
     },
     {
       "type": "collection-shelf",
