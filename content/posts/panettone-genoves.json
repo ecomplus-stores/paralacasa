@@ -40,6 +40,14 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "61aeb4980c7c727225bafce9:collections:PANETTONE GENOVÊS:/panettone-genoves",
       "headless": true
     },
