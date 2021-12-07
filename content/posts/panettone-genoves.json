@@ -39,13 +39,25 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 1
+      "page": 1,
+      "collection_id": "61aeb4980c7c727225bafce9:collections:PANETTONE GENOVÊS:/panettone-genoves",
+      "headless": true
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61aeb5310c7c727225bafe78:collections:PANETTONE GENOVÊS TÊXTEIS:/panettone-genoves-texteis",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "headless": true,
+      "collection_id": "61aeb6c70c7c727225bb03d6:collections:PANETTONE COPA:/panettone-copa"
     }
   ],
   "thumbnail": "/img/uploads/ecom-plus-panettone-capa527-x-515-px-7-.jpg",
