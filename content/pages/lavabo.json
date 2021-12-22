@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-shop-by-look-azul-intenso-colecao-1576-x-1136-8-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61a7e5780c7c727225b07751:collections:CERÂMICA AZUL:/ceramica-azul"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-cesto-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-flores.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61a7ea9d0c7c727225b084e7:collections:TÊXTEIS AZUIS:/texteis-azuis"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-xicara.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-bowl.jpg"
+        }
+      ]
+    },
+    {
+      "type": "page-title",
+      "title": "",
+      "description": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61a7ec570c7c727225b0896d:collections:AZUL INTENSO:/azul-intenso"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-bandeja.jpg"
+        },
+        {
+          "img": "/img/uploads/shop-the-look-azul-intenso-garrafas-front.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61a7ece70c7c727225b08b41:collections:AZUL INTENSO - BAMBU:/azul-intenso---bambu"
+    }
+  ],
+  "title": "LAVABO",
+  "meta_title": "AZUL INTENSO",
+  "body": "## AZUL INTENSO\n\nQuem nos acompanha em nossas redes sociais, já sabe que os azuis sempre estão presentes em nossas escolhas, além de ser o tom mais buscado para compor as mesas, os azuis entram em composições com ares contemporâneos, clássicos e até românticos e é esta versatilidade que nos encanta.\nHoje escolhemos o azul intenso para se destacar em nossa produção. Para acompanhar o jogo americano e o guardanapo em linho puro bordado, selecionamos as palhas com bambus, cerâmicas azuis, talheres EME e tons de branco.",
+  "meta_description": "Para acompanhar o jogo americano e o guardanapo em linho puro bordado, selecionamos as palhas com bambus, cerâmicas azuis, talheres EME e tons de branco."
+}
