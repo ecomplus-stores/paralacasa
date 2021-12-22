@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-shop-by-look-azul-intenso-colecao-1576-x-1136-8-.jpg"
+      "img": "/img/uploads/ecom-plus-categoria-colecao-1576-x-1136-9-.jpg"
     },
     {
       "type": "extra-page",
@@ -13,16 +13,17 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61a7e5780c7c727225b07751:collections:CERÂMICA AZUL:/ceramica-azul"
+      "collection_id": "61c1fa170c7c727225da3597:collections:Toalhas Lavabo:/toalhas-lavabo",
+      "headless": true
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-cesto-1-.jpg"
+          "img": "/img/uploads/lavabo-rena.jpg"
         },
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-flores.jpg"
+          "img": "/img/uploads/lavabo-top.jpg"
         }
       ]
     },
@@ -31,40 +32,42 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61a7ea9d0c7c727225b084e7:collections:TÊXTEIS AZUIS:/texteis-azuis"
+      "collection_id": "61c1fab50c7c727225da36ef:collections:BANDEJAS LAVABO:/bandejas-lavabo",
+      "headless": true
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-xicara.jpg",
+          "img": "/img/uploads/lavabo-vela.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-bowl.jpg"
+          "img": "/img/uploads/lavabo-vaso.jpg"
         }
       ]
     },
     {
       "type": "page-title",
-      "title": "",
-      "description": ""
+      "title": "Lavabo",
+      "description": "Uma seleção de peças para a bancada do lavado."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61a7ec570c7c727225b0896d:collections:AZUL INTENSO:/azul-intenso"
+      "collection_id": "61c2023d0c7c727225da433d:collections:VASOS LAVABO:/vasos-lavabo",
+      "headless": true
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-bandeja.jpg"
+          "img": "/img/uploads/lavabo-bandeja.jpg"
         },
         {
-          "img": "/img/uploads/shop-the-look-azul-intenso-garrafas-front.jpg"
+          "img": "/img/uploads/lavabo-top-rena.jpg"
         }
       ]
     },
@@ -73,11 +76,12 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61a7ece70c7c727225b08b41:collections:AZUL INTENSO - BAMBU:/azul-intenso---bambu"
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "headless": true
     }
   ],
   "title": "LAVABO",
-  "meta_title": "AZUL INTENSO",
-  "body": "## AZUL INTENSO\n\nQuem nos acompanha em nossas redes sociais, já sabe que os azuis sempre estão presentes em nossas escolhas, além de ser o tom mais buscado para compor as mesas, os azuis entram em composições com ares contemporâneos, clássicos e até românticos e é esta versatilidade que nos encanta.\nHoje escolhemos o azul intenso para se destacar em nossa produção. Para acompanhar o jogo americano e o guardanapo em linho puro bordado, selecionamos as palhas com bambus, cerâmicas azuis, talheres EME e tons de branco.",
-  "meta_description": "Para acompanhar o jogo americano e o guardanapo em linho puro bordado, selecionamos as palhas com bambus, cerâmicas azuis, talheres EME e tons de branco."
+  "meta_title": "LAVABO",
+  "body": "Para a bancada do lavado seja na praia, no campo ou na cidade, preparamos uma seleção de bandejas, vasos, toalhas, velas aromáticas e home spray, tudo para deixar para receber com carinho seus convidados e deixar este ambiente mais aconchegante.",
+  "meta_description": "Uma seleção de peças para a bancada do lavado."
 }
