@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/paralacasa1.jpg"
+      "img": "/img/uploads/ecom-plus-shop-the-look-summer-times-1628-x428-9-.jpg"
     },
     {
       "type": "extra-page",
@@ -16,7 +16,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 13,
+      "limit": 24,
       "page": 1,
       "sort": "news",
       "headless": true,
@@ -26,18 +26,18 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/5.jpg",
+          "img": "/img/uploads/summer-times-prato-olinda-2-.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/3.jpg"
+          "img": "/img/uploads/summer-times-cesto-oval-1-.jpg"
         }
       ]
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 22,
+      "limit": 23,
       "page": 1,
       "headless": true,
       "sort": "news",
@@ -47,10 +47,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/4.jpg"
+          "img": "/img/uploads/summer-times-bowl-quadrado-3-.jpg"
         },
         {
-          "img": "/img/uploads/5.jpg"
+          "img": "/img/uploads/summer-times-flores-talheres-4-.jpg"
         }
       ]
     },
@@ -67,10 +67,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/6.jpg"
+          "img": "/img/uploads/summer-times-vaso-garrafa-5-.jpg"
         },
         {
-          "img": "/img/uploads/7.jpg"
+          "img": "/img/uploads/summer-times-jarras-bambu-6-.jpg"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "headless": false
     }
   ],
-  "body": "## COLEÇÃO OLINDA\n\nA Coleção Olinda foi nosso ponto de partida para esta produção de café da manhã, as peças são artesanais, feitas à mão em porcelana, uma a uma, cada peça é única e isso é o que encanta e valoriza cada uma delas. Para compor com as formas orgânicas e o tom celadon, escolhemos nossas peças em bambu, celadon e bambu são o novo \"must have\", já um clássico aqui no PARA la CASA, os tons neutros complementam a composição.",
-  "meta_title": "CAFÉ DA MANHÃ - COLEÇÃO OLINDA",
-  "meta_description": "Componha sua Mesa de Café da Manhã com produtos selecionados por Para la Casa, cada peça é única e isso é o que encanta e valoriza cada uma delas."
+  "body": "\n\nÉ tempo de verão !! \n\n\nFérias, calor, família, encontros, tudo isso se renova na estação mais esperada do ano. \nMomentos de descanso com a família e amigos é o que a maioria de nós deseja. \nComeçamos aqui  uma série de produções para atender este verão, seja na praia, campo ou cidade, apostas com ares refrescantes e coloridos para inspirar e deixar saudades.",
+  "meta_title": "SUMMER TIMES",
+  "meta_description": "Nossas apostas para compor este verão e deixar saudades."
 }
