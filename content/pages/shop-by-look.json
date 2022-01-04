@@ -37,12 +37,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/home-shop-the-look-lavabo-bandeja-top-527x515.jpg",
-          "link": "https://www.paralacasa.com.br/pages/lavabo"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
