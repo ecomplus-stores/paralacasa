@@ -37,7 +37,16 @@
     },
     {
       "type": "banners-grid",
-      "banners": []
+      "banners": [
+        {
+          "img": "/img/uploads/home-shop-the-look-lavabo-bandeja-top-527x515.jpg",
+          "link": "https://www.paralacasa.com.br/pages/lavabo"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-shop-the-look-summer-times-527-x-515-px-9-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/summer-times"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
