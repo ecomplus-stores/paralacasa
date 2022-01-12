@@ -1,0 +1,16 @@
+{
+  "title": "BLACK WEEK - ATÉ 30% OFF",
+  "body": "Black Week 2021  - ENCERRADA",
+  "meta_title": "BLACK WEEK - ATÉ 30% OFF",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ]
+}
