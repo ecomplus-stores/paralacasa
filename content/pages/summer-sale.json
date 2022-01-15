@@ -1,0 +1,15 @@
+{
+  "title": "SUMMER SALE",
+  "body": "De 15 -01 a 31-01-2022",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ]
+}
