@@ -73,6 +73,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "link": "https://paralacasa.com.br/new",
+      "title": "NEW"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -91,16 +101,6 @@
           "alt": "Jogos Americanos, vem conferir"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "link": "https://paralacasa.com.br/new",
-      "title": "NEW"
     }
   ]
 }
