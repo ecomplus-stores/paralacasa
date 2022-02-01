@@ -6,15 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/summer-sale-paralacasa-home-jan22.webp",
-          "link": "https://www.paralacasa.com.br/pages/summer-sale"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/summer-times-paralacasa-jan22.webp",
           "mobile_img": "",
           "link": "https://www.paralacasa.com.br/pages/summer-times",
