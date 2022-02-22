@@ -1,0 +1,17 @@
+{
+  "title": "SALE ",
+  "body": " SALE",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ],
+  "meta_title": " Sale",
+  "meta_description": " Sale Para La Casa "
+}
