@@ -1,0 +1,89 @@
+{
+  "title": "SUMMER TIMES",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-shop-the-look-summer-times-1628-x428-9-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "headless": true,
+      "collection_id": "61d46ad00c7c727225f0ff5d:collections:SUMMER TIMES:/summer-times"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/summer-times-prato-olinda-2-.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/summer-times-cesto-oval-1-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "headless": true,
+      "sort": "news",
+      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/summer-times-bowl-quadrado-3-.jpg"
+        },
+        {
+          "img": "/img/uploads/summer-times-flores-talheres-4-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "headless": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/summer-times-vaso-garrafa-5-.jpg"
+        },
+        {
+          "img": "/img/uploads/summer-times-jarras-bambu-6-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
+      "headless": true
+    }
+  ],
+  "body": "\n\nÉ tempo de verão !! \n\n\nFérias, calor, família, encontros, tudo isso se renova na estação mais esperada do ano. \nMomentos de descanso com a família e amigos é o que a maioria de nós deseja. \nComeçamos aqui  uma série de produções para atender este verão, seja na praia, campo ou cidade, apostas com ares refrescantes e coloridos para inspirar e deixar saudades.",
+  "meta_title": "SUMMER TIMES | Verão 2022 | Coleções com Bambu e mais para Mesa Posta",
+  "meta_description": "Tendências Verão 2022 | Mesa Posta com bambu e mais cerâmicas para viver a Melhor Estação!"
+}
