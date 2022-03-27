@@ -1,9 +1,9 @@
 {
-  "title": "SUMMER TIMES",
+  "title": "WHAT'S NEW",
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-shop-the-look-summer-times-1628-x428-9-.jpg"
+      "img": "/img/uploads/colecao-what-s-new-1576-x-1136-10-.jpg"
     },
     {
       "type": "extra-page",
@@ -26,11 +26,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/summer-times-prato-olinda-2-.jpg",
+          "img": "/img/uploads/whats-new-bowls-top-788x518.jpg",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/summer-times-cesto-oval-1-.jpg"
+          "img": "/img/uploads/what-s-new-copo-788x518.jpg"
         }
       ]
     },
@@ -41,16 +41,16 @@
       "page": 1,
       "headless": true,
       "sort": "news",
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/summer-times-bowl-quadrado-3-.jpg"
+          "img": "/img/uploads/whats-new-bowl-bordallo-frontal-788x518.jpg"
         },
         {
-          "img": "/img/uploads/summer-times-flores-talheres-4-.jpg"
+          "img": "/img/uploads/what-s-new-bowls-frontal-788x518.jpg"
         }
       ]
     },
@@ -59,7 +59,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
       "headless": true,
       "sort": "news"
     },
@@ -67,10 +67,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/summer-times-vaso-garrafa-5-.jpg"
+          "img": "/img/uploads/whats-new-colher-top-788x518.jpg"
         },
         {
-          "img": "/img/uploads/summer-times-jarras-bambu-6-.jpg"
+          "img": "/img/uploads/what-s-new-top788x518.jpg"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "headless": true
     }
   ],
-  "body": "\n\nÉ tempo de verão !! \n\n\nFérias, calor, família, encontros, tudo isso se renova na estação mais esperada do ano. \nMomentos de descanso com a família e amigos é o que a maioria de nós deseja. \nComeçamos aqui  uma série de produções para atender este verão, seja na praia, campo ou cidade, apostas com ares refrescantes e coloridos para inspirar e deixar saudades.",
-  "meta_title": "SUMMER TIMES | Verão 2022 | Coleções com Bambu e mais para Mesa Posta",
-  "meta_description": "Tendências Verão 2022 | Mesa Posta com bambu e mais cerâmicas para viver a Melhor Estação!"
+  "body": "Uma nova bandeja pede uma nova produção de café da manhã.\n\nAs produções mais comemoradas por aqui, são muitas vezes as de café da manhã, deve ser porque um café da manhã bem montado com cuidado e carinho traz  sempre um aconchego e um sentimento quentinho no coração.\n\nAcabou de chegar uma nova opção em bandeja de bambu, desta vez bambu e vime e foi o suficiente para uma nova inspiração ! Enjoy it !",
+  "meta_title": "What's New  | Uma nova bandeja pede uma nova produção !",
+  "meta_description": "Bandejas em bambu natural para uma café da manhã cheio de inspiração."
 }
