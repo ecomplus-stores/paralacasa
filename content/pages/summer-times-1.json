@@ -20,7 +20,7 @@
       "page": 1,
       "sort": "news",
       "headless": true,
-      "collection_id": "61d46ad00c7c727225f0ff5d:collections:SUMMER TIMES:/summer-times"
+      "collection_id": "6240f5312e405e04ff03082d:collections:BANDEJA  CAFÉ DA MANHÃ | UMA NOVA INSPIRAÇÃO:/bandeja--cafe-da-manha--uma-nova-inspiracao"
     },
     {
       "type": "banners-grid",
@@ -79,7 +79,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
+      "collection_id": "6240f5962e405e04ff0308d1:collections:COLEÇÃO VERSAILLES IVORY EME:/colecao-versailles-ivory-eme",
       "headless": true
     }
   ],
