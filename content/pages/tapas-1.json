@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-pag-extra-tapas-1576-x-1136-8-.jpg"
+      "img": "/img/uploads/ecom-plus-categoria-colecao-marbella-1576-x-1136-12-.jpg"
     },
     {
       "type": "extra-page",
@@ -13,18 +13,42 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda"
+      "collection_id": "62696d0e3da6d37bc2103b66:collections:COLEÇÃO MARBELLA CAMEL:/colecao-marbella-camel"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/page-tapas-lat-esq.jpg"
+          "img": "/img/uploads/shop-by-look-colecao-marbella-hand.jpg"
         },
         {
-          "img": "/img/uploads/page-tapas-paes.jpg"
+          "img": "/img/uploads/shop-by-look-colecao-marbella-top-bowl.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/shop-by-look-colecao-marbella-frutas.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/shop-by-look-colecao-marbella-top-bandeja.jpg"
+        }
+      ]
+    },
+    {
+      "type": "page-title",
+      "title": "COLEÇÃO MARBELLA ",
+      "description": "Aperitivos para o final do dia."
     },
     {
       "type": "collection-shelf",
@@ -37,31 +61,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/page-tapas-topo.jpg",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/page-tapas-sard.jpg"
-        }
-      ]
-    },
-    {
-      "type": "page-title",
-      "title": "TAPAS",
-      "description": "Uma produção para as Tapas no final de semana."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "619d826e0c7c72722596f13a:collections:TAPAS:/tapas"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/page-tapas-burrata.jpg"
+          "img": "/img/uploads/shop-by-look-colecao-marbella-queijos.jpg"
         },
         {
           "img": "/img/uploads/page-tapas-frios.jpg"
@@ -76,8 +76,8 @@
       "collection_id": "619d84150c7c72722596f5c3:collections:TÊXTEIS TAPAS:/texteis-tapas"
     }
   ],
-  "title": "COLEÇÃO MARBELLA CAMEL",
-  "meta_title": "ColeTAPAS -  Decore e Vivencie Momentos Especiais | Mesa Posta ",
-  "body": "## COLEÇÃO MARBELLA CAMEL\n\nQuando decidimos iniciar uma coleção de cerâmicas, pensamos logo em nossa parceira Rosa dos Ventos para esta empreitada, o cuidado com o processo, a habilidade dos seus artesãos e um olhar sempre à frente foi decisivo para nossa escolha.\n\nBuscamos peças com design contemporâneo e que ao mesmo tempo nos remetessem às cores e texturas da terra, quando vimos a Coleção Marbella foi amor à primeira vista, além disso cada uma das peças foi feita à mão o que as fazem únicas e especiais.\n\nNossas escolhas atendem à diferentes momentos à mesa, do café da manhã, ao lanche da tarde ou um aperitivo no final do dia.\n\nAqui uma produção para aperitivos, mas muitas outras virão em breve...\n\nEspero que gostem, eu já estou amando.",
-  "meta_description": "Bowls, mini bowls, bandejas, pratos, em porcelana hand made, versáteis para sua Mesa Posta."
+  "title": "COLEÇÃO MARBELLA ",
+  "meta_title": "Coleção Marbella - Cerâmicas Hand Made",
+  "body": "## COLEÇÃO MARBELLA \n\nCerâmica Hand Made.\n\nQuando decidimos iniciar uma coleção de cerâmicas, pensamos logo em nossa parceira Rosa dos Ventos para esta empreitada, o cuidado com o processo, a habilidade dos seus artesãos e um olhar sempre à frente foi decisivo para nossa escolha.\n\nBuscamos peças com design contemporâneo e que ao mesmo tempo nos remetessem às cores e texturas da terra, quando vimos a Coleção Marbella foi amor à primeira vista, além disso cada uma das peças foi feita à mão o que as fazem únicas e especiais.\n\nNossas escolhas atendem à diferentes momentos à mesa, do café da manhã, ao lanche da tarde ou um aperitivo no final do dia.\n\nAqui uma produção para aperitivos, mas muitas outras virão em breve...\n\nEspero que gostem, eu já estou amando.",
+  "meta_description": "Bowls, mini bowls, bandejas, vasos, molheiras em cerâmica hand made, versáteis para sua Mesa Posta."
 }
