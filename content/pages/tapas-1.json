@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-categoria-colecao-marbella-1576-x-1136-12-.jpg"
+      "img": "/img/uploads/ecom-plus-categoria-colecao-marbella-1576-x-1136-13-.jpg"
     },
     {
       "type": "extra-page",
@@ -61,10 +61,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/shop-by-look-colecao-marbella-queijos.jpg"
+          "img": "/img/uploads/shop-by-look-colecao-marbella-top-center.jpg"
         },
         {
-          "img": "/img/uploads/shop-the-look-colecao-marbela-tomatinhos.jpg"
+          "img": "/img/uploads/shop-the-look-colecao-marbella-tomatinhos.jpg"
         }
       ]
     }
