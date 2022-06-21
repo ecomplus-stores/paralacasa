@@ -1,18 +1,18 @@
 {
   "date": "2022-06-21T15:17:21.966Z",
-  "title": "BRUNCH - TOSTADAS COM FIGO E QUEIJO FETA.",
-  "body": "## BRUNCH\n\nPara um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !\n\nMas, o que é Brunch?\n\nNada mais é do que, a junção do café da manhã (breakfast) com o almoço (lunch), a origem é inglesa, mas se adapta a qualquer continente. Tarde demais para o café e cedo demais para o almoço, daí entra o brunch e entra também essa mistura de sabores e permissões, cafés, frutas, geleias, pães, tostados, frios, tortas, ovos etc...\n\nPara inspirar, segue sugestão de tostada rápida, fácil e saborosa.\n\nTOSTADAS COM FIGO E QUEIJO FETA\n\nIngredientes\n\n\\- fatias de pão italiano\n\n\\- presunto crú\n\n\\- queijo feta\n\n\\- figos\n\n\\- cebola\n\n\\- alho\n\n\\- azeite\n\n\\- verdura\n\nPREPARO\n\n  Leve ao fogo uma cebola cortada em rodelas finas, refogue no azeite até dourar. Não deixe queimar. Reserve.\n  Leve uma prancha ao fogo e levemente pincele com azeite, coloque umas fatias de pão para aquecer e tomar cor, uma vez terminado, esfregue sobre as fatias o dente de alho crú para dar sabor. Reserve.\n  Monte as tostadas, colocando as cebolas sobre o pão, e logo depois os demais ingredientes, queijo feta, presunto crú, figos, regue com azeite, sal e pimenta do reino. \n  Finalize com algumas folhas de verdura de sua preferência.",
+  "title": "UMA BANDEJA  x UMA SÉRIE",
+  "body": "## UMA BANDEJA  x UMA SÉRIE\n\n\n\nAs séries já faziam parte da rotina de muitas casas, porém quando a pandemia do Covid chegou em 2020 esse hábito se tornou mania para muitos, é o momento de relaxar, deixar para trás um dia estressante ou simplesmente um bom motivo para reunir a família ou amigos e assistir aquele documentário super recomendado.\n\nQuem não gosta de beliscar uma comidinha na hora de assistir à TV?\n\nE é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.\n\nMontamos uma bandeja com nossas cerâmicas Marbella para servir um guacamole, amo este prato com origem mexicana e o sabor fresco do abacate. Sempre bom dispensar os talheres e poder se servir com as mãos quando estamos em frente ao televisor e com a atenção fixa na tela.\n\nPara acompanhar um tônica servida em nossas taças e jarras pintadas à mão, poderia ser um vinho ou até uma cerveja.\n\nBom deixar a bandeja em um local de acesso fácil para todos, como uma mesa de centro, mesas de apoio, ou até mesmo algum puff que são super versáteis e fazem às vezes de mesinhas também.\n\n \n\nGUACAMOLE\n\nIngredientes\n\n\\-  01 abacate\n\n\\- alho\n\n\\- salsinha fresca\n\n\\- pimenta dedo de moça fresca\n\n\\- tomatinhos cereja\n\n\\- limão\n\n\\- azeite\n\n\\- sal\n\nPreparo\n\nAbra o abacate ao meio e retire toda a polpa. Corte os tomatinhos cereja em 04 partes. Pique a salsinha e a pimenta em pedaços bem pequenos.\n\nColoque tudo em um bowl de tamanho médio, regue com suco de limão, azeite, e tempere com sal gosto. Misture tudo e sirva com tortillas mexicanas.",
   "sections": [
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/brunch-figo-lat-dir.jpg",
-          "alt": "Brunch"
+          "img": "/img/uploads/uma-bandeja-x-uma-serie-dir-1-.jpg",
+          "alt": "Uma bandeja x Uma série"
         },
         {
-          "img": "/img/uploads/brunch-figo-lat-esq.jpg",
-          "alt": "Brunch"
+          "img": "/img/uploads/uma-bandeja-x-uma-serie-top.jpg",
+          "alt": "Uma bandeja x Uma série"
         }
       ]
     },
@@ -22,8 +22,8 @@
     },
     {
       "type": "page-title",
-      "title": "Brunch - tostada com figo e queijo feta.",
-      "description": "Para um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !"
+      "title": "Uma bandeja  x Uma série",
+      "description": "Quem não gosta de beliscar uma comidinha na hora de assistir à TV? E é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima."
     },
     {
       "type": "blog-post",
@@ -34,7 +34,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro",
+      "collection_id": "62696d0e3da6d37bc2103b66:collections:COLEÇÃO MARBELLA:/colecao-marbella-camel",
       "headless": true,
       "sort": "news"
     },
@@ -57,8 +57,8 @@
       "sort": "news"
     }
   ],
-  "thumbnail": "/img/uploads/brunch-figo-home.jpg",
-  "meta_title": "BRUNCH - TOSTADAS COM FIGO E QUEIJO FETA.",
-  "meta_description": "Para um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !  Mas, o que é Brunch?",
-  "description": "Para um domingo preguiçoso, quando o despertador não tem hora para tocar e o tempo se arrasta lentamente, então.. este é um bom dia para um brunch !"
+  "thumbnail": "/img/uploads/ecom-plus-527-x-515-px-uma-bandeja-x-uma-serie-blog-10-.jpg",
+  "meta_title": "UMA BANDEJA  x  UMA SÉRIE BRUNCH ",
+  "meta_description": "Quem não gosta de beliscar uma comidinha na hora de assistir à TV? E é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.",
+  "description": "Quem não gosta de beliscar uma comidinha na hora de assistir a TV?\nE é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.\n"
 }
