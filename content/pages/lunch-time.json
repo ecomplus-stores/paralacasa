@@ -1,0 +1,93 @@
+{
+  "title": "LUNCH TIME",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-lunch-time-1576-x-1136-14-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "LUNCH TIME",
+      "description": "Colocar à mesa do almoço mesmo que seja para um só lugar, faz toda a diferença para ter um momento de tranquilidade ao longo dia."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62b2126aeb859112165e5631:collections:LUNCH TIME:/lunch-time",
+      "headless": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-top-5-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-front-6-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62b1e6e0eb859112165de7bc:collections:Taças, copos e jarras:/tacas-copos-e-jarras",
+      "headless": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-bowl-2-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62696d0e3da6d37bc2103b66:collections:COLEÇÃO MARBELLA:/colecao-marbella-camel",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-faca-3-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-788x518-lunch-time-shop-the-look-garfo-4-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "news",
+      "headless": true
+    }
+  ],
+  "body": "\n\nLunch Time\n\n \n\nColocar à mesa do almoço mesmo que seja para um só lugar, faz toda a diferença para ter um momento de tranquilidade ao longo dia.\n\nSempre que estou em casa neste horário não abro mão de um mimo, um capricho.\n\nHoje produzimos um Lunch Time, para dar as boas vindas à uma nova peça da Coleção Marbella, que acabou de chegar, si a Coleção cresceu e agora além dos bowls, bandejinhas, vaso, molheira temos também o prato, que chega para complementar.\n\nPara compor usamos nossos copo e jarrinha pintados à mão no tom folha, super charmoso.\n\nAbaixo temos  as peças usadas na produção e algumas outras sugestões para inspirar a sua mesa.",
+  "meta_title": "LUNCH TIME",
+  "meta_description": "Colocar à mesa do almoço mesmo que seja para um só lugar, faz toda a diferença para ter um momento de tranquilidade ao longo dia."
+}
