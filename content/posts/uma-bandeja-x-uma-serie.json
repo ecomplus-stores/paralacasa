@@ -1,0 +1,62 @@
+{
+  "date": "2022-06-21T17:58:32.887Z",
+  "title": "UMA BANDEJA X UMA SÉRIE",
+  "thumbnail": "/img/uploads/ecom-plus-527-x-515-px-uma-bandeja-x-uma-serie-blog-10-.jpg",
+  "description": "Quem não gosta de beliscar uma comidinha na hora de assistir à TV? E é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.",
+  "body": "\n\nAs séries já faziam parte da rotina de muitas casas, porém quando a pandemia do Covid chegou em 2020 esse hábito se tornou mania para muitos, é o momento de relaxar, deixar para trás um dia estressante ou simplesmente um bom motivo para reunir a família ou amigos e assistir aquele documentário super recomendado.\n\nQuem não gosta de beliscar uma comidinha na hora de assistir à TV?\n\nE é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.\n\nMontamos uma bandeja com nossas cerâmicas Marbella para servir um guacamole, amo este prato com origem mexicana e o sabor fresco do abacate. Sempre bom dispensar os talheres e poder se servir com as mãos quando estamos em frente ao televisor e com a atenção fixa na tela.\n\nPara acompanhar um tônica servida em nossas taças e jarras pintadas à mão, poderia ser um vinho ou até uma cerveja.\n\nBom deixar a bandeja em um local de acesso fácil para todos, como uma mesa de centro, mesas de apoio, ou até mesmo algum puff que são super versáteis e fazem às vezes de mesinhas também.\n\nGUACAMOLE\n\nIngredientes\n\n\\-  01 abacate\n\n\\- alho\n\n\\- salsinha fresca\n\n\\- pimenta dedo de moça fresca\n\n\\- tomatinhos cereja\n\n\\- limão\n\n\\- azeite\n\n\\- sal\n\nPreparo\n\nAbra o abacate ao meio e retire toda a polpa. Corte os tomatinhos cereja em 04 partes. Pique a salsinha e a pimenta em pedaços bem pequenos.\n\nColoque tudo em um bowl de tamanho médio, regue com suco de limão, azeite, e tempere com sal gosto. Misture tudo e sirva com tortillas mexicanas.",
+  "meta_title": "Uma Bandeja x Uma Série",
+  "meta_description": "Quem não gosta de beliscar uma comidinha na hora de assistir à TV?  E é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima.",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/uma-bandeja-x-uma-serie-dir-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/uma-bandeja-x-uma-serie-top.jpg"
+        }
+      ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Uma Bandeja x Uma SérieUma ",
+      "description": "Quem não gosta de beliscar uma comidinha na hora de assistir à TV?  E é nessas horas que podemos montar uma bandeja para alguns petiscos, drinks, mini lanches e entrar no clima."
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62696d0e3da6d37bc2103b66:collections:COLEÇÃO MARBELLA:/colecao-marbella-camel",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62b1e6e0eb859112165de7bc:collections:Taças, copos e jarras:/tacas-copos-e-jarras",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62b1e8d9eb859112165deca9:collections:guardanapos coquetel, espátulas:/guardanapos-coquetel-espatulas",
+      "sort": "news",
+      "headless": true
+    }
+  ]
+}
