@@ -43,7 +43,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "collection_id": "62b1e6e0eb859112165de7bc:collections:Taças, copos e jarras:/tacas-copos-e-jarras",
       "headless": true,
       "sort": "news"
     },
@@ -52,7 +52,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
+      "collection_id": "62b1e8d9eb859112165deca9:collections:guardanapos coquetel, espátulas:/guardanapos-coquetel-espatulas",
       "headless": true,
       "sort": "news"
     }
