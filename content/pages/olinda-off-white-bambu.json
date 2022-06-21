@@ -24,8 +24,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62b23ab8eb859112165eb2b3:collections:Olinda Off White e Bambu:/olinda-off-white-e-bambu",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -41,8 +44,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62b23b7feb859112165eb41d:collections:Bandejas Bambu e outros:/bandejas-bambu-e-outros",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -58,8 +64,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62b23c93eb859112165eb580:collections:Vários Olinda Off white:/varios-olinda-off-white",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
