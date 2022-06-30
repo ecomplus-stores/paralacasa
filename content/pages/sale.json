@@ -1,7 +1,11 @@
 {
   "title": "SALE OFF",
-  "body": " SALE OFF - PROMOÇÃO ENCERRADA",
+  "body": "Nossa SALE de Inverno.\n\nEstoques limitados.",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-home-sale-22m-mes-07-1576-x-1136-15-.jpg"
+    },
     {
       "type": "extra-page",
       "enabled": true
