@@ -6,16 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-sale-22m-mes-07-1576-x-1136-15-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "Sale Off"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/ecom-plus-banner-home-cafe-da-manha-olinda-azul-1628-x-552-5-.jpg",
           "mobile_img": "",
           "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-olinda-azul",
