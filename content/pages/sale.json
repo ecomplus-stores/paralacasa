@@ -1,11 +1,7 @@
 {
   "title": "SALE OFF",
-  "body": "Sale Off, nossas ofertas de inverno.",
+  "body": "Sale Off. ENCERRADA .",
   "sections": [
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-categoria-sale-off-40-last-call-1576-x-1136-15-.jpg"
-    },
     {
       "type": "extra-page",
       "enabled": true
