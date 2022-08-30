@@ -1,0 +1,80 @@
+{
+  "title": "CAFÉ DA MANHÃ - OLINDA  AZUL",
+  "body": "Mais um dia, mais um café !\n\nJá falei aqui antes que o café da manhã é a minha refeição preferida e também a produção mais pedida por vocês, então para comemorar esta nossa sintonia montamos mais uma opção e desta vez com as novas peças da Coleção Olinda Azul.\n\nColeção Olinda acabou de crescer e receber novas peças agora em azul, um azul lindo acinzentado que ilumina e alegra a mesa espero que gostem e possam se inspirar !\n\n\\\nBeijos",
+  "meta_description": "Coleção Olinda acabou de crescer e receber novas peças agora em azul, um azul lindo acinzentado que ilumina e alegra a mesa espero que gostem e possam se inspirar !",
+  "meta_title": "CAFÉ DA MANHÃ - OLINDA  AZUL",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-shop-the-look-1576-x-1136-cafe-da-manha-olinda-azul.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62ba1266eb85911216690894:collections:olinda azul porcelana:/olinda-azul-porcelana",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/olinda-copos-pers-dir-2-.jpg"
+        },
+        {
+          "img": "/img/uploads/olinda-prato-top-3-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62ba1412eb85911216690c52:collections:texteis para Olinda Azul:/texteis-para-olinda-azul",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/olinda-copos-pers-esq-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/olinda-copos-pers-esq-5-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62ba15abeb85911216690fb6:collections:garrafas:/garrafas",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/olinda-lat-esq.jpg"
+        },
+        {
+          "img": "/img/uploads/olinda-top-front-6-.jpg"
+        }
+      ]
+    }
+  ]
+}
