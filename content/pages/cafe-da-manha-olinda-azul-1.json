@@ -1,12 +1,12 @@
 {
-  "title": "CAFÉ DA MANHÃ - OLINDA  AZUL",
-  "body": "Mais um dia, mais um café !\n\nJá falei aqui antes que o café da manhã é a minha refeição preferida e também a produção mais pedida por vocês, então para comemorar esta nossa sintonia montamos mais uma opção e desta vez com as novas peças da Coleção Olinda Azul.\n\nColeção Olinda acabou de crescer e receber novas peças agora em azul, um azul lindo acinzentado que ilumina e alegra a mesa espero que gostem e possam se inspirar !\n\n\\\nBeijos",
-  "meta_description": "Coleção Olinda acabou de crescer e receber novas peças agora em azul, um azul lindo acinzentado que ilumina e alegra a mesa espero que gostem e possam se inspirar !",
-  "meta_title": "CAFÉ DA MANHÃ - OLINDA  AZUL",
+  "title": "ALMOÇO OUTDOORS",
+  "body": "Em um dia ensolarado uma boa pedida, é abrir as portas e servir o almoço ao ar livre.\n\nReúna a família e amigos e organize uma reunião descontraída, aposte em peças claras e naturais que estejam em harmonia com entorno.\n\nAqui optamos pela coleção Olinda off White nossa porcelanas feitas à mão e algumas peças em cerâmica  da Bordallo Pinheiro em tom de branco.\n\nTêxteis: toalha de mesa em linho branco e jogos americanos em fibras naturais.\n\nFaqueiro e talheres de serviço em bambu natural.\n\nEspero que gostem e se inspirem !\n\nBeijos !",
+  "meta_description": "Em um dia ensolarado uma boa pedida, é abrir as portas e servir o almoço ao ar livre.",
+  "meta_title": "ALMOÇO OUTDOORS",
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-shop-the-look-1576-x-1136-cafe-da-manha-olinda-azul.jpg"
+      "img": "/img/uploads/ecom-plus-shop-by-look-almoco-outdoors-1576-x-1136.jpg"
     },
     {
       "type": "extra-page",
@@ -21,7 +21,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "62ba1266eb85911216690894:collections:olinda azul porcelana:/olinda-azul-porcelana",
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro",
       "sort": "news",
       "headless": true
     },
@@ -29,10 +29,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/olinda-copos-pers-dir-2-.jpg"
+          "img": "/img/uploads/colecao-almoco-outdoors-persp-lat-esq.jpg"
         },
         {
-          "img": "/img/uploads/olinda-prato-top-3-.jpg"
+          "img": "/img/uploads/colecao-almoco-outdoors-pers-lat-esq-788-x518.jpg"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "62ba1412eb85911216690c52:collections:texteis para Olinda Azul:/texteis-para-olinda-azul",
+      "collection_id": "62d860d7eb8591121690e334:collections:texteis almoço outdoors:/texteis-almoco-olinda-off-white",
       "sort": "news",
       "headless": true
     },
@@ -49,10 +49,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/olinda-copos-pers-esq-1-.jpg"
+          "img": "/img/uploads/colecao-almoco-outdoors-guardanapo-top-788x518.jpg"
         },
         {
-          "img": "/img/uploads/olinda-copos-pers-esq-5-.jpg"
+          "img": "/img/uploads/colecao-almoco-outdoors-bowl788x518.jpg"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "62ba15abeb85911216690fb6:collections:garrafas:/garrafas",
+      "collection_id": "630e1bf473321213f85e1c1e:collections:almoço outdoors bambus:/almoco-outdoors-bambus",
       "sort": "news",
       "headless": true
     },
@@ -69,12 +69,21 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/olinda-lat-esq.jpg"
+          "img": "/img/uploads/e-com-plus-shop-by-look-almoco-outdoors-travessa-788-x-518-px-6-.jpg"
         },
         {
-          "img": "/img/uploads/olinda-top-front-6-.jpg"
+          "img": "/img/uploads/colecao-almoco-outdoors-jarra-788x518.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "630e1c6673321213f85e1d25:collections:almoço outdoors  vários:/almoco-outdoors--varios",
+      "headless": true,
+      "sort": "news"
     }
   ]
 }
