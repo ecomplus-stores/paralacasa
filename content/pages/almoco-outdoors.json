@@ -1,0 +1,81 @@
+{
+  "title": "ALMOÇO OUTDOORS",
+  "body": "Em um dia ensolarado uma boa pedida, é abrir as portas e servir o almoço ao ar livre.\n\nReúna a família e amigos e organize uma reunião descontraída, aposte em peças claras e naturais que estejam em harmonia com entorno.\n\nAqui optamos pela coleção Olinda off White nossa porcelanas feitas à mão e algumas peças em cerâmica  da Bordallo Pinheiro em tom de branco.\n\nTêxteis: toalha de mesa em linho branco e jogos americanos em fibras naturais.\n\nFaqueiro e talheres de serviço em bambu natural.\n\nEspero que gostem e se inspirem !\n\nBeijos !",
+  "meta_title": "ALMOÇO OUTDOORS",
+  "meta_description": "Em um dia ensolarado uma boa pedida, é abrir as portas e servir o almoço ao ar livre.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-shop-by-look-almoco-outdoors-1576-x-1136.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "630e334b73321213f85e462d:collections:almoço outdoors olinda off white:/almoco-outdoors-olinda-off-white",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao-almoco-outdoors-pers-lat-esq-788-x518.jpg"
+        },
+        {
+          "img": "/img/uploads/colecao-almoco-outdoors-jarra-788x518.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62d860d7eb8591121690e334:collections:texteis almoço outdoors:/texteis-almoco-olinda-off-white",
+      "headless": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao-almoco-outdoors-persp-lat-esq.jpg"
+        },
+        {
+          "img": "/img/uploads/e-com-plus-shop-by-look-almoco-outdoors-travessa-788-x-518-px-6-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "630e1bf473321213f85e1c1e:collections:almoço outdoors bambus:/almoco-outdoors-bambus",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "630e1c6673321213f85e1d25:collections:almoço outdoors  vários:/almoco-outdoors--varios",
+      "sort": "news",
+      "headless": true
+    }
+  ]
+}
