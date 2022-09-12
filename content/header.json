@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Tudo em até 6x sem juros  | 5% desconto nas compras à vista  | Cupom: PRIMEIRA COMPRA para 5% desconto",
+    "text": "Tudo em até 6x sem juros  | 5% desconto nas compras à vista  | to",
     "link": "https://paralacasa.com.br/pages/pagamentos",
     "background": "#393d47",
     "color": "#ffffff"
@@ -30,5 +30,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": false
+  "desktop_megamenu": false,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
