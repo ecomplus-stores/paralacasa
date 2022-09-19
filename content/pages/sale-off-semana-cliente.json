@@ -1,16 +1,12 @@
 {
   "title": "SALE OFF SEMANA CLIENTE",
-  "body": "SALE OFF SEMANA CLIENTE\n\nU﻿ma semana com nossas escolhas em SALE para comemorar o Dia do Cliente !",
+  "body": "SALE OFF SEMANA CLIENTE - ENCERRADA",
   "meta_title": "SALE OFF SEMANA CLIENTE",
   "meta_description": "SALE OFF SEMANA CLIENTE - PARA la CASA",
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/semana-do-cliente-22-1-.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "extra-page",
