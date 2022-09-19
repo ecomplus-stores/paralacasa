@@ -4,12 +4,7 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/semana-do-cliente-22-1-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale-off-semana-cliente"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "banners-grid",
