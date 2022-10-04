@@ -1,0 +1,57 @@
+{
+  "title": "COLORFULL POTS",
+  "body": "C﻿oloridos, transparentes e com formas orgânicas, assim são os novos vasos que trazem modernidade ao décor !",
+  "meta_title": "COLORFULL POTS",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-colorfull-pots-shop-the-look-1576-x-1136-17-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6336f87673321213f8958be8:collections:COLORFUL POTS 1:/colorful-pots-1",
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/essential-lat-dir.jpg"
+        },
+        {
+          "img": "/img/uploads/organic-dupla-4-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6336f8bd73321213f8958c8b:collections:COLORFUL POTS 2:/colorful-pots-2",
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cosmic-lat-dir.jpg"
+        },
+        {
+          "img": "/img/uploads/organic-lat-1-.jpg"
+        }
+      ]
+    }
+  ]
+}
