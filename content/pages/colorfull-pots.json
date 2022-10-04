@@ -21,7 +21,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6336f87673321213f8958be8:collections:COLORFUL POTS 1:/colorful-pots-1",
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -40,7 +41,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6336f8bd73321213f8958c8b:collections:COLORFUL POTS 2:/colorful-pots-2",
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
