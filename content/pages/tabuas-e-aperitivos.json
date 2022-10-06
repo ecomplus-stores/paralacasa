@@ -1,0 +1,80 @@
+{
+  "title": "TÁBUAS E APERITIVOS",
+  "body": "Mais uma produção para uma mesa de aperitivos no final de semana.",
+  "meta_title": "TÁBUAS E APERITIVOS",
+  "meta_description": "Mais uma produção para uma mesa de aperitivos no final de semana.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-tabuas-aperitivos-shop-the-look-1576-x-1136-17-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "633f142c73321213f89fa845:collections:PETISCOS TÁBUAS:/petiscos-tabuas",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-queijo-788x518-2-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-tabuas-788x518-5-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "633f14a773321213f89fa9b9:collections:PETISCOS - espátulas - coquetel- bowls:/petiscos---espatulas---coquetel--bowls",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-uvas-788x518-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-esppatulas-788x518-4-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6336f8bd73321213f8958c8b:collections:COLORFUL POTS 2:/colorful-pots-2",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-top-788x518-3-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-persp-788x518-6-.jpg"
+        }
+      ]
+    }
+  ]
+}
