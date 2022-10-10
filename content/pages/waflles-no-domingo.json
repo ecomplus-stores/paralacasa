@@ -1,0 +1,49 @@
+{
+  "title": "WAFLLES NO DOMINGO ",
+  "body": "U﻿ma bandeja para chamar de sua !\n\nNuma manhã chuvosa e preguiçosa de domingo, tudo o que queira era um alimento que me remetia à afeto, casa, família, com uma boa dose de mel para adoçar o dia.\n\nO﻿ resultado foi uma bandeja com uma farta porção de waffles.\n\nA﻿baixo tudo o que usamos na montagem da bandeja e mais o modo de preparo dos waffles !\n\nE﻿spero que gsotem !\\\n\\\nB﻿js\n\nW﻿affles \n\nM﻿odo de preparo\n\n\\-﻿ 01 xícara de farinha de trigo.\n\n\\-﻿ 02 xícaras de meia de leite.\n\n\\-﻿ 01 colher de chá de fermento.\n\n\\-﻿ 03 colheres de açúcar.\n\n\\- ﻿03 colheres de manteiga (derretida)\n\n\\-﻿ 02 ovos.\n\n\n\nColoque todos os ingredientes no liquidificador e bata até obter uma consistência homogênea.\n\nC﻿oloque na máquina de waffles pré aquecida.\n\nS﻿irva com bastante mel, nozes tostadas, queijo cottage e frutas de sua preferência.",
+  "meta_title": "WAFLLES NO DOMINGO ",
+  "meta_description": "U﻿ma bandeja para chamar de sua !  Numa manhã chuvosa e preguiçosa de domingo, tudo o que queira era um alimento que me remetia à afeto, casa, família, com uma boa dose de mel para adoçar o dia.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-waffles-domingo-shop-the-look-colecao-1576-x-1136-17-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6343083d73321213f8a3ad18:collections:CAFÉ DA MANHÃ - BANDEJAS:/cafe-da-manha-i",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6344626773321213f8a52a75:collections:WAFFLES NO DOMINGO - VÁRIOS:/bandeja-weekend",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/waffles-domingo-shop-the-look-788-x-518-guard-3-.jpg"
+        },
+        {
+          "img": "/img/uploads/waffles-domingo-shop-the-look-788-x-518-vaso-2-.jpg"
+        }
+      ]
+    }
+  ]
+}
