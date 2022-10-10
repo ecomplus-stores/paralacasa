@@ -17,6 +17,17 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/waffles-domingo-shop-the-look-788-x-518prato-4-.jpg"
+        },
+        {
+          "img": "/img/uploads/waffles-domingo-shop-the-look-788-x-518-lat-dir-1-.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
