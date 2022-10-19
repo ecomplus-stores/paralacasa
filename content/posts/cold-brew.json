@@ -1,0 +1,44 @@
+{
+  "date": "2022-10-19T18:59:30.723Z",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "635008f873321213f8b30fa8:collections:COLD BREW 1- BLOG:/cold-brew-1--blog",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6350098d73321213f8b31175:collections:COLD BREW II - BLOG:/cold-brew-ii---blog",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63500a2073321213f8b312ba:collections:COLD BREW III - BLOG:/cold-brew-iii---blog",
+      "sort": "news",
+      "headless": true
+    }
+  ],
+  "title": "COLD BREW"
+}
