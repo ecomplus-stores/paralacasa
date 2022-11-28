@@ -3,11 +3,6 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-black-november-2022-last-call-1576-x-1136-17-.jpg",
-      "link": "https://www.paralacasa.com.br/pages/black-friday"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
