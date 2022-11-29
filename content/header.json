@@ -28,7 +28,7 @@
       "/sale?SALE",
       "/gifts?GIFTS"
     ],
-    "random": 9,
+    "random": 10,
     "full_width": true
   },
   "search_input": true,
