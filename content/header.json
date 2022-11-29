@@ -25,7 +25,8 @@
       "/cozinha/?COZINHA",
       "/organizar/?ORGANIZAR",
       "/aromas?AROMAS",
-      "/sale?SALE"
+      "/sale?SALE",
+      "/gifts?GIFTS"
     ],
     "random": 9,
     "full_width": true
