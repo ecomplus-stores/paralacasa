@@ -24,9 +24,10 @@
       "/decor/?DÉCOR",
       "/cozinha/?COZINHA",
       "/organizar/?ORGANIZAR",
-      "/aromas?AROMAS"
+      "/aromas?AROMAS",
+      "/sale?SALE"
     ],
-    "random": 7,
+    "random": 9,
     "full_width": true
   },
   "search_input": true,
