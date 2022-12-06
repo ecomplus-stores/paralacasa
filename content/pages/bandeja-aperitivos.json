@@ -1,0 +1,58 @@
+{
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-bandeja-em-ritmo-de-festa-shop-by-look-1576-x-1136-17-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "638f615573321213f8069c61:collections:BANDEJA - Em ritmo de festa I:/bandeja---em-ritmo-de-festa-i",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-shop-by-look-bandeja-em-ritmo-de-festa-1-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-shop-by-look-bandeja-em-ritmo-de-festa-4.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "638f61cd73321213f8069d6b:collections:BANDEJA - Em ritmo de festa II:/bandeja---em-ritmo-de-festa-ii",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-shop-by-look-bandeja-em-ritmo-de-festa-3.jpg"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-shop-by-look-bandeja-em-ritmo-de-festa-2.jpg"
+        }
+      ]
+    }
+  ],
+  "title": "BANDEJA  APERITIVOS",
+  "body": "E﻿m ritmo de festa !\n\nPara assistirmos aos jogos da Copa e não perdermos nenhuma jogada dos nossos craques, montamos uma bandeja com tudo o que precisamos para deixar tudo por perto.\n\nU﻿ma bandeja grande, copos ou taças, pratinhos, bowls e mini bowls (sempre) para patês, comidinhas etc...",
+  "meta_title": "BANDEJA  APERITIVOS",
+  "meta_description": "Para assistirmos aos jogos da Copa e não perdermos nenhuma jogada dos nossos craques, montamos uma bandeja com tudo o que precisamos para deixar tudo por perto."
+}
