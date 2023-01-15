@@ -1,7 +1,15 @@
 {
   "title": " SUMMER SALE ",
-  "body": "SUMMER SALE 2022 - ENCERRADA",
+  "body": "SUMMER SALE 2023 \n\nNossa SALE SUMMER, os mais pedidos com até 30% OFF.\n\nE﻿stoques limitados ! \n\nD﻿escontos não acumulativos",
   "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-summer-sale-2023-1576-x-1136-17-.jpg"
+        }
+      ]
+    },
     {
       "type": "extra-page",
       "enabled": true
