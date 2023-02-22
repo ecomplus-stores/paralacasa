@@ -4,13 +4,7 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-categoria-summer-sale-last-call-1576-x-1136-20-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/summer-sale",
-          "alt": "SALE SUMMER 23"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "banners-grid",
