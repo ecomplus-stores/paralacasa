@@ -74,7 +74,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
