@@ -68,14 +68,13 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "link": "https://paralacasa.com.br/new",
-      "title": "NEW"
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://paralacasa.com.br/new\">NEW</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
