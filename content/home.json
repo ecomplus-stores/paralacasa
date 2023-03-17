@@ -4,6 +4,14 @@
   "sections": [
     {
       "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sale-weekend-consumidor.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
       "banners": []
     },
     {
