@@ -1,0 +1,85 @@
+{
+  "title": "CAFÉ DA MANHÃ ACRÍLICOS",
+  "body": "Q﻿uando o que já era bom, fica ainda melhor!\n\nNossa linha de café da manhã está entre nossos best sellers e já faz parte do nosso dia a dia, agora para complementar o que já era bom ficou ainda melhor !\n\nN﻿ovas apostas em acrílico trazem praticidade na hora de servir, encantam pela leveza e trazem um novo pretexto para encontros intermináveis ao redor da mesa.\n\nN﻿esta produção com jogos americanos vichy fendi e talheres EME no tom caramelo que acabaram de retornar ao estoque.\n\nDê uma olhada nos essenciais para este momento !",
+  "meta_description": "N﻿ovas apostas em acrílico trazem praticidade na hora de servir, encantam pela leveza e trazem um novo pretexto para encontros intermináveis ao redor da mesa.",
+  "meta_title": "CAFÉ DA MANHÃ ACRÍLICOS",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-cafe-da-manha-acrilicos1576-x-1136-20-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/porta-frios.jpg"
+        },
+        {
+          "img": "/img/uploads/porta-paes.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "641b872b4bd2e929c1ac15fd:collections:CAFÉ DA MANHÃ  ESSENCIAIS - ACRÍLICO:/cafe-da-manha--essenciais---acrilico"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/vichy-fendi-1-.jpg"
+        },
+        {
+          "img": "/img/uploads/detalhe-eme.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "641b89504bd2e929c1ac185f:collections:CAFÉ DA MANHÃ ESSENCIAIS - EME:/cafe-da-manha-essenciais---eme"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "641b88654bd2e929c1ac16dc:collections:CAFÉ DA MANHÃ ESSENCIAIS - TEXTEIS:/cafe-da-manha-essenciais---texteis"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bandeja.jpg"
+        },
+        {
+          "img": "/img/uploads/cesto-paes.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "641b8a074bd2e929c1ac19ba:collections:CAFÉ DA MANHÃ ESSENCIAIS - louças e complementos:/cafe-da-manha-essenciais---loucas-e-complementos"
+    }
+  ]
+}
