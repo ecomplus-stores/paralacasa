@@ -6,10 +6,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-banner-home-cafe-da-manha-essencias-acrilico-1628-x-552-5-.jpg",
-          "mobile_img": "",
-          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos",
-          "alt": "Café da Manhã Acrílicos"
+          "img": "/img/uploads/maes-diadasmaes.jpg",
+          "mobile_img": "/img/uploads/maes-mobile.jpg",
+          "alt": "Cupom 15% de desconto - DIADASMAES"
         }
       ]
     },
@@ -17,9 +16,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/maes-diadasmaes.jpg",
-          "mobile_img": "/img/uploads/maes-mobile.jpg",
-          "alt": "Cupom 15% de desconto - DIADASMAES"
+          "img": "/img/uploads/ecom-plus-banner-home-cafe-da-manha-essencias-acrilico-1628-x-552-5-.jpg",
+          "mobile_img": "",
+          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos",
+          "alt": "Café da Manhã Acrílicos"
         }
       ]
     },
