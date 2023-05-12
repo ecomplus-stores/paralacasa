@@ -1,0 +1,77 @@
+{
+  "title": "NEW IN ! CAFÉ DA MANHÃ - MARFIM",
+  "body": "Novidades para nossas mesa de café da manhã! \n\nAmamos oferecer muitas possibilidades para criar e recriar este momento que para nós é muito especial, por esta razão nossa linha aumentou com novas peças, shapes e cores diferentes.\n\nN﻿esta produção usamos as peças em marfim, uma cor super coringa que permite inúmeras combinações com jogos americanos e  talheres, além disso temos também os acrílicos para servir frios, frutas e pães que compõem a linha.\n\nT﻿udo feito com muito carinho para inspirar as mesas de vocês, espero que gostem!\n\n\n\nB﻿eijos",
+  "meta_title": "CAFÉ DA MANHÃ | MARFIM | TALHERES EME",
+  "meta_description": "Shop on line ! Linha de café da manhã, talheres Eme, jogos americanos.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-colecao-cafe-da-manha-marfim1576-x-1136-21-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bandeja-front.jpg"
+        },
+        {
+          "img": "/img/uploads/boleira.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "645d59494bd2e929c1f8a5ef:collections:COLEÇÃO MARFIM:/colecao-marfim"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/argola.jpg"
+        },
+        {
+          "img": "/img/uploads/jogo-americano.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/frios.jpg"
+        },
+        {
+          "img": "/img/uploads/persp.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "641b88654bd2e929c1ac16dc:collections:CAFÉ DA MANHÃ ESSENCIAIS - TEXTEIS:/cafe-da-manha-essenciais---texteis"
+    }
+  ]
+}
