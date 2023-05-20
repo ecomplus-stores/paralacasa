@@ -4,8 +4,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/tarja-frete-gratis-750-00-1628-x-250.jpg",
-      "alt": "Frete Grátis"
+      "img": "/img/uploads/tarja-frete-gratis-750-00-1628-x-250.jpg"
     },
     {
       "type": "banners-grid",
