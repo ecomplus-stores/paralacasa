@@ -3,10 +3,6 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja-frete-gratis-750-00-1628-x-250.jpg"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
