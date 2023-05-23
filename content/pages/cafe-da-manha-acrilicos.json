@@ -30,7 +30,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "sort": "news",
       "collection_id": "641b872b4bd2e929c1ac15fd:collections:CAFÉ DA MANHÃ  ESSENCIAIS - ACRÍLICO:/cafe-da-manha--essenciais---acrilico"
@@ -49,7 +49,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "sort": "news",
       "collection_id": "641b89504bd2e929c1ac185f:collections:CAFÉ DA MANHÃ ESSENCIAIS - EME:/cafe-da-manha-essenciais---eme"
@@ -57,7 +57,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "sort": "news",
       "collection_id": "641b88654bd2e929c1ac16dc:collections:CAFÉ DA MANHÃ ESSENCIAIS - TEXTEIS:/cafe-da-manha-essenciais---texteis"
@@ -76,7 +76,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "sort": "news",
       "collection_id": "641b8a074bd2e929c1ac19ba:collections:CAFÉ DA MANHÃ ESSENCIAIS - louças e complementos:/cafe-da-manha-essenciais---loucas-e-complementos"
