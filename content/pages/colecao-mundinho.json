@@ -1,6 +1,6 @@
 {
   "title": "Coleção Mundinho",
-  "body": "`<﻿center>`\n\n![](/img/uploads/__1-colecao-mundinho-paralacasa.webp)\n\n` </center>`",
+  "body": "<!--StartFragment-->\n\n<center><p><img src=\"/img/uploads/__1-colecao-mundinho-paralacasa.webp\" alt=\"Coleção Mundinho - Esculturas \" title=\"Coleção Mundinho | A Poesia e a Arte se encontram nessa Coleção de Objetos\"></p></center>\n\n\n\n</div></section>\n\n\n\n<center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/vaso-o-poeta-e-o-poema\" aria-label=\"O Poeta e o Poema - Vaso Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__2-vaso-poeta-poema-paralacasa.png\" data-alt=\"O Poeta e o Poema - Vaso Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/__2-vaso-poeta-poema-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__2-vaso-poeta-poema-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"O Poeta e o Poema - Vaso Cerâmica \"></picture></a></center></div></div></div>\n\n\n\n<!--EndFragment-->",
   "meta_title": "Coleção Mundinho - Coleção de Objetos - Para la Casa",
   "meta_description": "Coleção Mundinho - Coleção de Objetos que são verdadeiras jóias para a casa - Para la Casa",
   "sections": [
@@ -11,12 +11,6 @@
     {
       "type": "extra-page",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__2-vaso-poeta-poema-paralacasa.webp",
-      "link": "https://www.paralacasa.com.br/vaso-o-poeta-e-o-poema",
-      "alt": "O Poeta e o Poema - Vaso Cerâmica "
     },
     {
       "type": "banners-grid",
