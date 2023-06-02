@@ -91,7 +91,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "views",
+      "link": "https://www.paralacasa.com.br/colecao-mundinho"
     },
     {
       "type": "info-bar",
