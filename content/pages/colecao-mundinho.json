@@ -1,0 +1,101 @@
+{
+  "title": "Coleção Mundinho",
+  "body": "![Coleção Mundinho - Esculturas ](/img/uploads/__1-colecao-mundinho-paralacasa.webp \"Coleção Mundinho | A Poesia e a Arte se encontram nessa Coleção de Objetos\")",
+  "meta_title": "Coleção Mundinho - Coleção de Objetos - Para la Casa",
+  "meta_description": "Coleção Mundinho - Coleção de Objetos que são verdadeiras jóias para a casa - Para la Casa",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__2-vaso-poeta-poema-paralacasa.webp",
+      "link": "https://www.paralacasa.com.br/vaso-o-poeta-e-o-poema",
+      "alt": "O Poeta e o Poema - Vaso Cerâmica "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__2-vaso-poeta-poema-paralacasa1.webp",
+          "link": "https://www.paralacasa.com.br/vaso-o-poeta-e-o-poema"
+        },
+        {
+          "img": "/img/uploads/__4-colecao-mundinho-gabriel-dalzotto.webp",
+          "alt": "O Poeta e o Poema - Vaso Cerâmica "
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__5-escultura-de-parede-mundinho-respiro-paralacasa.webp",
+      "alt": "Mundinho Respiro - Escultura de parede em cerâmica ",
+      "link": "https://www.paralacasa.com.br/mundinho-respiro"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__6-escultura-de-parede-mundinho-respiro-paralacasa.webp",
+      "link": "https://www.paralacasa.com.br/mundinho-respiro",
+      "alt": "Mundinho Respiro - Escultura de parede em cerâmica"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__7-escultura-ceramica-dzt-objetos-paralacasa.webp",
+      "link": "https://www.paralacasa.com.br/o-poeta-e-o-rei",
+      "alt": "O Poeta e o Rei - Escultura em Cerâmica"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__8-escultura-ceramica-dzt-objetos-paralacasa.webp",
+          "alt": "O Poeta e o Rei - Escultura em Cerâmica",
+          "link": "https://www.paralacasa.com.br/o-poeta-e-o-rei"
+        },
+        {
+          "img": "/img/uploads/__9-escultura-ceramica-dzt-objetos-paralacasa.webp",
+          "alt": "Esculturas em Cerâmica"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__10-escultura-ceramica-dzt-objetos-paralacasa-jornada.webp",
+      "link": "https://www.paralacasa.com.br/mundinho-jornada",
+      "alt": "Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__11-escultura-ceramica-dzt-objetos-paralacasa-jornada.webp",
+      "alt": "Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica",
+      "link": "https://www.paralacasa.com.br/mundinho-jornada"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__12-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.webp",
+      "alt": "O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica",
+      "link": "https://www.paralacasa.com.br/o-menino-que-sonhava-com-as-nuvens"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__13-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.webp",
+      "link": "https://www.paralacasa.com.br/o-menino-que-sonhava-com-as-nuvens",
+      "alt": "O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
