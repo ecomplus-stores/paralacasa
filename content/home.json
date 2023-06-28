@@ -89,7 +89,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "6494724e5e60690370451996:collections:Taças de Vinho:/especial-tacas",
-      "sort": "views",
+      "sort": "sales",
       "title": "TAÇAS VINHO",
       "link": "https://www.paralacasa.com.br/especial-tacas"
     },
@@ -99,7 +99,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "64947a115e6069037045277b:collections:Mantas, Almofadas e Velas:/mantas-almofadas-velas",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/mantas-almofadas-velas",
       "title": "MANTAS, ALMOFADAS E VELAS"
     },
