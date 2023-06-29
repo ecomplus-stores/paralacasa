@@ -1,7 +1,11 @@
 {
   "title": "SALE OFF",
-  "body": "Sale Off. ENCERRADA .",
+  "body": "Sale Off\n\nA﻿té 50% off",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-banner-home-sale-1628-x-552-6-.jpg"
+    },
     {
       "type": "extra-page",
       "enabled": true
