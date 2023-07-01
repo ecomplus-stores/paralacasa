@@ -79,8 +79,17 @@
       "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
-      "title": "NEW",
+      "title": "NEW - confira",
       "link": "https://www.paralacasa.com.br/new"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "SALE - ATÉ 50%OFF - veja mais",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "collection-shelf",
@@ -90,7 +99,7 @@
       "collection_id": "64946cbe5e606903704510c5:collections:QUEIJOS E PETISCOS:/inverno-com-queijos-e-petiscos",
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/inverno-com-queijos-e-petiscos",
-      "title": " QUEIJOS E PETISCOS"
+      "title": " QUEIJOS E PETISCOS - veja mais"
     },
     {
       "type": "collection-shelf",
@@ -99,7 +108,7 @@
       "page": 1,
       "collection_id": "6494724e5e60690370451996:collections:Taças de Vinho:/especial-tacas",
       "sort": "sales",
-      "title": "TAÇAS VINHO",
+      "title": "TAÇAS VINHO - veja aqui",
       "link": "https://www.paralacasa.com.br/especial-tacas"
     },
     {
@@ -110,7 +119,7 @@
       "collection_id": "64947a115e6069037045277b:collections:Mantas, Almofadas e Velas:/mantas-almofadas-velas",
       "sort": "news",
       "link": "https://www.paralacasa.com.br/mantas-almofadas-velas",
-      "title": "MANTAS, ALMOFADAS E VELAS"
+      "title": "MANTAS, ALMOFADAS E VELAS - confira"
     },
     {
       "type": "banners-grid",
