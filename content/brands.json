@@ -8,6 +8,11 @@
       "type": "page-title"
     },
     {
+      "type": "brand-retail",
+      "enabled": true,
+      "sort": "sales"
+    },
+    {
       "type": "custom-html",
       "html": "<H2> CONFIRA NOSSO BLOG</H2>"
     },
