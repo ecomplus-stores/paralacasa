@@ -23,6 +23,10 @@
     {
       "type": "recommended-products",
       "title": "RECOMENDAMOS PARA VOCÊ!"
+    },
+    {
+      "type": "buy-together",
+      "enabled": false
     }
   ]
 }
