@@ -13,6 +13,20 @@
       "sort": "sales"
     },
     {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "617300969bb4ce40f93b03d6:collections:NEW:/new"
+      ],
+      "sort": "news"
+    },
+    {
       "type": "custom-html",
       "html": "<H2> CONFIRA NOSSO BLOG</H2>"
     },
