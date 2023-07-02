@@ -27,6 +27,22 @@
     {
       "type": "buy-together",
       "enabled": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "title": "NEW - veja mais",
+      "link": "https://www.paralacasa.com.br/new"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sale-ate-50-off.jpg",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "alt": "SALE - ATÉ 50% OFF"
     }
   ]
 }
