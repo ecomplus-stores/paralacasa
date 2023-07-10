@@ -97,7 +97,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "64946cbe5e606903704510c5:collections:QUEIJOS E PETISCOS:/inverno-com-queijos-e-petiscos",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/inverno-com-queijos-e-petiscos",
       "title": " QUEIJOS E PETISCOS - veja mais"
     },
@@ -106,20 +106,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "6494724e5e60690370451996:collections:Taças de Vinho:/especial-tacas",
+      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu",
       "sort": "sales",
-      "title": "TAÇAS VINHO - veja aqui",
-      "link": "https://www.paralacasa.com.br/especial-tacas"
+      "title": "BAMBU - veja aqui",
+      "link": "https://www.paralacasa.com.br/bambu/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "64947a115e6069037045277b:collections:Mantas, Almofadas e Velas:/mantas-almofadas-velas",
+      "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofada",
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/mantas-almofadas-velas",
-      "title": "MANTAS, ALMOFADAS E VELAS - confira"
+      "link": "https://www.paralacasa.com.br/almofadas/",
+      "title": "ALMOFADAS - confira"
     },
     {
       "type": "banners-grid",
