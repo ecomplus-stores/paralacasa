@@ -5,18 +5,74 @@
   "meta_description": "All Green - Peças em Cerâmica - Aperitivos encontre em Para la Casa ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/1__colecao-all-green.webp"
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<center><p><img src=\"/img/uploads/1__colecao-all-green.webp\"  alt=”All Green- Peças de Servir em Cerâmica\" title=\"All Green- Peças de Servir em Cerâmica encontre em Para La Casa \"></p></center>\n\n</div></section>\n\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><div class=\"banner\"><center><a href=\"https://www.paralacasa.com.br/all-green-carciofo\" aria-label=\"Carciofo - 8 peças em cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/2__carciofo-paralacasa.webp\" data-alt=\"Coleção All Green - Carciofo - Cerâmica - Petiscos - Para la Casa \" data-loaded=\"true\">\n"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__3-paralacasa.webp",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo"
+        },
+        {
+          "img": "/img/uploads/__4-paralacasa.webp",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo"
+        },
+        {
+          "img": "/img/uploads/5-paralacasa.jpeg",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64aeb0ad5e606903706098af:collections:Carciofo:/all-green-carciofo",
+      "sort": "views",
+      "title": "Confira",
+      "link": "https://www.paralacasa.com.br/all-green-carciofo"
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/2__carciofo-paralacasa.webp",
-      "link": "https://www.paralacasa.com.br/all-green-carciofo",
-      "alt": "Coleção All Green - Carciofo - Cerâmica - Petiscos - Para la Casa"
+      "img": "/img/uploads/__5-couve-paralacasa.webp"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/7-paralacasa.jpeg",
+          "link": "https://www.paralacasa.com.br/all-green-couve"
+        },
+        {
+          "img": "/img/uploads/8-paralacasa.jpeg",
+          "link": "https://www.paralacasa.com.br/all-green-couve"
+        },
+        {
+          "img": "/img/uploads/9-paralacasa.jpeg",
+          "link": "https://www.paralacasa.com.br/all-green-couve"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64aeb2095e60690370609c53:collections:Couve:/all-green-couve",
+      "sort": "views",
+      "title": "Veja aqui",
+      "link": "https://www.paralacasa.com.br/all-green-couve"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
