@@ -1,0 +1,22 @@
+{
+  "title": "All Green - Peças em Cerâmica - Aperitivos ",
+  "body": "All Green - Peças em Cerâmica - Aperitivos - New em Para la Casa",
+  "meta_title": "All Green - Peças em Cerâmica - Aperitivos - Para la Casa ",
+  "meta_description": "All Green - Peças em Cerâmica - Aperitivos encontre em Para la Casa ",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1__colecao-all-green.webp"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/2__carciofo-paralacasa.webp",
+      "link": "https://www.paralacasa.com.br/all-green-carciofo",
+      "alt": "Coleção All Green - Carciofo - Cerâmica - Petiscos - Para la Casa"
+    }
+  ]
+}
