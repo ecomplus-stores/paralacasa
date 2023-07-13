@@ -97,7 +97,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "64946cbe5e606903704510c5:collections:QUEIJOS E PETISCOS:/inverno-com-queijos-e-petiscos",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/inverno-com-queijos-e-petiscos",
       "title": " QUEIJOS E PETISCOS - veja mais"
     },
@@ -107,7 +107,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu",
-      "sort": "sales",
+      "sort": "views",
       "title": "BAMBU - veja aqui",
       "link": "https://www.paralacasa.com.br/bambu/"
     },
@@ -116,10 +116,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofada",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/almofadas/",
-      "title": "ALMOFADAS - confira"
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/faqueiros/",
+      "title": "TALHERES  - confira"
     },
     {
       "type": "banners-grid",
