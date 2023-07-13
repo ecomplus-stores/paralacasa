@@ -13,23 +13,6 @@
       "html": "\n<center><p><img src=\"/img/uploads/ok__11colecao-all-green.webp\"  alt=”All Green- Peças de Servir em Cerâmica\" title=\"All Green- Peças de Servir em Cerâmica encontre em Para La Casa \"></p></center>\n\n</div></section>\n<center>\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><div class=\"banner\"><center><a href=\"https://www.paralacasa.com.br/all-green-carciofo\" aria-label=\"Carciofo - 8 peças em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/2__carciofo-paralacasa.png\" data-alt=\"Carciofo - 8 peças em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/2__carciofo-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/2__carciofo-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Carciofo - 8 peças em Cerâmica\"></picture></a></center></div></div></div></center>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-carciofo\" aria-label=\"Carciofo - 8 peças em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__3-paralacasa.png\" data-alt=\"Carciofo - 8 peças em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/__3-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__3-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Carciofo - 8 peças em Cerâmica \"></picture></a></center></div>\n\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-carciofo\" aria-label=\"Carciofo - 8 peças em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__4-paralacasa.png\" data-alt=\"Carciofo - 8 peças em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/__4-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__4-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Carciofo - 8 peças em Cerâmica \"></picture></a></center></div>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-carciofo\" aria-label=\"Carciofo - 8 peças em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/5-paralacasa.png\" data-alt=\"Carciofo - 8 peças em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/5-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/5-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Carciofo - 8 peças em Cerâmica \"></picture></a></center></div>\n"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__3-paralacasa.webp",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo"
-        },
-        {
-          "img": "/img/uploads/__4-paralacasa.webp",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo"
-        },
-        {
-          "img": "/img/uploads/5-paralacasa.jpeg",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -41,24 +24,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center>\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><div class=\"banner\"><center><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__5-couve-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/__5-couve-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__5-couve-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div></div></div></center>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/7-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/7-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/7-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/8-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/8-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/8-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/9-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/9-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/9-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n\n"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/7-paralacasa.jpeg",
-          "link": "https://www.paralacasa.com.br/all-green-couve"
-        },
-        {
-          "img": "/img/uploads/8-paralacasa.jpeg",
-          "link": "https://www.paralacasa.com.br/all-green-couve"
-        },
-        {
-          "img": "/img/uploads/9-paralacasa.jpeg",
-          "link": "https://www.paralacasa.com.br/all-green-couve"
-        }
-      ]
+      "html": "<center>\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><div class=\"banner\"><center><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__5-couve-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/__5-couve-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__5-couve-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div></div></div></center>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/7-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/7-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/7-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/8-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/8-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/8-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/all-green-couve\" aria-label=\"Couve - 7 peças para servir em Cerâmica \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/9-paralacasa.png\" data-alt=\"Couve - 7 peças para servir em Cerâmica \" data-loaded=\"true\"><source srcset=\"/img/uploads/9-paralacasa.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/9-paralacasa.png\" media=\"\" type=\"image/png\"><img alt=\"Couve - 7 peças para servir em Cerâmica\"></picture></a></center></div>\n\n\n\n"
     },
     {
       "type": "collection-shelf",
