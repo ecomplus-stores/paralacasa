@@ -78,7 +78,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "views",
+      "sort": "news",
       "title": "NEW - confira",
       "link": "https://www.paralacasa.com.br/new"
     },
@@ -97,7 +97,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/faqueiros/",
       "title": "TALHERES  - confira"
     },
@@ -107,7 +107,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/ceramica/",
       "title": "Cerâmicas  - veja mais"
     },
@@ -117,7 +117,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu",
-      "sort": "sales",
+      "sort": "views",
       "title": "BAMBU - veja aqui",
       "link": "https://www.paralacasa.com.br/bambu/"
     },
