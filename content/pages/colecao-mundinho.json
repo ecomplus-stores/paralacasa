@@ -57,6 +57,62 @@
       "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/_colecao-mundinho-1.webp",
+          "link": "https://www.paralacasa.com.br/vaso-sinto-o-sol",
+          "alt": "Vaso SInto o Sol - Coleção Mundinho"
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-2.webp",
+          "link": "https://www.paralacasa.com.br/vaso-sinto-o-sol",
+          "alt": "Coleção Mundinho - Esculturas e Arte"
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-3.webp",
+          "link": "https://www.paralacasa.com.br/vaso-sinto-o-sol"
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-4.webp",
+          "link": "https://www.paralacasa.com.br/vaso-sinto-o-sol"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__colecao-mundinho-5.webp",
+          "link": "https://www.paralacasa.com.br/o-vento",
+          "alt": "O Vento - Poesia e Arte - Coleção Mundinho"
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-6.webp",
+          "link": "https://www.paralacasa.com.br/o-vento",
+          "alt": "O Vento - Escultura e Poesia "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__colecao-mundinho-7.webp",
+          "link": "https://www.paralacasa.com.br/sonhador",
+          "alt": "Sonhador - Peças Exclusivas - Poesia e Escultura "
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-8.webp",
+          "link": "https://www.paralacasa.com.br/sonhador"
+        },
+        {
+          "img": "/img/uploads/__colecao-mundinho-9.webp",
+          "link": "https://www.paralacasa.com.br/sonhador"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
