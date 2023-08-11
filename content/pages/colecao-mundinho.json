@@ -48,15 +48,6 @@
       "html": "<div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/mundinho-jornada\" aria-label=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__10-escultura-ceramica-dzt-objetos-paralacasa-jornada.png\" data-alt=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\" data-loaded=\"true\"><source srcset=\"/img/uploads/__10-escultura-ceramica-dzt-objetos-paralacasa-jornada.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__10-escultura-ceramica-dzt-objetos-paralacasa-jornada.png\" media=\"\" type=\"image/png\"><img alt=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\"></picture></a></center></div>\n</div></section><div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/mundinho-jornada\" aria-label=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__11-escultura-ceramica-dzt-objetos-paralacasa-jornada.png\" data-alt=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\" data-loaded=\"true\"><source srcset=\"/img/uploads/__11-escultura-ceramica-dzt-objetos-paralacasa-jornada.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__11-escultura-ceramica-dzt-objetos-paralacasa-jornada.png\" media=\"\" type=\"image/png\"><img alt=\"Mundinho Jornada - Escultura  produzida artesanalmente em cerâmica\"></picture></a></center></div>\n</div></section><div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/o-menino-que-sonhava-com-as-nuvens\" aria-label=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__12-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.png\" data-alt=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\" data-loaded=\"true\"><source srcset=\"/img/uploads/__12-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__12-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.png\" media=\"\" type=\"image/png\"><img alt=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\"></picture></a></center></div>\n</div></section><div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\">\n  <center><div class=\"banner\">\n    <a href=\"https://www.paralacasa.com.br/o-menino-que-sonhava-com-as-nuvens\" aria-label=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__13-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.png\" data-alt=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\" data-loaded=\"true\"><source srcset=\"/img/uploads/__13-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.webp\" media=\"\" type=\"image/webp\">\n      <source srcset=\"/img/uploads/__13-escultura-ceramica-dzt-objetos-paralacasa-o-menino-que-sonhava-com-as-nuvens.png\" media=\"\" type=\"image/png\">\n      <img alt=\"O menino que  sonhava com as nuvens - Escultura  produzida artesanalmente em cerâmica\"></picture></a></center></div>\n  </div></section>\n"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/colecao-mundinho",
-      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
-    },
-    {
       "type": "custom-html",
       "html": "<div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.paralacasa.com.br/vaso-sinto-o-sol\" aria-label=\"Mundinho Sol - Vaso Escultura  produzida artesanalmente em cerâmica\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/_colecao-mundinho-1.png\" data-alt=\"Mundinho Sol - Vaso Escultura  produzida artesanalmente em cerâmica\" data-loaded=\"true\"><source srcset=\"/img/uploads/_colecao-mundinho-1.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/_colecao-mundinho-1.png\" media=\"\" type=\"image/png\"><img alt=\"Mundinho Sol - Vaso Escultura  produzida artesanalmente em cerâmica\"></picture></a></center></div>\n</div>\n"
     },
@@ -92,6 +83,15 @@
           "alt": "Sonhador - Escultura e Poesia "
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "link": "https://www.paralacasa.com.br/colecao-mundinho",
+      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
     },
     {
       "type": "info-bar",
