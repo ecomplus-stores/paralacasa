@@ -37,12 +37,6 @@
       "sort": "news",
       "title": "NEW - veja mais",
       "link": "https://www.paralacasa.com.br/new"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__sale-para-la-casa-50off.webp",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "alt": "SALE - ATÉ 50% OFF"
     }
   ]
 }
