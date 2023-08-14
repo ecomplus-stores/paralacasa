@@ -1,14 +1,10 @@
 {
   "title": "SALE OFF",
-  "body": "Sale Off\n\nA﻿té 50% off",
+  "body": "Sale Off\n\nA﻿té 50% off - Encerrada",
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__sale-para-la-casa-50off.webp"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "extra-page",
@@ -20,6 +16,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": " Sale Off",
+  "meta_title": " Sale Off - Encerrada",
   "meta_description": " Sale Para La Casa "
 }
