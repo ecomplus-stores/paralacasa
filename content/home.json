@@ -17,12 +17,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-bambu.jpg",
+          "img": "/img/uploads/_paralacasa_bambu.webp",
           "link": "https://www.paralacasa.com.br/bambu/",
           "alt": "Bandeja Waffles"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-acrilicos-788-x-518-px-7-.jpg",
+          "img": "/img/uploads/_paralacasa_mesaposta_acrilicos.webp",
           "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos",
           "alt": "Café da Manhã - Acrílicos"
         }
@@ -32,17 +32,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-527-x-515-px-17-.jpg",
+          "img": "/img/uploads/_paralacasa_colecaomundinho-esculturaepoesia.webp",
           "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
           "alt": "Décor - As nossas apostas em objetos para o décor."
         },
         {
-          "img": "/img/uploads/home-menta-cafeda-manha-527-x-515-px-3-.jpg",
+          "img": "/img/uploads/_paralacasa_menta_cafedamanha.webp",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
           "alt": "Nossas apostas para o café da manhã."
         },
         {
-          "img": "/img/uploads/ecom-plus-all-green-home-527-x-515-px-17-.jpg",
+          "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
           "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
           "alt": "All green novas escolhas para servir."
         }
@@ -52,12 +52,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-eme.jpg",
+          "img": "/img/uploads/_paralacasa_talheres-italianos-eme.webp",
           "link": "https://paralacasa.com.br/colecao-eme",
           "alt": "Coleção Eme"
         },
         {
-          "img": "/img/uploads/e-com-plus-jogos-americanos.jpg",
+          "img": "/img/uploads/_paralacasa_jogosamericanos.webp",
           "link": "https://www.paralacasa.com.br/jogos-americanos/",
           "alt": "Vista Alegre - Apaixone-se"
         }
