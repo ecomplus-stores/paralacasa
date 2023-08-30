@@ -78,7 +78,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "COLEÇÃO BAMBU - veja mais",
       "link": "https://www.paralacasa.com.br/bambu/",
       "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu"
@@ -89,7 +89,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/jogos-americanos/",
       "title": "JOGOS AMERICANOS"
     },
@@ -99,7 +99,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/faqueiros/",
       "title": "TALHERES - COLEÇÃO EME"
     },
@@ -109,7 +109,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
-      "sort": "views",
+      "sort": "news",
       "title": "Nossas escolhas para o servir o café da manhã e fazer este momento ainda mais especial.",
       "link": "https://www.paralacasa.com.br/cafe-da-manha"
     },
