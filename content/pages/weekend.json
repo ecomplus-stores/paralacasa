@@ -1,0 +1,85 @@
+{
+  "title": "WEEKEND",
+  "body": "Um Mood descontraído para o final de semana?\n\nSim, temos !!\n\nNovas apostas para os jogos americanos e a mistura de cerâmicas de diferentes coleções fazem a diversão na hora de montar uma mesa para receber os amigos.\n\nA﻿qui selecionamos alguns dos nossos preferidos para este momento especial.\n\n\n\nB﻿eijos",
+  "meta_title": "Um Mood descontraído para o final de semana?",
+  "meta_description": "Novas apostas para os jogos americanos e a mistura de cerâmicas de diferentes coleções fazem a diversão na hora de montar uma mesa para receber os amigos.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-banner-home-weekend-1628-x-552-6-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/persp-esq.jpg"
+        },
+        {
+          "img": "/img/uploads/det.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6185bf46239b7206d3025348:collections:TÊXTEIS NEUTROS:/texteis-neutros",
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/front.jpg"
+        },
+        {
+          "img": "/img/uploads/top-persp.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "64aeb2095e60690370609c53:collections:Couve:/all-green-couve",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6180464b239b7206d3fc11f0:collections:BORDALLO PINHEIRO:/bordallo-pinheiro",
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/top.jpg"
+        },
+        {
+          "img": "/img/uploads/det-persp.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "news"
+    }
+  ]
+}
