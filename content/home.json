@@ -14,6 +14,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__fretegratisemanadocliente.webp",
+      "link": "https://www.paralacasa.com.br/pages/faq",
+      "alt": "Semana do Cliente Frete Grátis *envio econômico"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -27,6 +33,16 @@
           "alt": "Café da Manhã - Acrílicos"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "title": "NEW - confira",
+      "link": "https://www.paralacasa.com.br/new"
     },
     {
       "type": "banners-grid",
@@ -49,6 +65,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "COLEÇÃO MUNDINHO - veja mais",
+      "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
+      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -68,28 +94,8 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "title": "NEW - confira",
-      "link": "https://www.paralacasa.com.br/new"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "COLEÇÃO BAMBU - veja mais",
-      "link": "https://www.paralacasa.com.br/bambu/",
-      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/jogos-americanos/",
       "title": "JOGOS AMERICANOS"
     },
@@ -98,10 +104,19 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/faqueiros/",
-      "title": "TALHERES - COLEÇÃO EME"
+      "collection_id": "61856afb239b7206d301dfbb:brands:Vista Alegre:/vista-alegre-marca",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/vista-alegre-marca",
+      "title": "VISTA ALEGRE - veja mais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "SALE -  veja mais",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "collection-shelf",
@@ -112,15 +127,6 @@
       "sort": "news",
       "title": "Nossas escolhas para o servir o café da manhã e fazer este momento ainda mais especial.",
       "link": "https://www.paralacasa.com.br/cafe-da-manha"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "SALE -  veja mais",
-      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "banners-grid",
