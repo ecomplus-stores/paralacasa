@@ -17,6 +17,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-banner-home-weekend-1628-x-552-6-.jpg",
+          "alt": "Weekend ",
+          "link": "https://www.paralacasa.com.br/pages/weekend"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/_paralacasa_bambu.webp",
           "link": "https://www.paralacasa.com.br/bambu/",
           "alt": "Bandeja Waffles"
