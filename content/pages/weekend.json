@@ -1,12 +1,13 @@
 {
   "title": "WEEKEND",
-  "body": "Um Mood descontraído para o final de semana?\n\nSim, temos !!\n\nNovas apostas para os jogos americanos e a mistura de cerâmicas de diferentes coleções fazem a diversão na hora de montar uma mesa para receber os amigos.\n\nA﻿qui selecionamos alguns dos nossos preferidos para este momento especial.\n\n\n\nB﻿eijos",
-  "meta_title": "Um Mood descontraído para o final de semana?",
-  "meta_description": "Novas apostas para os jogos americanos e a mistura de cerâmicas de diferentes coleções fazem a diversão na hora de montar uma mesa para receber os amigos.",
+  "body": "Um Mood descontraído para o final de semana?\n\nSim, temos !!\n\n## Mesa Perfeita: Jogos Americanos e Cerâmicas para Receber Amigos!\n\nNovas apostas para os jogos americanos e a mistura de cerâmicas de diferentes coleções fazem a diversão na hora de montar uma mesa para receber os amigos.\n\nA﻿qui selecionamos alguns dos nossos preferidos para este momento especial.\n\nB﻿eijos",
+  "meta_title": "Mesa Perfeita: Jogos Americanos e Cerâmicas para Receber Amigos!",
+  "meta_description": "Descubra as novas apostas nos Jogos Americanos e a mistura criativa de cerâmicas de coleções diversas para montar uma mesa perfeita ao receber amigos. Confira mais em Para La Casa",
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-banner-home-weekend-1628-x-552-6-.jpg"
+      "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
+      "alt": "Mesa Perfeita: Jogos Americanos e Cerâmicas para Receber Amigos!"
     },
     {
       "type": "extra-page",
@@ -20,10 +21,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/persp-esq.jpg"
+          "img": "/img/uploads/__persp-esq-mesaposta-paralacasa.webp",
+          "alt": "Mesa Perfeita:Jogos em Cerâmica Para La Casa"
         },
         {
-          "img": "/img/uploads/det.jpg"
+          "img": "/img/uploads/__det-petisqueiras-ceramica.webp",
+          "alt": "Mesa Perfeita: Jogos Americanos e Cerâmicas All Green Para La Casa "
         }
       ]
     },
@@ -39,10 +42,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/front.jpg"
+          "img": "/img/uploads/__front-ceramicas-paralacasa.webp",
+          "alt": "Celebre com uma Mesa Posta Perfeita Para La Casa"
         },
         {
-          "img": "/img/uploads/top-persp.jpg"
+          "img": "/img/uploads/__top-persp-ceramicas-paralacasa.webp",
+          "alt": "Talheres de Luxo com Cerâmicas All Green Para La Casa"
         }
       ]
     },
@@ -66,10 +71,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/top.jpg"
+          "img": "/img/uploads/__top-ceramicas-paralacasa.webp",
+          "alt": "Talheres Luxo - Coleção EME , Mesa Posta com Jogos Americanos e Cerâmicas Para La Casa"
         },
         {
-          "img": "/img/uploads/det-persp.jpg"
+          "img": "/img/uploads/__det-persp-ceramicas-paralacasa.webp",
+          "alt": "Mesa Posta Luxo com Cerâmicas e Coleção EME Para La Casa"
         }
       ]
     },
