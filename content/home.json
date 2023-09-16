@@ -6,7 +6,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-categoria-cliente-23-colecao-1576-x-1136-27-.jpg",
+          "img": "/img/uploads/__categoria-cliente-23-colecao-1576-x-1136.webp",
           "mobile_img": "",
           "link": "https://www.paralacasa.com.br/pages/sale",
           "alt": "Semana do Cliente - Frete Grátis confira as regras"
@@ -17,8 +17,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-banner-home-weekend-1628-x-552-6-.jpg",
-          "alt": "Weekend ",
+          "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
+          "alt": "Weekend Para La Casa ",
           "link": "https://www.paralacasa.com.br/pages/weekend"
         }
       ]
@@ -27,14 +27,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-mundinho-788-x-518-px-11-.jpg",
+          "img": "/img/uploads/__mundinho-788-x-518.webp",
           "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
-          "alt": "Objetos cheios de poesia e significados. Design Brasileiro"
+          "alt": "Objetos cheios de poesia e significados. Design Brasileiro Para La Casa "
         },
         {
           "img": "/img/uploads/_paralacasa_mesaposta_acrilicos.webp",
           "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos",
-          "alt": "Café da Manhã - Acrílicos"
+          "alt": "Café da Manhã - Acrílicos - Mesa Posta - Para La Casa"
         }
       ]
     },
@@ -42,19 +42,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-bambu-527-x-515-px-18-.jpg",
+          "img": "/img/uploads/__bambu-527-x-515-px.webp",
           "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "Nossa seleção de peças em bambu cheias de charme e com a nossa cara tropical."
+          "alt": "Peças em Bambu cheias de charme e com a nossa cara tropical. Para La Casa"
         },
         {
           "img": "/img/uploads/_paralacasa_menta_cafedamanha.webp",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
-          "alt": "Nossas apostas para o café da manhã."
+          "alt": "Mesa Posta - Nossas escolhas para Café da Manhã Mesa Posta - Para La Casa"
         },
         {
           "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
           "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
-          "alt": "All green novas escolhas para servir."
+          "alt": "Cerâmica - Aperitivos - All green novas escolhas para servir.Para La Casa"
         }
       ]
     },
@@ -64,12 +64,12 @@
         {
           "img": "/img/uploads/_paralacasa_talheres-italianos-eme.webp",
           "link": "https://paralacasa.com.br/colecao-eme",
-          "alt": "Coleção Eme"
+          "alt": "Talheres de Luxo - Coleção Eme - Para La Casa "
         },
         {
-          "img": "/img/uploads/e-com-plus-jogo-americano-palhinha-788-x-518-px-10-.jpg",
+          "img": "/img/uploads/__jogo-americano-palhinha-788-x-518.webp",
           "link": "https://www.paralacasa.com.br/jogos-americanos/",
-          "alt": "Vista Alegre - Apaixone-se"
+          "alt": "Jogos Americanos - Mesa Posta - Para La Casa"
         }
       ]
     },
@@ -136,19 +136,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-527x515-cozinha.jpg",
+          "img": "/img/uploads/__527x515-cozinha.webp",
           "link": "https://www.paralacasa.com.br/cozinha/",
-          "alt": "Cozinha"
+          "alt": "Para Cozinha - Acessórios para Praticidade - Para La Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-home-shop-by-looks-527-x-515-px-16-.jpg",
+          "img": "/img/uploads/__home-shop-by-looks-527-x-515-px.webp",
           "link": "https://www.paralacasa.com.br/pages/shop-by-look",
-          "alt": ""
+          "alt": "Para La Casa - Shop by Look - Tendências e Luxo "
         },
         {
-          "img": "/img/uploads/ecom-plus-home-porcelanas-527-x-515-px-16-.jpg",
+          "img": "/img/uploads/__home-porcelanas-527-x-515.webp",
           "link": "https://www.paralacasa.com.br/porcelana/",
-          "alt": ""
+          "alt": "Porcelana - Tendências e Luxo - Para La Casa"
         }
       ]
     }
