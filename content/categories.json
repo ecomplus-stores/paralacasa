@@ -17,20 +17,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/home-jg-americ-categoria-blog-rodape.jpg",
+          "img": "/img/uploads/__home-jg-americ-categoria-blog-rodape.webp",
           "mobile_img": "",
           "link": "https://paralacasa.com.br/jogos-americanos/",
-          "alt": "Jogos Americanos confira"
+          "alt": "Jogos Americanos Tendências Para La Casa"
         },
         {
-          "img": "/img/uploads/home-copa-categ-blog-rodape.jpg",
+          "img": "/img/uploads/__home-copa-categ-blog-rodape.webp",
           "link": "https://paralacasa.com.br/copa/",
-          "alt": "Copa, veja todos"
+          "alt": "Copa - Acessórios e Praticidade Para La Casa"
         },
         {
-          "img": "/img/uploads/home-organizar-categ-blog-rodape.jpg",
+          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
           "link": "https://paralacasa.com.br/potes-hermeticos/",
-          "alt": "Potes Organizadores"
+          "alt": "Potes Organizadores Herméticos - Para La Casa"
         }
       ]
     }
