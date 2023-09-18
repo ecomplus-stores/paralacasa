@@ -6,17 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__categoria-cliente-23-colecao-1576-x-1136.webp",
-          "mobile_img": "",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "Semana do Cliente - Frete Grátis confira as regras"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
           "alt": "Weekend Para La Casa ",
           "link": "https://www.paralacasa.com.br/pages/weekend"
