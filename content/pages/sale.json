@@ -1,15 +1,7 @@
 {
   "title": "SALE OFF",
-  "body": "Sale Off\n\nNa Para La Casa, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você, nosso querido cliente! 🏡✨ \n\nPara celebrar o Dia do Cliente,  queremos expressar nossa gratidão por fazer parte da nossa família. \nPreparamos uma **dose dupla de presentes**: **Frete Grátis para todo o Brasil** *nas compras a partir de R$200* e **15% OFF nas compras a partir de R$400**. Por tempo limitado.\n\nA﻿lém de **peças selecionadas com até 30% de desconto**, confira abaixo:",
+  "body": "Sale Off\n\nNa Para La Casa, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\nConfira **peças selecionadas com até descontos especiais.** confira abaixo:",
   "sections": [
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__diadocliente.webp"
-        }
-      ]
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -20,6 +12,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": " Sale Off - Semana do Cliente",
+  "meta_title": " Sale Off - Descontos especiais em Para La Casa",
   "meta_description": " Sale Para La Casa "
 }
