@@ -67,6 +67,16 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "617b472888313d7b958628e6:categories:TUDO EM MESA :/tudo-em-mesa/",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/tudo-em-mesa/",
+      "title": "TUDO EM MESA - ver mais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
       "title": "NEW - confira",
@@ -75,12 +85,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "title": "JOGOS AMERICANOS"
+      "sort": "offers",
+      "title": "SALE -  veja mais",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "collection-shelf",
@@ -95,19 +104,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "SALE -  veja mais",
-      "link": "https://www.paralacasa.com.br/pages/sale"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/ceramica/",
       "title": "CERÂMICA - veja mais"
     },
@@ -117,7 +117,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/",
-      "sort": "views",
+      "sort": "sales",
       "title": "PORCELANAS - veja mais ",
       "link": "https://www.paralacasa.com.br/porcelana/"
     },
