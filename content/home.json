@@ -67,6 +67,16 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "title": "NEW - confira",
+      "link": "https://www.paralacasa.com.br/new"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "617b472888313d7b958628e6:categories:TUDO EM MESA :/tudo-em-mesa/",
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/tudo-em-mesa/",
@@ -75,12 +85,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "title": "NEW - confira",
-      "link": "https://www.paralacasa.com.br/new"
+      "sort": "sales",
+      "title": "COLEÇÃO MUNDINHO - veja mais",
+      "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
+      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
     },
     {
       "type": "collection-shelf",
@@ -94,20 +104,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "COLEÇÃO MUNDINHO - veja mais",
-      "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
-      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/ceramica/",
       "title": "CERÂMICA - veja mais"
     },
@@ -117,7 +117,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/",
-      "sort": "sales",
+      "sort": "news",
       "title": "PORCELANAS - veja mais ",
       "link": "https://www.paralacasa.com.br/porcelana/"
     },
