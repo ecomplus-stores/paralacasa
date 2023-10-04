@@ -95,15 +95,6 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "SALE -  veja mais",
-      "link": "https://www.paralacasa.com.br/pages/sale"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
