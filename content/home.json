@@ -69,48 +69,58 @@
       "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
-      "title": "NEW - confira",
+      "title": "NEW",
       "link": "https://www.paralacasa.com.br/new"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617b472888313d7b958628e6:categories:TUDO EM MESA :/tudo-em-mesa/",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/mesa/",
-      "title": "TUDO EM MESA - ver mais"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "sales",
+      "title": "PARA DECORAR",
+      "link": "https://www.paralacasa.com.br/decor/",
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/",
+      "title": "JOGOS AMERICANOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "617b471d88313d7b958628c0:categories:BAMBU:/bambu/",
       "sort": "views",
-      "title": "COLEÇÃO MUNDINHO - veja mais",
-      "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
-      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho"
+      "link": "https://www.paralacasa.com.br/bambu/",
+      "title": "PEÇAS EM BAMBU"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
+      "collection_id": "617b471588313d7b958628a0:categories:COZINHA:/cozinha/",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICA - veja mais"
+      "link": "https://www.paralacasa.com.br/cozinha/",
+      "title": "PARA SUA COZINHA"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/",
-      "sort": "sales",
-      "title": "PORCELANAS - veja mais ",
-      "link": "https://www.paralacasa.com.br/porcelana/"
+      "collection_id": "617b472488313d7b958628d7:categories:ORGANIZAR:/organizar/",
+      "sort": "news",
+      "title": "PARA ORGANIZAR",
+      "link": "https://www.paralacasa.com.br/organizar/"
     },
     {
       "type": "banners-grid",
