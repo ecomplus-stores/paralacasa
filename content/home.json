@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-categoria-15-off-1576-x-1136-27-.jpg",
+          "link": "",
+          "alt": "sale 15% off"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
           "alt": "Weekend Para La Casa ",
           "link": "https://www.paralacasa.com.br/pages/weekend"
