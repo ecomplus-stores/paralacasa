@@ -75,12 +75,22 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
+      "collection_id": "617b471c88313d7b958628bb:categories:MURANOS:/muranos/",
       "sort": "news",
-      "title": "PARA DECORAR",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/"
+      "title": "CRISTAIS MURANOS",
+      "link": "https://www.paralacasa.com.br/muranos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
+      "sort": "highest_price",
+      "link": "https://www.paralacasa.com.br/bandejas-tabuas/",
+      "title": "BANDEJAS -VEJA MAIS"
     },
     {
       "type": "collection-shelf",
@@ -88,7 +98,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/jogos-americanos/",
       "title": "JOGOS AMERICANOS"
     },
@@ -97,30 +107,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b471d88313d7b958628c0:categories:BAMBU:/bambu/",
+      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/bambu/",
-      "title": "PEÇAS EM BAMBU"
+      "link": "https://www.paralacasa.com.br/cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "collection_id": "617b471588313d7b958628a0:categories:COZINHA:/cozinha/",
-      "sort": "highest_price",
-      "link": "https://www.paralacasa.com.br/cozinha/",
-      "title": "PARA SUA COZINHA"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617b472488313d7b958628d7:categories:ORGANIZAR:/organizar/",
-      "sort": "sales",
-      "title": "PARA ORGANIZAR",
-      "link": "https://www.paralacasa.com.br/organizar/"
+      "sort": "views",
+      "title": "PARA DECORAR",
+      "link": "https://www.paralacasa.com.br/decor/",
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/"
     },
     {
       "type": "banners-grid",
