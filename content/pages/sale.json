@@ -1,6 +1,6 @@
 {
   "title": "SALE OFF",
-  "body": "BLACK WEEK - de 18 a 27 de Novembro \n\nNa Para La Casa, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\nAté **45% OFF** **peças selecionadas com descontos especiais.** confira abaixo:",
+  "body": "## BLACK WEEK - a partir de 18 de novembro \n\nNa **Para La Casa**, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\n##### Até **45% OFF** P**eças selecionadas com descontos especiais veja abaixo:**",
   "sections": [
     {
       "type": "banner-slider",
@@ -46,6 +46,21 @@
           "img": "/img/uploads/bf23-bambu.jpg",
           "link": "https://www.paralacasa.com.br/descontos-em-bambu",
           "alt": "ATÉ 30% OFF - BAMBU - BLACK FRIDAY 2023 "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bf23-talheres.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-talheres",
+          "alt": "ATÉ 15% OFF - TALHERES - BLACK FRIDAY 2023  "
+        },
+        {
+          "img": "/img/uploads/bf23-jg-americano.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos",
+          "alt": "ATÉ 45% OFF - Jogos Americanos, Argolas e Guardanapos - BLACK FRIDAY 2023 "
         }
       ]
     },
