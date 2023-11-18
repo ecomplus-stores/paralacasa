@@ -1,17 +1,64 @@
 {
   "title": "SALE OFF",
-  "body": "Sale Off\n\nNa Para La Casa, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\nConfira **peças selecionadas com até descontos especiais.** confira abaixo:",
+  "body": "BLACK WEEK - de 18 a 27 de Novembro \n\nNa Para La Casa, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\nAté **45% OFF** **peças selecionadas com descontos especiais.** confira abaixo:",
   "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bf23-banner-geral-bf.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bf23-loucas.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
+          "alt": "ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2023"
+        },
+        {
+          "img": "/img/uploads/bf23-tacas-e-copos.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
+          "alt": "ATÉ 30% OFF - TAÇAS E COPOS - BLACK FRIDAY 2023 "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bf23-bandejas-e-tabuas.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
+          "alt": "ATÉ 25% OFF - BANDEJAS E TÁBUAS - BLACK FRIDAY 2023"
+        },
+        {
+          "img": "/img/uploads/bf23-cafe-da-manha-e-aperitivos.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-cafe-da-manha-e-aperitivos",
+          "alt": "ATÉ 25% OFF - Café da Manhã e Aperitivos - BLACK FRIDAY 2023"
+        },
+        {
+          "img": "/img/uploads/bf23-bambu.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-bambu",
+          "alt": "ATÉ 30% OFF - BAMBU - BLACK FRIDAY 2023 "
+        }
+      ]
+    },
     {
       "type": "extra-page",
       "enabled": true
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "offers"
     }
   ],
-  "meta_title": " Sale Off - Descontos especiais em Para La Casa",
-  "meta_description": " Sale Para La Casa "
+  "meta_title": "até 45% OFF - BLACK WEEK - Descontos especiais em Para La Casa",
+  "meta_description": "BLACK WEEK - até 45% OFF- Para La Casa "
 }
