@@ -67,60 +67,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b472188313d7b958628cc:categories:TAÇAS e COPOS:/tacas-e-copos/",
-      "sort": "news",
-      "title": "Taças e Copos ",
-      "link": "https://www.paralacasa.com.br/tacas-e-copos/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617b471c88313d7b958628bb:categories:MURANOS:/muranos/",
-      "sort": "sales",
-      "title": "Cristais Muranos",
-      "link": "https://www.paralacasa.com.br/muranos/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/bandejas-tabuas/",
-      "title": "Bandejas e Tábuas "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "title": "Jogos Americanos "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/colecao-olinda",
-      "title": "Porcelana Feita à mão pela Rosa dos Ventos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Décor e Objetos",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/"
+      "collection_id": null,
+      "sort": "offers",
+      "title": "BLACK WEEK ",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "banners-grid",
