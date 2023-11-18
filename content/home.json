@@ -6,9 +6,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
-          "alt": "Weekend Para La Casa ",
-          "link": "https://www.paralacasa.com.br/pages/weekend"
+          "img": "/img/uploads/__bf23-banner-geral-bf.webp",
+          "alt": "Black Week Para La Casa ",
+          "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
     },
@@ -16,13 +16,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-mundinho788-x-518-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/colecao-mundinho",
-          "alt": "Design brasileiro cheio de significados."
+          "img": "/img/uploads/__bf23-loucas.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
+          "alt": "30% OFF "
         },
         {
-          "img": "/img/uploads/e-com-plus-home-tacas-788-x-518-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
+          "img": "/img/uploads/__bf23-tacas-e-copos.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
           "alt": "Nossas apostas em taças e copos."
         }
       ]
@@ -31,19 +31,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bambu-527-x-515-px.webp",
-          "link": "https://www.paralacasa.com.br/bambu/",
+          "img": "/img/uploads/__bf23-bandejas-e-tabuas.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
           "alt": "Peças em Bambu cheias de charme e com a nossa cara tropical. Para La Casa"
         },
         {
-          "img": "/img/uploads/_paralacasa_menta_cafedamanha.webp",
-          "link": "https://www.paralacasa.com.br/cafe-da-manha",
+          "img": "/img/uploads/__bf23-cafe-da-manha-e-aperitivos.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-cafe-da-manha-e-aperitivos",
           "alt": "Mesa Posta - Nossas escolhas para Café da Manhã Mesa Posta - Para La Casa"
         },
         {
-          "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
-          "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
-          "alt": "Cerâmica - Aperitivos - All green novas escolhas para servir.Para La Casa"
+          "img": "/img/uploads/__bf23-bambu.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-bambu",
+          "alt": "30% OFF em Bambu "
         }
       ]
     },
@@ -51,13 +51,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/_paralacasa_talheres-italianos-eme.webp",
-          "link": "https://www.paralacasa.com.br/colecao-eme",
+          "img": "/img/uploads/__bf23-talheres.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-talheres",
           "alt": "Talheres de Luxo - Coleção Eme - Para La Casa "
         },
         {
-          "img": "/img/uploads/e-com-plus-home-jg-americano-rosa-788-x-518-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/jogos-americanos/",
+          "img": "/img/uploads/__bf23-jg-americano.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos",
           "alt": "Jogos Americanos - Mesa Posta - Para La Casa"
         }
       ]
@@ -126,19 +126,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__527x515-cozinha.webp",
-          "link": "https://www.paralacasa.com.br/cozinha/",
+          "img": "/img/uploads/__bf23-cozinha-e-organizacao.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-e-organizacao",
           "alt": "Para Cozinha - Acessórios para Praticidade - Para La Casa"
         },
         {
-          "img": "/img/uploads/__home-shop-by-looks-527-x-515-px.webp",
-          "link": "https://www.paralacasa.com.br/pages/shop-by-look",
+          "img": "/img/uploads/__bf23-decor-e-gifts.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
           "alt": "Para La Casa - Shop by Look - Tendências e Luxo "
         },
         {
-          "img": "/img/uploads/__home-porcelanas-527-x-515.webp",
-          "link": "https://www.paralacasa.com.br/porcelana/",
-          "alt": "Porcelana - Tendências e Luxo - Para La Casa"
+          "img": "/img/uploads/__bf23-lavabo-e-aromas.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
+          "alt": "Lavabo e Aromas 30% off"
         }
       ]
     }
