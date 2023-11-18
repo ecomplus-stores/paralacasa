@@ -73,6 +73,11 @@
       "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
