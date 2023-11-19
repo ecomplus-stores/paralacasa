@@ -16,6 +16,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/tarja-bf-23-frete-gratis-a-partir-de-950-00.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/__bf23-loucas.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-loucas",
           "alt": "30% OFF "
