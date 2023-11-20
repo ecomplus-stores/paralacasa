@@ -13,12 +13,8 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tarja-bf-23-frete-gratis-a-partir-de-950-00.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja-bf-23-frete-gratis-a-partir-de-950-00.jpg"
     },
     {
       "type": "banners-grid",
