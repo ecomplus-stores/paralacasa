@@ -3,6 +3,10 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja-1628x-200px.jpg"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -11,10 +15,6 @@
           "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja-bf-23-frete-gratis-a-partir-de-950-00.jpg"
     },
     {
       "type": "banners-grid",
