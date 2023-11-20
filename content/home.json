@@ -13,9 +13,13 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja-bf.jpg",
-      "mobile_img": "/img/uploads/fretem.png"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/tarja-bf.jpg",
+          "mobile_img": "/img/uploads/fretem1.png"
+        }
+      ]
     },
     {
       "type": "banners-grid",
