@@ -33,6 +33,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/tarja-bf.jpg",
+          "mobile_img": "/img/uploads/fretem1.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/bf23-bandejas-e-tabuas.jpg",
           "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
           "alt": "ATÉ 25% OFF - BANDEJAS E TÁBUAS - BLACK FRIDAY 2023"
