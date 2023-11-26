@@ -15,6 +15,17 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-11-26T19:11:01.676Z",
+      "end": "2023-11-28T03:00:01.780Z",
+      "offers": [
+        "64051bc58930495030d8d003",
+        "64d582f52cd6b6595912a710",
+        "6418c2bc4bd2e929c1a74bde"
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -27,17 +38,6 @@
           "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
           "alt": "ATÉ 30% OFF - TAÇAS E COPOS - BLACK FRIDAY 2023 "
         }
-      ]
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-11-26T19:11:01.676Z",
-      "end": "2023-11-28T03:00:01.780Z",
-      "offers": [
-        "64051bc58930495030d8d003",
-        "64d582f52cd6b6595912a710",
-        "6418c2bc4bd2e929c1a74bde"
       ]
     },
     {
