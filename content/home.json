@@ -94,9 +94,31 @@
       "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "collection_id": "65569f302cd6b65959aba712:collections:ATÉ 45% OFF - Jogos Americanos, Argolas e Guardanapos - BLACK FRIDAY 2023:/descontos-em-jogos-americanos-argolas-e-guardanapos",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65569bdc2cd6b65959aba2b5:collections:ATÉ 15% OFF - TALHERES - BLACK FRIDAY 2023:/descontos-em-talheres",
+      "sort": "offers",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6556a7d22cd6b65959abb818:collections:ATÉ 25% OFF - Décor e Gift - BLACK FRIDAY 2023:/descontos-em-decor-e-gift",
+      "sort": "offers",
+      "headless": true
     },
     {
       "type": "offers-timer",
@@ -109,6 +131,15 @@
         "6180691c239b7206d3fc3fe6",
         "61913a6b0c7c72722581bae7"
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "655657642cd6b65959ab0d1c:collections:ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2023:/descontos-em-loucas",
+      "sort": "offers",
+      "headless": true
     },
     {
       "type": "banners-grid",
