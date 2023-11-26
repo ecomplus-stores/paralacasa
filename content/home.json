@@ -72,6 +72,17 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 36,
+      "start": "2023-11-26T19:24:12.724Z",
+      "end": "2023-11-28T03:00:12.782Z",
+      "offers": [
+        "64051bc58930495030d8d003",
+        "646d30aba0e875411e9a9243",
+        "6515eac92cd6b6595962a472"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -85,6 +96,17 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 36,
+      "start": "2023-11-26T19:28:51.360Z",
+      "end": "2023-11-28T03:00:51.434Z",
+      "offers": [
+        "62976b9eac0cb4200ff9c916",
+        "63862bb773321213f8f93ad0",
+        "6180691c239b7206d3fc3fe6"
+      ]
     },
     {
       "type": "banners-grid",
