@@ -29,6 +29,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/tarja-bf.jpg",
+          "mobile_img": "/img/uploads/fretem1.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/bf23-loucas.jpg",
           "link": "https://www.paralacasa.com.br/descontos-em-loucas",
           "alt": "ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2023"
@@ -37,15 +46,6 @@
           "img": "/img/uploads/bf23-tacas-e-copos.jpg",
           "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
           "alt": "ATÉ 30% OFF - TAÇAS E COPOS - BLACK FRIDAY 2023 "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tarja-bf.jpg",
-          "mobile_img": "/img/uploads/fretem1.png"
         }
       ]
     },
