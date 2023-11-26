@@ -15,6 +15,15 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/tarja-bf.jpg",
+          "mobile_img": "/img/uploads/fretem1.png"
+        }
+      ]
+    },
+    {
       "type": "offers-timer",
       "max_hours": 36,
       "start": "2023-11-26T19:11:01.676Z",
@@ -24,15 +33,6 @@
         "64d582f52cd6b6595912a710",
         "6418c2bc4bd2e929c1a74bde",
         "62aa5e44eb8591121655545c"
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tarja-bf.jpg",
-          "mobile_img": "/img/uploads/fretem1.png"
-        }
       ]
     },
     {
