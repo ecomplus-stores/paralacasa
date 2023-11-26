@@ -85,6 +85,26 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__bf23-decor-e-gifts.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
+          "alt": "DECOR E GIFTS - BLACK FRIDAY - PARA LA CASA"
+        },
+        {
+          "img": "/img/uploads/__bf23-cozinha-e-organizacao.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-e-organizacao",
+          "alt": "25%OFF COZINHA E ORGANIZAÇÃO "
+        },
+        {
+          "img": "/img/uploads/__bf23-lavabo-e-aromas.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
+          "alt": "LAVABO E AROMAS ATÉ 30%0FF"
+        }
+      ]
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
