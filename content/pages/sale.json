@@ -1,110 +1,7 @@
 {
   "title": "SALE OFF",
-  "body": "## BLACK WEEK - ÚLTIMOS DIAS!\n\n\n\nNa **Para La Casa**, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.\n\n**Até 45% OFF Peças selecionadas + FRETE GRÁTIS** nas compras **a partir de R$950**.",
+  "body": "Na **Para La Casa**, nossa paixão é transformar casas em lares acolhedores e inspiradores. Com uma curadoria criteriosa, oferecemos produtos de tableware e decoração para proporcionar uma experiência única a você.",
   "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bf23-banner-geral-bf.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/tarja-bf.jpg",
-          "mobile_img": "/img/uploads/fretem1.png"
-        }
-      ]
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 36,
-      "start": "2023-11-26T19:11:01.676Z",
-      "end": "2023-11-28T03:00:01.780Z",
-      "offers": [
-        "64051bc58930495030d8d003",
-        "64d582f52cd6b6595912a710",
-        "6418c2bc4bd2e929c1a74bde",
-        "62aa5e44eb8591121655545c"
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bf23-loucas.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
-          "alt": "ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2023"
-        },
-        {
-          "img": "/img/uploads/bf23-tacas-e-copos.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
-          "alt": "ATÉ 30% OFF - TAÇAS E COPOS - BLACK FRIDAY 2023 "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bf23-bandejas-e-tabuas.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
-          "alt": "ATÉ 25% OFF - BANDEJAS E TÁBUAS - BLACK FRIDAY 2023"
-        },
-        {
-          "img": "/img/uploads/bf23-cafe-da-manha-e-aperitivos.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-cafe-da-manha-e-aperitivos",
-          "alt": "ATÉ 25% OFF - Café da Manhã e Aperitivos - BLACK FRIDAY 2023"
-        },
-        {
-          "img": "/img/uploads/bf23-bambu.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-bambu",
-          "alt": "ATÉ 30% OFF - BAMBU - BLACK FRIDAY 2023 "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bf23-talheres.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-talheres",
-          "alt": "ATÉ 15% OFF - TALHERES - BLACK FRIDAY 2023  "
-        },
-        {
-          "img": "/img/uploads/bf23-jg-americano.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos",
-          "alt": "ATÉ 45% OFF - Jogos Americanos, Argolas e Guardanapos - BLACK FRIDAY 2023 "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__bf23-decor-e-gifts.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
-          "alt": "DECOR E GIFTS - BLACK FRIDAY - PARA LA CASA"
-        },
-        {
-          "img": "/img/uploads/__bf23-cozinha-e-organizacao.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-e-organizacao",
-          "alt": "25%OFF COZINHA E ORGANIZAÇÃO "
-        },
-        {
-          "img": "/img/uploads/__bf23-lavabo-e-aromas.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "LAVABO E AROMAS ATÉ 30%0FF"
-        }
-      ]
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -115,6 +12,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": "até 45% OFF - BLACK WEEK - Descontos especiais em Para La Casa",
-  "meta_description": "BLACK WEEK - até 45% OFF + FRETE GRÁTIS** nas compras a partir de R$950 -Para La Casa "
+  "meta_title": "Descontos especiais em Para La Casa",
+  "meta_description": "Para La Casa "
 }
