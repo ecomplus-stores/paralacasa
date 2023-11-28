@@ -16,15 +16,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/tarja-bf.jpg",
-          "mobile_img": "/img/uploads/fretem1.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/e-com-plus-home-mundinho788-x-518-px-11-.jpg",
           "link": "https://www.paralacasa.com.br/colecao-mundinho",
           "alt": "Coleção Mundinho | A Poesia e a Arte se encontram nessa Coleção de Objetos."
