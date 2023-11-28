@@ -17,19 +17,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bf23-cozinha-e-organizacao.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-e-organizacao",
-          "alt": "ATÉ 25% OFF - COZINHA e ORGANIZAÇÃO - BLACK FRIDAY 2023   "
+          "img": "/img/uploads/__home-shop-by-looks-527-x-515-px.webp",
+          "link": "https://www.paralacasa.com.br/colecao-eme",
+          "alt": "COLEÇÃO EME -Talheres Italianos - Preços Irresístiveis - Para la Casa"
         },
         {
-          "img": "/img/uploads/bf23-decor-e-gifts.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
-          "alt": "ATÉ 25% OFF - Décor e Gift - BLACK FRIDAY 2023 "
+          "img": "/img/uploads/__bambu-527-x-515-px.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": ""
         },
         {
-          "img": "/img/uploads/bf23-lavabo-e-aromas.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "ATÉ 30% OFF - Lavabo e Aromas - BLACK FRIDAY 2023  "
+          "img": "/img/uploads/__copa-para-la-casa.webp",
+          "link": "https://www.paralacasa.com.br/acessorios-para-cozinha/",
+          "alt": ""
         }
       ]
     }
