@@ -6,9 +6,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bf23-banner-geral-bf.webp",
-          "alt": "Black Week Para La Casa ",
-          "link": "https://www.paralacasa.com.br/pages/sale"
+          "img": "/img/uploads/__banner-home-weekend-1628-x-552.webp",
+          "alt": "Tableware Para la Casa",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha"
         }
       ]
     },
@@ -25,14 +25,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bf23-loucas.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
-          "alt": "30% OFF "
+          "img": "/img/uploads/e-com-plus-home-mundinho788-x-518-px-11-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-mundinho",
+          "alt": "Coleção Mundinho | A Poesia e a Arte se encontram nessa Coleção de Objetos."
         },
         {
-          "img": "/img/uploads/__bf23-tacas-e-copos.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
-          "alt": "Nossas apostas em taças e copos."
+          "img": "/img/uploads/e-com-plus-home-tacas-788-x-518-px-11-.jpg",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
+          "alt": "TAÇAS E COPOS - MESA DE NATAL - FIM DE ANO PARA LA CASA"
         }
       ]
     },
@@ -40,19 +40,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bf23-bandejas-e-tabuas.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
-          "alt": "Peças em Bambu cheias de charme e com a nossa cara tropical. Para La Casa"
+          "img": "/img/uploads/__bambu-527-x-515-px.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "BAMBU"
         },
         {
-          "img": "/img/uploads/__bf23-cafe-da-manha-e-aperitivos.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-cafe-da-manha-e-aperitivos",
-          "alt": "Mesa Posta - Nossas escolhas para Café da Manhã Mesa Posta - Para La Casa"
+          "img": "/img/uploads/_paralacasa_menta_cafedamanha.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha",
+          "alt": "PARA SERVIR TABLEWARE"
         },
         {
-          "img": "/img/uploads/__bf23-bambu.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-bambu",
-          "alt": "30% OFF em Bambu "
+          "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo",
+          "alt": "ALL GREEN - PETISCOS "
         }
       ]
     },
@@ -60,104 +60,50 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bf23-talheres.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-talheres",
-          "alt": "Talheres de Luxo - Coleção Eme - Para La Casa "
+          "img": "/img/uploads/_paralacasa_talheres-italianos-eme.webp",
+          "link": "https://www.paralacasa.com.br/colecao-eme",
+          "alt": "COLEÇÃO EME -Talheres Italianos - Preços Irresístiveis - Para la Casa"
         },
         {
-          "img": "/img/uploads/__bf23-jg-americano.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos",
+          "img": "/img/uploads/e-com-plus-home-jg-americano-rosa-788-x-518-px-11-.jpg",
+          "link": "https://www.paralacasa.com.br/jogos-americanos/",
           "alt": "Jogos Americanos - Mesa Posta - Para La Casa"
         }
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 36,
-      "start": "2023-11-26T19:24:12.724Z",
-      "end": "2023-11-28T03:00:12.782Z",
-      "offers": [
-        "64051bc58930495030d8d003",
-        "646d30aba0e875411e9a9243",
-        "6515eac92cd6b6595962a472",
-        "6234750b2e405e04ffe6fadb"
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
       "page": 1,
-      "collection_id": "655695492cd6b65959ab97f7:collections:ATÉ 30% OFF - BAMBU - BLACK FRIDAY 2023:/descontos-em-bambu",
-      "sort": "offers",
-      "title": "BLACK WEEK ",
-      "link": "https://www.paralacasa.com.br/pages/sale"
-    },
-    {
-      "type": "collection-shelf",
+      "title": "DESTAQUES DA SEMANA",
       "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/decor/",
       "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "collection_id": "65569f302cd6b65959aba712:collections:ATÉ 45% OFF - Jogos Americanos, Argolas e Guardanapos - BLACK FRIDAY 2023:/descontos-em-jogos-americanos-argolas-e-guardanapos",
-      "headless": true
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65569bdc2cd6b65959aba2b5:collections:ATÉ 15% OFF - TALHERES - BLACK FRIDAY 2023:/descontos-em-talheres",
-      "sort": "offers",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6556a7d22cd6b65959abb818:collections:ATÉ 25% OFF - Décor e Gift - BLACK FRIDAY 2023:/descontos-em-decor-e-gift",
-      "sort": "offers",
-      "headless": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 36,
-      "start": "2023-11-26T19:28:51.360Z",
-      "end": "2023-11-28T03:00:51.434Z",
-      "offers": [
-        "62976b9eac0cb4200ff9c916",
-        "63862bb773321213f8f93ad0",
-        "6180691c239b7206d3fc3fe6",
-        "61913a6b0c7c72722581bae7"
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "655657642cd6b65959ab0d1c:collections:ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2023:/descontos-em-loucas",
-      "sort": "offers",
-      "headless": true
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__bf23-cozinha-e-organizacao.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-e-organizacao",
+          "img": "/img/uploads/__527x515-cozinha.webp",
+          "link": "https://www.paralacasa.com.br/cozinha/",
           "alt": "Para Cozinha - Acessórios para Praticidade - Para La Casa"
         },
         {
-          "img": "/img/uploads/__bf23-decor-e-gifts.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
-          "alt": "Para La Casa - Shop by Look - Tendências e Luxo "
+          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
+          "link": "https://www.paralacasa.com.br/organizar/",
+          "alt": "Para La Casa - "
         },
         {
-          "img": "/img/uploads/__bf23-lavabo-e-aromas.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "Lavabo e Aromas 30% off"
+          "img": "/img/uploads/__home-porcelanas-527-x-515.webp",
+          "link": "https://www.paralacasa.com.br/porcelana/",
+          "alt": ""
         }
       ]
     }
