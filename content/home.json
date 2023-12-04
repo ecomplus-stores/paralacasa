@@ -94,6 +94,10 @@
       "title": "#presentes - COLEÇÃO MUNDINHO"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">FRETE GRÁTIS PARA TODO BRASIL </h4>\n<p>Envio econônomico nas compras a partir de R$750 em produtos.</p>"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
