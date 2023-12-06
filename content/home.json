@@ -63,6 +63,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "title": "NEW - FRETE GRÁTIS PARA TODO BRASIL * nas compras a partir de R$750",
+      "link": "https://www.paralacasa.com.br/new"
+    },
+    {
       "page": 1,
       "title": "DESTAQUES DA SEMANA",
       "shuffle": false,
@@ -92,10 +102,6 @@
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/colecao-mundinho",
       "title": "#presentes - COLEÇÃO MUNDINHO"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">FRETE GRÁTIS PARA TODO BRASIL </h4>\n<p>Envio econônomico nas compras a partir de R$750 em produtos.</p>"
     },
     {
       "type": "collection-shelf",
