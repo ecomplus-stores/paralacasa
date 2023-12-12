@@ -28,6 +28,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/brinde-vela-aromatica.jpg"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
