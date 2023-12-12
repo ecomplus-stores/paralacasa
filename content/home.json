@@ -6,8 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-banner-home-1628-x-552-6-.jpg",
-          "alt": "Tableware Para la Casa",
+          "img": "/img/uploads/__peonia-ceramica-paralacasa-d.webp",
+          "alt": "Cerâmica Peônia - Summer 2024 - Tableware Para la Casa",
           "link": "https://www.paralacasa.com.br/peonia"
         }
       ]
@@ -29,7 +29,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/brinde-vela-aromatica.jpg"
+      "img": "/img/uploads/__natal-dez.webp",
+      "mobile_img": "/img/uploads/__dez-mobile-natal2.webp",
+      "link": "https://www.paralacasa.com.br/new",
+      "alt": "Presente de Natal Para la Casa - Frete Grátis * "
     },
     {
       "type": "banners-grid",
@@ -40,9 +43,9 @@
           "alt": "BAMBU"
         },
         {
-          "img": "/img/uploads/ecom-plus-natal-wish-list-527-x-515-px-18-.jpg",
+          "img": "/img/uploads/__natal-wishlist-paralacasa-d.webp",
           "link": "https://www.paralacasa.com.br/natal---wish-list",
-          "alt": "Natal - Wish List"
+          "alt": "Natal 2023 - Wish List Para la Casa "
         },
         {
           "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
