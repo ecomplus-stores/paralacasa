@@ -56,6 +56,23 @@
       "img": "/img/uploads/38.jpg",
       "mobile_img": "/img/uploads/2.jpg",
       "link": "https://www.paralacasa.com.br/bambu/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__home-copa-categ-blog-rodape.webp",
+          "link": "https://www.paralacasa.com.br/copa/"
+        },
+        {
+          "img": "/img/uploads/__bambu-527-x-515-px.webp",
+          "link": "https://www.paralacasa.com.br/bambu/"
+        },
+        {
+          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
+          "link": "https://www.paralacasa.com.br/organizar/"
+        }
+      ]
     }
   ]
 }
