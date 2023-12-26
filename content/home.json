@@ -43,15 +43,19 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/38.jpg",
-      "mobile_img": "/img/uploads/2.jpg",
-      "link": "https://www.paralacasa.com.br/mesa/"
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\">\n                 \n            <a href=\"https://www.paralacasa.com.br/new\">\n             NEW \n            </a>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/38.jpg",
+      "mobile_img": "/img/uploads/2.jpg",
+      "link": "https://www.paralacasa.com.br/mesa/"
     }
   ]
 }
