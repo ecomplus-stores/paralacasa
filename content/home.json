@@ -28,33 +28,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__natal-dez.webp",
-      "mobile_img": "/img/uploads/__dez-mobile-natal2.webp",
-      "link": "https://www.paralacasa.com.br/new",
-      "alt": "Presente de Natal Para la Casa - Frete Grátis * "
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__bambu-527-x-515-px.webp",
-          "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "BAMBU"
-        },
-        {
-          "img": "/img/uploads/__natal-wishlist-paralacasa-d.webp",
-          "link": "https://www.paralacasa.com.br/natal---wish-list",
-          "alt": "Natal 2023 - Wish List Para la Casa "
-        },
-        {
-          "img": "/img/uploads/_paralacasa-ceramica-allgreen.webp",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo",
-          "alt": "ALL GREEN - PETISCOS "
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -70,94 +43,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6578b9fb2cd6b65959da5071:collections:NATAL - WISH LIST:/natal---wish-list",
-      "sort": "offers",
-      "title": "BOAS FESTAS #GIFTS",
-      "link": "https://www.paralacasa.com.br/natal---wish-list"
+      "type": "responsive-banner",
+      "img": "/img/uploads/38.jpg",
+      "mobile_img": "/img/uploads/2.jpg",
+      "link": "https://www.paralacasa.com.br/mesa/"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "title": "NEW - FRETE GRÁTIS PARA TODO BRASIL * nas compras a partir de R$750",
-      "link": "https://www.paralacasa.com.br/new"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6385297b73321213f8f78c17:categories:SALE:/sale",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/sale",
-      "title": "SALE "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "title": "Os Mais Pedidos #DECOR"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b471788313d7b958628a5:categories:MESA:/mesa/",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/tacas-e-copos/",
-      "title": "#Tableware "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/",
-      "link": "https://www.paralacasa.com.br/porcelana/",
-      "title": "As #PORCELANAS Mais Pedidas",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/gifts",
-      "title": ""
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__527x515-cozinha.webp",
-          "link": "https://www.paralacasa.com.br/cozinha/",
-          "alt": "Para Cozinha - Acessórios para Praticidade - Para La Casa"
-        },
-        {
-          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
-          "link": "https://www.paralacasa.com.br/organizar/",
-          "alt": "Para La Casa - "
-        },
-        {
-          "img": "/img/uploads/__home-porcelanas-527-x-515.webp",
-          "link": "https://www.paralacasa.com.br/porcelana/",
-          "alt": ""
-        }
-      ]
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
