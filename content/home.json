@@ -71,6 +71,26 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__cozinha_24.webp",
+          "link": "https://www.paralacasa.com.br/cozinha-e-organizacao",
+          "alt": "Cozinha e Organizar - Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__para_decor_24.webp",
+          "link": "https://www.paralacasa.com.br/decor-e-gifts",
+          "alt": "Décor e Gifts - Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__lavabo_24.webp",
+          "link": "https://www.paralacasa.com.br/lavabo-e-aromas",
+          "alt": "Lavabo e Aromas - Para la Casa"
+        }
+      ]
     }
   ]
 }
