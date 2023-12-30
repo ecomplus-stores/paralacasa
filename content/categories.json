@@ -17,20 +17,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__home-jg-americ-categoria-blog-rodape.webp",
+          "img": "/img/uploads/__copos_tacas_24.webp",
           "mobile_img": "",
-          "link": "https://paralacasa.com.br/jogos-americanos/",
-          "alt": "Jogos Americanos Tendências Para La Casa"
+          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
+          "alt": "Taças e Copos - Verão 2024- Para La Casa"
         },
         {
-          "img": "/img/uploads/__home-copa-categ-blog-rodape.webp",
-          "link": "https://paralacasa.com.br/copa/",
-          "alt": "Copa - Acessórios e Praticidade Para La Casa"
+          "img": "/img/uploads/__para_decor_24.webp",
+          "link": "https://www.paralacasa.com.br/decor-e-gifts",
+          "alt": "Décor e Gifts - Para la Casa"
         },
         {
-          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
-          "link": "https://paralacasa.com.br/potes-hermeticos/",
-          "alt": "Potes Organizadores Herméticos - Para La Casa"
+          "img": "/img/uploads/__talheres_24.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Talheres Para la Casa"
         }
       ]
     }
