@@ -6,9 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__peonia-ceramica-paralacasa-d.webp",
-          "alt": "Cerâmica Peônia - Summer 2024 - Tableware Para la Casa",
-          "link": "https://www.paralacasa.com.br/peonia"
+          "img": "/img/uploads/__mesa-de-verao_24.webp",
+          "alt": "Mesas de Verão 2024 - Cerâmica -Tableware Para la Casa",
+          "link": "https://www.paralacasa.com.br/ceramica/",
+          "mobile_img": "/img/uploads/__mesasdeverao_m.webp"
         }
       ]
     },
@@ -16,14 +17,34 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-mundinho788-x-518-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Coleção Mundinho | A Poesia e a Arte se encontram nessa Coleção de Objetos."
+          "img": "/img/uploads/__cafe-da-manha-para-la-casa_24.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha-e-aperitivos",
+          "alt": "Café da Manhã Aperitivos - Verão 2024 - Para la Casa"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-tacas-788-x-518-px-11-.jpg",
+          "img": "/img/uploads/__tudoembambu_24.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Bambu - Peças para Tableware Mesa Posta Verão 2024- Para la Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__copos_tacas_24.webp",
           "link": "https://www.paralacasa.com.br/tacas-e-copos/",
-          "alt": "TAÇAS E COPOS - MESA DE NATAL - FIM DE ANO PARA LA CASA"
+          "alt": "Copos e Taças - Verão 2024- Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__talheres_24.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Talheres - em Bambu , Italianos EME - Para La Casa"
+        },
+        {
+          "img": "/img/uploads/__para-receber-paralacasa_24.webp",
+          "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
+          "alt": "Para Receber - Aperitivos - Cerâmicas - Para la Casa"
         }
       ]
     },
@@ -31,14 +52,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/_paralacasa_talheres-italianos-eme.webp",
-          "link": "https://www.paralacasa.com.br/colecao-eme",
-          "alt": "COLEÇÃO EME -Talheres Italianos - Preços Irresístiveis - Para la Casa"
+          "img": "/img/uploads/__mesa-posta-para-la-casa_24.webp",
+          "link": "https://www.paralacasa.com.br/shop-by-look-colecao-verao-texteis",
+          "alt": "Jogos Americanos - Clássicos, Rústicos para sua Mesa Posta - Para la Casa"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-jg-americano-rosa-788-x-518-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/jogos-americanos/",
-          "alt": "Jogos Americanos - Mesa Posta - Para La Casa"
+          "img": "/img/uploads/__jogoamericano_24.webp",
+          "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
+          "alt": "Louças em Cerâmica e Porcelana - Para la Casa"
         }
       ]
     },
@@ -50,29 +71,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/38.jpg",
-      "mobile_img": "/img/uploads/2.jpg",
-      "link": "https://www.paralacasa.com.br/bambu/"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__home-copa-categ-blog-rodape.webp",
-          "link": "https://www.paralacasa.com.br/copa/"
-        },
-        {
-          "img": "/img/uploads/__bambu-527-x-515-px.webp",
-          "link": "https://www.paralacasa.com.br/bambu/"
-        },
-        {
-          "img": "/img/uploads/__home-organizar-categ-blog-rodape.webp",
-          "link": "https://www.paralacasa.com.br/organizar/"
-        }
-      ]
     }
   ]
 }
