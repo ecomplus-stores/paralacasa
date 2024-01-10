@@ -73,13 +73,42 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "`<h4 class=\"products-carousel__title\">\n                 \n            <a href=\"https://www.paralacasa.com.br/new\">\n             NEW \n            </a>`"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "SUMMER SALE 2024",
+      "link": "https://www.paralacasa.com.br/pages/summer-sale"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:Coleção Bodrum:/colecao-bodrum",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/colecao-bodrum",
+      "title": "COLEÇÃO BODRUM - CERÂMICAS "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6578aa332cd6b65959da35a0:collections:PEÔNIA:/peonia",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/peonia",
+      "title": "COLEÇÃO PEÔNIA - CERÂMICAS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "NEW"
     },
     {
       "type": "banners-grid",
