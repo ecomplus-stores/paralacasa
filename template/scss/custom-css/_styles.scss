@@ -2,3 +2,6 @@
 #cd-6385297b73321213f8f78c17 {
     display: none !important;
 }
+.shipping-line[data-service-code="PICKUP"] span {
+    display: none !important;
+  }
