@@ -7,9 +7,19 @@
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-summer-sale-24-1576-x-1136-28-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/summer-sale"
+          "link": "https://www.paralacasa.com.br/pages/summer-sale",
+          "alt": "SUMMER SALE - PARA LA CASA ATÉ 45% OFF + FRETE GRÁTIS CONSULTE REGRAS"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "ATÉ 45% OFF + FRETE GRÁTIS nas compras a partir de R$750, confira",
+      "link": "https://www.paralacasa.com.br/pages/summer-sale"
     },
     {
       "type": "banners-grid",
@@ -21,65 +31,6 @@
           "mobile_img": ""
         }
       ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__cafe-da-manha-para-la-casa_24.webp",
-          "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
-          "alt": "Café da Manhã Aperitivos - Verão 2024 - Para la Casa"
-        },
-        {
-          "img": "/img/uploads/__tudoembambu_24.webp",
-          "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "Bambu - Peças para Tableware Mesa Posta Verão 2024- Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__copos_tacas_24.webp",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos",
-          "alt": "Copos e Taças - Verão 2024- Para la Casa"
-        },
-        {
-          "img": "/img/uploads/__talheres_24.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Talheres - em Bambu , Italianos EME - Para La Casa"
-        },
-        {
-          "img": "/img/uploads/__para-receber-paralacasa_24.webp",
-          "link": "https://www.paralacasa.com.br/bandejas-e-tabuas",
-          "alt": "Para Receber - Aperitivos - Cerâmicas - Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__mesa-posta-para-la-casa_24.webp",
-          "link": "https://www.paralacasa.com.br/shop-by-look-colecao-verao-texteis",
-          "alt": "Jogos Americanos - Clássicos, Rústicos para sua Mesa Posta - Para la Casa"
-        },
-        {
-          "img": "/img/uploads/__jogoamericano_24.webp",
-          "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
-          "alt": "Louças em Cerâmica e Porcelana - Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "SUMMER SALE 2024",
-      "link": "https://www.paralacasa.com.br/pages/summer-sale"
     },
     {
       "type": "collection-shelf",
@@ -102,13 +53,84 @@
       "title": "COLEÇÃO PEÔNIA - CERÂMICAS"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__cafe-da-manha-para-la-casa_24.webp",
+          "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+          "alt": "Café da Manhã Aperitivos - Verão 2024 - Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__tudoembambu_24.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Bambu - Peças para Tableware Mesa Posta Verão 2024- Para la Casa"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
+      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ ",
+      "collection_id": "658f004e2cd6b65959eda6b1:collections:SHOP BY LOOK - COLEÇÃO VERÃO - Abacaxi - Marfim:/shop-by-look-colecao-verao-abacaxi"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__copos_tacas_24.webp",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos",
+          "alt": "Copos e Taças - Verão 2024- Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__talheres_24.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Talheres - em Bambu , Italianos EME - Para La Casa"
+        },
+        {
+          "img": "/img/uploads/__para-receber-paralacasa_24.webp",
+          "link": "https://www.paralacasa.com.br/bandejas-e-tabuas",
+          "alt": "Para Receber - Aperitivos - Cerâmicas - Para la Casa"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "title": "TALHERES ITALIANOS ",
+      "link": "https://www.paralacasa.com.br/colecao-eme"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__mesa-posta-para-la-casa_24.webp",
+          "link": "https://www.paralacasa.com.br/shop-by-look-colecao-verao-texteis",
+          "alt": "Jogos Americanos - Clássicos, Rústicos para sua Mesa Posta - Para la Casa"
+        },
+        {
+          "img": "/img/uploads/__jogoamericano_24.webp",
+          "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
+          "alt": "Louças em Cerâmica e Porcelana - Para la Casa"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
+      "sort": "sales",
+      "title": "JOGOS AMERICANOS ATÉ 30%OFF",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/"
     },
     {
       "type": "banners-grid",
