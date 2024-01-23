@@ -13,16 +13,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "ATÉ 45% OFF + FRETE GRÁTIS nas compras a partir de R$750, confira",
-      "link": "https://www.paralacasa.com.br/pages/summer-sale",
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -32,26 +22,6 @@
           "mobile_img": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:Coleção Bodrum:/colecao-bodrum",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/colecao-bodrum",
-      "title": "COLEÇÃO BODRUM - CERÂMICAS "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6578aa332cd6b65959da35a0:collections:PEÔNIA:/peonia",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/peonia",
-      "title": "COLEÇÃO PEÔNIA - CERÂMICAS"
     },
     {
       "type": "banners-grid",
@@ -67,16 +37,6 @@
           "alt": "Bambu - Peças para Tableware Mesa Posta Verão 2024- Para la Casa"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ ",
-      "collection_id": "658f004e2cd6b65959eda6b1:collections:SHOP BY LOOK - COLEÇÃO VERÃO - Abacaxi - Marfim:/shop-by-look-colecao-verao-abacaxi"
     },
     {
       "type": "banners-grid",
@@ -103,10 +63,40 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "title": "ATÉ 45% OFF + FRETE GRÁTIS nas compras a partir de R$750, confira",
+      "link": "https://www.paralacasa.com.br/pages/summer-sale",
+      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/",
+      "title": "JOGOS AMERICANOS ATÉ 45% OFF"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "title": "TALHERES ITALIANOS ",
+      "sort": "offers",
+      "title": "ATÉ 20% OFF - TALHERES ITALIANOS ",
       "link": "https://www.paralacasa.com.br/colecao-eme"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/ceramica/",
+      "title": "CERÂMICAS - ATÉ 40%OFF"
     },
     {
       "type": "banners-grid",
@@ -128,10 +118,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "sales",
-      "title": "JOGOS AMERICANOS ATÉ 45%OFF",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/"
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/bambu/",
+      "title": "ATÉ 25%OFF - BAMBU LOVERS",
+      "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu"
     },
     {
       "type": "banners-grid",
