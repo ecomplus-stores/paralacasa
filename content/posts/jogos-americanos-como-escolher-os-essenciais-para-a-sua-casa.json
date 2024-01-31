@@ -82,7 +82,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\nEXPLORE TAMBÉM:\n\n </h4>"
+      "markdown": "<br> <br>\n\n<h2 style=\"text-align: center;\">EXPLORE TAMBÉM</h2>"
     },
     {
       "type": "banners-grid",
@@ -110,7 +110,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\nMAIS ARTIGOS\n\n</h4>"
+      "markdown": "\n\n<h2 style=\"text-align: center;\">MAIS ARTIGOS</h2>"
     },
     {
       "type": "blog",
