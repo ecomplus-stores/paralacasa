@@ -25,37 +25,76 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
+      "title": "CAFETEIRA FRANCESA E COPOS",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "Set Guardanapos Coquetel Chinoi 06 pç",
+      "limit": 12,
       "collection_id": "635008f873321213f8b30fa8:collections:COLD BREW 1- BLOG:/cold-brew-1--blog",
-      "sort": "news",
-      "headless": true
+      "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
+      "title": "BANDEJAS ",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/cold-brew-bandejas-paralacasa",
+      "limit": 12,
       "collection_id": "6350098d73321213f8b31175:collections:COLD BREW II - BLOG:/cold-brew-ii---blog",
-      "sort": "news",
-      "headless": true
+      "sort": "offers"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
+      "title": "DECORE COM SOFISTICAÇÃO ",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/cold-brew-decor-paralacasa",
+      "limit": 12,
       "collection_id": "63500a2073321213f8b312ba:collections:COLD BREW III - BLOG:/cold-brew-iii---blog",
-      "sort": "news",
-      "headless": true
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n<h2 style=\"text-align: center;\">EXPLORE TAMBÉM</h2>\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/72-compressed.jpg",
+          "link": "https://www.paralacasa.com.br/copa/"
+        },
+        {
+          "img": "/img/uploads/__527x515-cozinha.webp",
+          "link": "https://www.paralacasa.com.br/cozinha/"
+        },
+        {
+          "img": "/img/uploads/__home-jg-americ-categoria-blog-rodape.webp",
+          "link": "https://www.paralacasa.com.br/jogos-americanos/"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n<h2 style=\"text-align: center;\">MAIS ARTIGOS</h2>\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
-  "title": "COLD BREW",
-  "body": "## COLD BREW\n\nU﻿ma nova forma de tomar o nosso cafezinho, desta vez a frio ! \n\nSucesso no exterior há algum tempo, o cold brew chegou por aqui e já se transformou no queridinho do momento.\n\nC﻿old Brew é um método de extração de café a frio, os grãos de café após moídos passam por uma infusão em água fria de forma artesanal.\n\nA﻿ diferença na extração a frio é uma bebida leve e refrescante, com um sabor mais doce e suave, completamente diferente do sabor tradicional do nosso cafezinho extraído com água quente, além disso é 70% menos ácido.\n\nU﻿ma das formas mais usadas para esta extração é feita através da prensa francesa ou Cafeteira Francesa, que além do café a quente também funciona perfeitamente no cold brew.\n\nPara Preparar em Casa\n\nO﻿ segredo do preparo está no tempo de fermentação que pode levar 12h, e é responsável pelo sabor adocicado, leve e praticamente sem acidez.\n\nO﻿ método envolve a escolha de grãos de café de qualidade, há muitas opções no mercado. Fazer a moagem grossa dos grãos faz toda a diferença.\n\nD﻿epois da moegem o pó de café é dissolvido em água fria e descansa por um período de 12 horas. A sugestão é de 04 partes de água para 01 de café, mas você pode ajustar de acordo com o seu paladar.\n\nA﻿ntes de servir coloque o líquido na Cafeteira Francesa para filtrar o pó.\n\nS﻿irva com gelo e misture com leite, creme, sucos, aqui vale usar a imaginação.\n\nD﻿urabilidade de até uma semana se mantida na geladeira.",
+  "title": "Cold Brew: Estilo Gelado, Momentos Sofisticados Para la Casa",
+  "body": "## COLD BREW\n\n## U﻿ma nova forma de tomar o nosso cafezinho, desta vez a frio ! \n\nSucesso no exterior há algum tempo, o cold brew chegou por aqui e já se transformou no queridinho do momento.\n\n**C﻿old Brew** é um método de extração de **café** a frio, os grãos de café após moídos passam por uma infusão em água fria de forma artesanal.\n\nA﻿ diferença na extração a frio é uma bebida leve e refrescante, com um sabor mais doce e suave, completamente diferente do sabor tradicional do nosso cafezinho extraído com água quente, além disso é 70% menos ácido.\n\nU﻿ma das formas mais usadas para esta extração é feita através da prensa francesa ou **[Cafeteira Francesa](https://www.paralacasa.com.br/cafeteira-francesa-1l)**, que além do café a quente também funciona perfeitamente no cold brew.\n\n**Para Preparar em Casa**\n\nO﻿ segredo do preparo está no tempo de fermentação que pode levar 12h, e é responsável pelo sabor adocicado, leve e praticamente sem acidez.\n\nO﻿ método envolve a escolha de grãos de café de qualidade, há muitas opções no mercado. Fazer a moagem grossa dos grãos faz toda a diferença.\n\nD﻿epois da moegem o pó de café é dissolvido em água fria e descansa por um período de 12 horas. A sugestão é de 04 partes de água para 01 de café, mas você pode ajustar de acordo com o seu paladar.\n\nA﻿ntes de servir coloque o líquido na Cafeteira Francesa para filtrar o pó.\n\nS﻿irva com gelo e misture com leite, creme, sucos, aqui vale usar a imaginação.\n\nD﻿urabilidade de até uma semana se mantida na geladeira.\n\n\n\nCold Brew com estilo! Torne cada momento especial com Para La Casa. \n\nEncontre [Cafeteira Francesa](https://www.paralacasa.com.br/cafeteira-francesa-350-ml) , [copos e taças refinados](https://www.paralacasa.com.br/tacas-e-copos/), além de [bandejas em bambu ](https://www.paralacasa.com.br/bandejas-em-bambu/)para uma apresentação elegante. \n\nDecore sua mesa com nossos belos [vasos](https://www.paralacasa.com.br/vasos/), trazendo alegria e sofisticação ao seu ambiente. \n\n#### Torne cada momento especial com Para La Casa.",
   "thumbnail": "/img/uploads/ecom-plus-home-cold-brew-blog-527-x-515-px-14-.jpg",
-  "meta_title": "COLD BREW",
-  "description": "Sucesso no exterior há algum tempo, chegou por aqui e já se transformou no queridinho do momento.",
-  "meta_description": "Sucesso no exterior há algum tempo, chegou por aqui e já se transformou no queridinho do momento."
+  "meta_title": "Cold Brew: Estilo Gelado, Momentos Sofisticados. Para La Casa Tem Tudo!",
+  "description": "Cold Brew com estilo! Torne cada momento especial com Para La Casa. Encontre Cafeteira Francesa , copos e taças refinados, além de bandejas em bambu para uma apresentação elegante. ",
+  "meta_description": "Cold Brew com estilo! Torne cada momento especial com Para La Casa. Encontre Cafeteira Francesa , copos e taças refinados, além de bandejas em bambu para uma apresentação elegante. "
 }
