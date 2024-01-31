@@ -101,11 +101,11 @@
       ]
     },
     {
-      "type": "blog",
+      "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "info-bar",
+      "type": "blog",
       "enabled": true
     }
   ]
