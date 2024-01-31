@@ -63,7 +63,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n<h2 style=\"text-align: center;\">EXPLORE TAMBÉM</h2>\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment--><br> <br>\n\n<h2 style=\"text-align: center;\">EXPLORE TAMBÉM</h2>\n\n<!--EndFragment-->"
     },
     {
       "type": "banners-grid",
