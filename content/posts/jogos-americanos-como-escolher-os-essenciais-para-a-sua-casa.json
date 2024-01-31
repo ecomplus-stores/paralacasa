@@ -81,6 +81,10 @@
       "title": "Acessórios e Guardanapos"
     },
     {
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\">\n\nEXPLORE TAMBÉM:\n\n </h4>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -103,6 +107,10 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\">\n\nMAIS ARTIGOS\n\n</h4>"
     },
     {
       "type": "blog",
