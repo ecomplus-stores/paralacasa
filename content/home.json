@@ -54,8 +54,8 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": "ATÉ 45% OFF + FRETE GRÁTIS nas compras a partir de R$750, confira",
-      "link": "https://www.paralacasa.com.br/pages/summer-sale",
+      "title": "PORCELANA",
+      "link": "https://www.paralacasa.com.br/porcelana",
       "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
     },
     {
@@ -65,7 +65,7 @@
       "page": 1,
       "sort": "offers",
       "link": "https://www.paralacasa.com.br/bambu/",
-      "title": "ATÉ 25%OFF - BAMBU LOVERS",
+      "title": "BAMBU LOVERS",
       "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu"
     },
     {
@@ -75,7 +75,7 @@
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
       "sort": "offers",
-      "title": "ATÉ 20% OFF - TALHERES ITALIANOS ",
+      "title": "EME - TALHERES ITALIANOS ",
       "link": "https://www.paralacasa.com.br/colecao-eme"
     },
     {
@@ -86,7 +86,7 @@
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
       "sort": "offers",
       "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICAS - ATÉ 40%OFF"
+      "title": "CERÂMICAS "
     },
     {
       "type": "banners-grid",
@@ -111,7 +111,7 @@
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
       "sort": "offers",
       "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "title": "JOGOS AMERICANOS ATÉ 45% OFF"
+      "title": "JOGOS AMERICANOS"
     },
     {
       "type": "banners-grid",
