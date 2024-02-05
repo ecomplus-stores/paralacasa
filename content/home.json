@@ -53,17 +53,27 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "PORCELANA",
-      "link": "https://www.paralacasa.com.br/porcelana",
-      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/ceramica/",
+      "title": "CERÂMICAS "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "title": "EME - TALHERES ITALIANOS ",
+      "link": "https://www.paralacasa.com.br/colecao-eme"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/bambu/",
       "title": "BAMBU LOVERS",
       "collection_id": "618bee99239b7206d3087b22:collections:BAMBU:/bambu"
@@ -73,20 +83,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "offers",
-      "title": "EME - TALHERES ITALIANOS ",
-      "link": "https://www.paralacasa.com.br/colecao-eme"
+      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/",
+      "title": "JOGOS AMERICANOS"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICAS "
+      "sort": "views",
+      "title": "PORCELANA",
+      "link": "https://www.paralacasa.com.br/porcelana",
+      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
     },
     {
       "type": "banners-grid",
@@ -102,16 +112,6 @@
           "alt": "Louças em Cerâmica e Porcelana - Para la Casa"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "title": "JOGOS AMERICANOS"
     },
     {
       "type": "banners-grid",
