@@ -59,6 +59,11 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "ESPECIAL FERIADO: TODA LOJA COM 15% OFF",
+      "description": "DESCONTO AUTOMÁTICO EM SEU CARRINHO."
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
