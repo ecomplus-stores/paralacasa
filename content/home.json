@@ -6,9 +6,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/15__cupom-paralacasa-feriado-carnaval.webp",
+          "img": "/img/uploads/__cupom-paralacasa-feriado-carnaval.webp",
           "link": "https://www.paralacasa.com.br/mesa/",
-          "alt": "USE O CUPOM:FERIADO15 - ganhe 15% off no Feriado de Carnaval Para la Casa"
+          "alt": "Ganhe 15% off no Feriado de Carnaval Para la Casa"
         }
       ]
     },
