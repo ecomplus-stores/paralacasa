@@ -6,16 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__cupom-paralacasa-feriado-carnaval.webp",
-          "link": "https://www.paralacasa.com.br/mesa/",
-          "alt": "CARNAVAL - 15% OFF - EM TODA LOJA PARA LA CASA "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/__mesa-de-verao_24.webp",
           "alt": "Mesas de Verão 2024 - Cerâmica -Tableware Para la Casa",
           "link": "https://www.paralacasa.com.br/ceramica/",
