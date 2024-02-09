@@ -59,9 +59,8 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "ESPECIAL FERIADO: TODA LOJA COM 15% OFF",
-      "description": "DESCONTO AUTOMÁTICO EM SEU CARRINHO."
+      "type": "custom-html",
+      "html": "<div class=\"page-title__head\"><CENTER><h3  \n style=\"text-align: center;\"> \n  <b>TODA LOJA COM 15% OFF</b></h3>\n<p style=\"text-align: center;\">DESCONTO AUTOMÁTICO EM SEU CARRINHO.</p>\n  </CENTER></DIV>"
     },
     {
       "type": "collection-shelf",
