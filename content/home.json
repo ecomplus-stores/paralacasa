@@ -53,6 +53,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "AS ESCOLHAS DA SEMANA "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/bambu/",
       "title": "BAMBU LOVERS",
@@ -63,30 +73,21 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "lowest_price",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICAS "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
       "sort": "sales",
-      "title": "EME - TALHERES ITALIANOS ",
-      "link": "https://www.paralacasa.com.br/colecao-eme"
+      "title": "PARA RECEBER - APERITIVOS E BANDEJAS",
+      "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "title": "JOGOS AMERICANOS"
+      "title": "CHARME E ACONCHEGO PARA SUA CASA",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/mantas-almofadas-velas",
+      "limit": 12,
+      "collection_id": "64947a115e6069037045277b:collections:Mantas, Almofadas e Velas:/mantas-almofadas-velas",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
