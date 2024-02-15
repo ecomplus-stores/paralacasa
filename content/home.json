@@ -53,7 +53,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/bambu/",
       "title": "BAMBU LOVERS",
       "collection_id": "617b473688313d7b9586293b:categories:BANDEJAS EM BAMBU:/bandejas-em-bambu/"
@@ -74,7 +74,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "views",
+      "sort": "sales",
       "title": "EME - TALHERES ITALIANOS ",
       "link": "https://www.paralacasa.com.br/colecao-eme"
     },
@@ -84,7 +84,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/jogos-americanos/",
       "title": "JOGOS AMERICANOS"
     },
@@ -93,7 +93,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "title": "PORCELANA",
       "link": "https://www.paralacasa.com.br/porcelana/",
       "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
