@@ -49,26 +49,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "AS ESCOLHAS DA SEMANA "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
-      "sort": "sales",
-      "title": "PARA RECEBER - APERITIVOS E BANDEJAS",
-      "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
-    },
-    {
       "page": 1,
       "title": "NEW",
       "shuffle": false,
@@ -84,14 +64,34 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "views",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "NOSSAS ESCOLHAS PARA  A SEMANA"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
+      "sort": "sales",
+      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
+      "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "news",
-      "title": "LOUÇAS EM PORCELANA",
+      "title": "O QUE OUTROS CLIENTES TÊM VISTO - PORCELANAS E CERÂMICAS",
       "link": "https://www.paralacasa.com.br/porcelana/",
       "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
     },
     {
       "page": 1,
-      "title": "JOGOS AMERICANOS, ARGOLAS E GUARDANAPOS",
+      "title": "OS ESSENCIAIS EM JOGOS AMERICANOS, ARGOLAS E GUARDANAPOS",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
