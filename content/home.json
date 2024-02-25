@@ -57,7 +57,7 @@
       "link": "https://www.paralacasa.com.br/new",
       "limit": 12,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -65,7 +65,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "NOSSAS ESCOLHAS DA SEMANA "
     },
@@ -75,7 +75,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
-      "sort": "sales",
+      "sort": "views",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
     },
@@ -84,10 +84,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "O QUE OUTROS CLIENTES TÊM VISTO - PORCELANAS E CERÂMICAS",
-      "link": "https://www.paralacasa.com.br/porcelana/",
-      "collection_id": "617b472c88313d7b95862902:categories:PORCELANA:/porcelana/"
+      "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
+      "collection_id": "658c410c2cd6b65959eb457a:collections:LOUÇAS:/loucas-ceramica-porcelana"
     },
     {
       "page": 1,
@@ -98,7 +98,7 @@
       "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
       "limit": 12,
       "collection_id": "658c425f2cd6b65959eb47ab:collections:JOGOS AMERICANOS, ARGOLAS e GUARDANAPOS:/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
