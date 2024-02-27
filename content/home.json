@@ -3,10 +3,6 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<h2 > TODO SITE COM 15% OFF - desconto automático em seu carrinho\n  </H2>"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
