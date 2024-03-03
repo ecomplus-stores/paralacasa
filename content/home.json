@@ -82,20 +82,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
-      "sort": "sales",
-      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
-      "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
+      "sort": "news",
+      "title": "O QUE OUTROS CLIENTES TÊM VISTO - PORCELANAS E CERÂMICAS",
+      "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
+      "collection_id": "658c410c2cd6b65959eb457a:collections:LOUÇAS:/loucas-ceramica-porcelana"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "O QUE OUTROS CLIENTES TÊM VISTO - PORCELANAS E CERÂMICAS",
-      "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
-      "collection_id": "658c410c2cd6b65959eb457a:collections:LOUÇAS:/loucas-ceramica-porcelana"
+      "collection_id": "658b06882cd6b65959ea2e78:collections:APERITIVOS e BANDEJAS:/bandejas-e-tabuas",
+      "sort": "sales",
+      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
+      "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
     },
     {
       "page": 1,
