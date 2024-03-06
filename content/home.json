@@ -87,11 +87,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
       "sort": "news",
-      "title": "O QUE OUTROS CLIENTES TÊM VISTO ",
-      "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
+      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "658c410c2cd6b65959eb457a:collections:LOUÇAS:/loucas-ceramica-porcelana"
     },
     {
