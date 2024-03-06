@@ -89,10 +89,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "collection_id": "658c410c2cd6b65959eb457a:collections:LOUÇAS:/loucas-ceramica-porcelana"
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "page": 1,
