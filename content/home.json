@@ -6,6 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-semana-consumidor-15-off-1576-x-1136-28-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/__mesa-de-verao_24.webp",
           "alt": "Mesas de Verão 2024 - Cerâmica -Tableware Para la Casa",
           "link": "https://www.paralacasa.com.br/ceramica/",
