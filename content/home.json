@@ -4,11 +4,7 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-semana-consumidor-15-off-1576-x-1136-28-.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "banners-grid",
