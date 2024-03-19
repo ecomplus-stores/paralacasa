@@ -1,6 +1,217 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/set-tabuas-bianco-ret-2pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-tabuas-bianco-2pc",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-bandejas-off-white-03pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-xicaras-de-cha-royal-blue-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-pratos-sobremesa-royal-blue-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-pratos-sobremesa-folhagens-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-prato-raso-folhagens-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-bowl-madeleine-azul-porto-brasil-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-xicaras-de-cha-manish-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/xicara-de-cha-grecco-celadon-06-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/prato-fundo-grecco-celadon-06-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/porta-talheres-azul-bambu",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-xicaras-de-cafe-giardino-blu-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-pratos-sobremesa-giardino-blu-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-para-queijos-inox-04pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/faqueiro-sobremesa-dourado-bambu-18-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/faqueiro-de-mesa-dourado-bambu-18-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/faqueiro-de-mesa-dourado-bambu-36-pcs-argolas",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-colheres-de-cafe-dourado-bambu-06-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-colheres-de-cha-dourado-bambu-06-pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-jogo-americano-palhinha-acqua-04pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-americano-caribe-orange",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-americano-rio-celadon-01pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-americano-guirlanda-celadon-01pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-pratos-rasos-magnolia-04-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-pratos-rasos-magnolia-04-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-copos-altos-cristal-ecologico-casual-verde-neon-krosno-360ml-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-tacas-de-vinho-buzios-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-06-tacas-cristal-ecol-champgne-220ml-maxima",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-de-tacas-de-vinho-citrino-06-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-tacas-de-vinho-papillon-bleu",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/copo-de-vidro-alto-kenya-adella-370ml-cj-4pc",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-tacas-de-vinho-azul-riviera",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/jogo-taca-de-champanhe-vidro-azul-160ml-enjoy-belinda",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-tacas-sobremesa-ilheus-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/set-tacas-agua-ilheus-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "source": "/set-tacas-papillon-vert-06pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/porta-retrato/",
+        "destination": "/decor/",
+        "type": 301
+      },{
+        "source": "/porta-vela/",
+        "destination": "/decor/",
+        "type": 301
+      },
+{
+        "source": "/jogo-para-queijo-madeira-e-vidro-dinasty-03pcs",
+        "destination": "/mesa/",
+        "type": 301
+      },{
+        "regex": "/busca?b=&",
+        "destination": "/search?term=",
+        "type": 301
+      },{
+        "source": "/conjunto-de-colheres-e-espatulas-de-silicone-laranja-04-pc",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/panela-multifuncional-antiaderente-roichen-aluminio-ceramica-vermelha",
+        "destination": "/mesa/",
+        "type": 301
+      },
+{
+        "source": "/moedor-duplo-sal-e-pimenta-dual-grinder-chefn-01pc?utm_source=buscaintegrada&utm_medium=buscaintegrada&utm_campaign=buscaintegrada",
+        "destination": "/mesa/",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
