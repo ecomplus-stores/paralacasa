@@ -41,14 +41,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__mesa-posta-para-la-casa_24.webp",
-          "link": "https://www.paralacasa.com.br/jogos-americanos/",
-          "alt": "Jogos Americanos nossas apostas para vestir a mesa."
-        },
-        {
           "img": "/img/uploads/e-com-plus-home-bambu-788-x-518-px-13-.jpg",
           "link": "https://www.paralacasa.com.br/loucas-ceramica-porcelana",
           "alt": "Cerâmicas e porcelanas nossas escolhas - Para La Casa"
+        },
+        {
+          "img": "/img/uploads/e-com-plus-home-jogos-americanos-788-x-518-px-13-.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos",
+          "alt": "Para vestir a mesa, jogos americanos - Para La Casa"
         }
       ]
     },
