@@ -6,17 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__mesa-de-verao_24.webp",
-          "alt": "Mesas de Verão 2024 - Cerâmica -Tableware Para la Casa",
-          "link": "https://www.paralacasa.com.br/ceramica/",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/__cafe-da-manha-para-la-casa_24.webp",
           "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
           "alt": "Café da Manhã Aperitivos - Verão 2024 - Para la Casa"
