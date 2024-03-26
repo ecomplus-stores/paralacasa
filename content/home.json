@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": []
-    },
-    {
-      "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/__mesa-de-verao_24.webp",
@@ -26,9 +22,9 @@
           "alt": "Café da Manhã Aperitivos - Verão 2024 - Para la Casa"
         },
         {
-          "img": "/img/uploads/__tudoembambu_24.webp",
-          "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "Bambu - Peças para Tableware Mesa Posta Verão 2024- Para la Casa"
+          "img": "/img/uploads/e-com-plus-home-loucas-788-x-518-px-12-.jpg",
+          "link": "https://www.paralacasa.com.br/ceramica/",
+          "alt": "As nossas escolhas na hora de servir a mesa."
         }
       ]
     },
