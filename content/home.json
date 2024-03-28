@@ -48,6 +48,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -82,16 +92,6 @@
       "sort": "views",
       "link": "https://www.paralacasa.com.br/decor/",
       "title": "DÉCOR "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "page": 1,
