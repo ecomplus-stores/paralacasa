@@ -4,16 +4,16 @@
   "meta_description": " PARA LA CASA  BLOG- ARTIGOS E TENDÊNCIAS PARA DECORAÇÃO DE MESA E CASA",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/ecom-plus-blog-full-banner-1576-x-1136-28-.jpg"
         }
       ]
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     },
     {
       "type": "page-title"
