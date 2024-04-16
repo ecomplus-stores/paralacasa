@@ -1,8 +1,16 @@
 {
-  "title": "BLOG PARA LA CASA ",
+  "title": " PARA LA CASA  BLOG",
   "meta_title": "ARTIGOS E TENDÊNCIAS PARA DECORAÇÃO DE MESA E CASA",
-  "meta_description": "BLOG PARA LA CASA - ARTIGOS E TENDÊNCIAS PARA DECORAÇÃO DE MESA E CASA",
+  "meta_description": " PARA LA CASA  BLOG- ARTIGOS E TENDÊNCIAS PARA DECORAÇÃO DE MESA E CASA",
   "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-blog-full-banner-1576-x-1136-28-.jpg"
+        }
+      ]
+    },
     {
       "type": "breadcrumbs",
       "enabled": true
