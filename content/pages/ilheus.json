@@ -1,0 +1,91 @@
+{
+  "body": "\n\nPor aqui, adoramos quando uma inspiração se materializa e chega até as nossas mesas com suas cores e desenhos.\n\nDesta vez, trazemos para as mesas a linha de cerâmicas que chamamos de Ilhéus toda inspirada em frutos tropicais e suas folhagens,\n\nA﻿ força da representatividade está presente em seus tons de verde e açafrão que iluminam e alegram a produção.\n\nPara quem como nós adora receber com carinho e cuidado, apresentamos uma nova curadoria em pratos, bowls, xícaras e pratos de bolo que trazem para perto a nossa brasilidade. \n\nE﻿spero que gostem!\n\nC﻿lique nos produtos para conhecer mais.",
+  "title": "Ilhéus",
+  "meta_title": "Ilhéus uma nova curadoria em cerâmica.",
+  "meta_description": "Ilhéus uma nova curadoria em cerâmica.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-shop-by-look-ilheus-1576-x-1136-28-.jpg",
+      "alt": "Ilhéus, uma nova curadoria em cerâmica",
+      "link": "https://www.paralacasa.com.br/colecao-ilheus"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/285.jpg",
+          "link": "https://www.paralacasa.com.br/set-prato-raso-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        },
+        {
+          "img": "/img/uploads/286.jpg",
+          "link": "https://www.paralacasa.com.br/set-prato-raso-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "662ffa92ee85900185f0e979:collections:Ilhéus pratos:/ilheus-pratos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/287.jpg",
+          "link": "https://www.paralacasa.com.br/set-prato-sobremesa-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        },
+        {
+          "img": "/img/uploads/288.jpg",
+          "link": "https://www.paralacasa.com.br/set-bowls-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "662ffca1ee85900185f0eeca:collections:Ilhéus bowl:/ilheus-bowl"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/289.jpg",
+          "link": "https://www.paralacasa.com.br/prato-de-bolo-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        },
+        {
+          "img": "/img/uploads/290.jpg",
+          "link": "https://www.paralacasa.com.br/set-xicara-de-cha-ilheus-06pc",
+          "alt": "Ilhéus, uma nova curadoria em cerâmica"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "662ffbe2ee85900185f0ece2:collections:Ilhéus xícaras bolo:/ilheus-xicaras-bolo"
+    }
+  ]
+}
