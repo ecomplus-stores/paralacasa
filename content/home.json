@@ -6,15 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-feriado15-1576-x-1136-28-.jpg",
-          "alt": "15%Off Feriado "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/e-com-plus-home-cafe-menta-788-x-518-px-14-.jpg",
           "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
           "alt": "Os essenciais para o café da manhã."
