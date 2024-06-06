@@ -23,7 +23,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/new",
       "title": "NEW"
     },
@@ -33,7 +33,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "highest_price",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA "
     },
@@ -62,7 +62,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "highest_price",
+      "sort": "sales",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
@@ -112,7 +112,7 @@
       "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
       "limit": 12,
       "collection_id": "658c425f2cd6b65959eb47ab:collections:JOGOS AMERICANOS, ARGOLAS e GUARDANAPOS:/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-      "sort": "lowest_price"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -120,7 +120,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "658b06882cd6b65959ea2e78:collections:NOSSOS PREFERIDOS PARA OS APERITIVOS:/nossos-preferidos-para-os-aperitivos",
-      "sort": "sales",
+      "sort": "news",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
     },
