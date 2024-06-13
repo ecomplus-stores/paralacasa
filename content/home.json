@@ -6,12 +6,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-cafe-menta-788-x-518-px-14-.jpg",
+          "img": "/img/uploads/__paralacasa-home-cafe-menta-788px-518px.webp",
           "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
           "alt": "Os essenciais para o café da manhã."
         },
         {
-          "img": "/img/uploads/e-com-plus-botanica-home-788-x-518-px-17-.jpg",
+          "img": "/img/uploads/__paralacasa-botanica-home-788-518px.webp",
           "link": "https://www.paralacasa.com.br/botanica",
           "alt": "Fauna e flora que invadem nossas mesas."
         }
@@ -41,17 +41,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-tacas-e-copos-527-x-515-px-19-.jpg",
+          "img": "/img/uploads/__paralacasa-home-tacas-e-copos-527px-515px.webp",
           "link": "https://www.paralacasa.com.br/tacas-e-copos",
           "alt": "Copos e Taças - Para la Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-home-talheres-527-x-515-px-20-.jpg",
+          "img": "/img/uploads/__paralacasa-home-talheres-527px-515px.webp",
           "link": "https://www.paralacasa.com.br/faqueiros/",
           "alt": "Talheres em bambu, Italianos EME - Para La Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-home-objetos-2-527-x-515-px-19-.jpg",
+          "img": "/img/uploads/__paralacasa-home-objetos-2-527px-515-px.webp",
           "link": "https://www.paralacasa.com.br/objetos/",
           "alt": "Peças atemporais para o décor."
         }
