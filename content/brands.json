@@ -24,7 +24,8 @@
       "collection_ids": [
         "617300969bb4ce40f93b03d6:collections:NEW:/new"
       ],
-      "sort": "news"
+      "sort": "news",
+      "shelfs_title": "NEW"
     },
     {
       "type": "custom-html",
