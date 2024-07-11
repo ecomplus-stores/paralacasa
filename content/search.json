@@ -3,15 +3,6 @@
     {
       "type": "search-engine",
       "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "CONFIRA DESTAQUES DO MÊS"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     }
   ]
 }
