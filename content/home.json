@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-categoria-sale-inverno-2024-1576-x-1136-28-.jpg",
+          "alt": "SALE de INVERNO - Uma seleção de produtos para esta Sale anual que finalmente chegou. ",
+          "link": "https://www.paralacasa.com.br/pages/sale"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/__paralacasa-home-cafe-menta-788px-518px.webp",
           "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
           "alt": "Os essenciais para o café da manhã."
