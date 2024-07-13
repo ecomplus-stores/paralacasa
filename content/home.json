@@ -84,7 +84,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "645d59494bd2e929c1f8a5ef:collections:COLEÇÃO MARFIM:/colecao-marfim",
-      "sort": "news",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
       "title": "CAFÉ DA MANHÃ"
     },
@@ -108,10 +108,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/bambu/",
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos"
+      "collection_id": null
     },
     {
       "page": 1,
