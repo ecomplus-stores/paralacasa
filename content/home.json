@@ -108,7 +108,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "sales",
+      "sort": "offers",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/bambu/",
       "collection_id": null
@@ -122,7 +122,7 @@
       "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
       "limit": 12,
       "collection_id": "658c425f2cd6b65959eb47ab:collections:JOGOS AMERICANOS, ARGOLAS e GUARDANAPOS:/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -130,7 +130,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "658b06882cd6b65959ea2e78:collections:NOSSOS PREFERIDOS PARA OS APERITIVOS:/nossos-preferidos-para-os-aperitivos",
-      "sort": "sales",
+      "sort": "offers",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-e-tabuas"
     },
