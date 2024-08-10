@@ -43,9 +43,9 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "645d59494bd2e929c1f8a5ef:collections:COLEÇÃO MARFIM:/colecao-marfim",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "sort": "views",
+      "link": "https://www.paralacasa.com.br/bambu/",
       "title": "AS ESCOLHAS DA SEMANA "
     },
     {
@@ -83,10 +83,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "65c698b387ab487fbfb1b424:collections:Café da Manhã Azul:/colecao-azul",
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-azul",
-      "title": "CAFÉ DA MANHÃ"
+      "link": "https://www.paralacasa.com.br/ceramica/",
+      "title": "CERÂMICA"
     },
     {
       "type": "banners-grid",
@@ -108,21 +108,21 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
       "collection_id": "65c6931687ab487fbfb1ab69:collections:Café da Manhã Menta e Folha:/colecao-menta-e-folha"
     },
     {
       "page": 1,
-      "title": "OS ESSENCIAIS EM JOGOS AMERICANOS, ARGOLAS E GUARDANAPOS",
+      "title": "JOGOS AMERICANOS",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/",
       "limit": 12,
       "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -130,7 +130,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
-      "sort": "views",
+      "sort": "sales",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
