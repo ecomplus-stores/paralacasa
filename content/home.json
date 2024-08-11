@@ -6,6 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/tarja-frete-gratis-a-partir-499-00-1628-x-200.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/ecom-plus-40-off-ultimas-horas1576-x-1136-28-.jpg",
           "alt": "SALE de INVERNO - Uma seleção de produtos para esta Sale anual que finalmente chegou. ",
           "link": "https://www.paralacasa.com.br/pages/sale"
