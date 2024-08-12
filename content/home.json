@@ -37,22 +37,22 @@
     },
     {
       "page": 1,
-      "title": "SALE INVERNO",
+      "title": "NEW",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/pages/sale",
+      "link": "https://www.paralacasa.com.br/new",
       "limit": 24,
       "collection_id": null,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
-      "sort": "views",
+      "collection_id": null,
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/bambu/",
       "title": "AS ESCOLHAS DA SEMANA "
     },
@@ -81,20 +81,31 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
+      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ "
+    },
+    {
+      "page": 1,
+      "title": "JOGOS AMERICANOS",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/jogos-americanos/",
+      "limit": 12,
+      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICA"
+      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
+      "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
+      "collection_id": "65c6931687ab487fbfb1ab69:collections:Café da Manhã Menta e Folha:/colecao-menta-e-folha"
     },
     {
       "type": "banners-grid",
@@ -116,31 +127,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
       "sort": "sales",
-      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
-      "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
-      "collection_id": "65c6931687ab487fbfb1ab69:collections:Café da Manhã Menta e Folha:/colecao-menta-e-folha"
-    },
-    {
-      "page": 1,
-      "title": "JOGOS AMERICANOS",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
-      "limit": 12,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "news"
+      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
+      "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
       "sort": "sales",
-      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
-      "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
+      "link": "https://www.paralacasa.com.br/ceramica/",
+      "title": "CERÂMICA"
     },
     {
       "type": "banners-grid",
