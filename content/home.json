@@ -38,7 +38,7 @@
     {
       "page": 1,
       "title": "NEW",
-      "shuffle": true,
+      "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.paralacasa.com.br/new",
