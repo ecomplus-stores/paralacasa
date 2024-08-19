@@ -41,10 +41,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/bambu/",
-      "title": "AS ESCOLHAS DA SEMANA "
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
     {
       "type": "banners-grid",
@@ -69,12 +69,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
-      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ "
+      "sort": "news",
+      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
+      "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "page": 1,
@@ -92,10 +92,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
-      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
-      "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
-      "collection_id": "65c6931687ab487fbfb1ab69:collections:Café da Manhã Menta e Folha:/colecao-menta-e-folha"
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "views",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "AS ESCOLHAS DA SEMANA "
     },
     {
       "type": "banners-grid",
@@ -118,19 +118,19 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
-      "sort": "news",
+      "sort": "sales",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
+      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "title": "CERÂMICA"
+      "link": "https://www.paralacasa.com.br/cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ "
     },
     {
       "type": "banners-grid",
