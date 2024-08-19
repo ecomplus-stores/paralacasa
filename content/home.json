@@ -78,14 +78,14 @@
     },
     {
       "page": 1,
-      "title": "JOGOS AMERICANOS",
+      "title": "SALE",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/jogos-americanos/",
+      "link": "https://www.paralacasa.com.br/pages/sale",
       "limit": 12,
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/",
-      "sort": "sales"
+      "collection_id": null,
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
