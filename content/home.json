@@ -28,6 +28,17 @@
     },
     {
       "page": 1,
+      "title": "SALE",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "limit": 12,
+      "collection_id": null,
+      "sort": "offers"
+    },
+    {
+      "page": 1,
       "title": "NEW",
       "shuffle": false,
       "headless": false,
@@ -36,16 +47,6 @@
       "limit": 24,
       "collection_id": null,
       "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
     {
       "type": "banners-grid",
@@ -72,21 +73,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "offers",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/colecao-menta-e-folha",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
-    },
-    {
-      "page": 1,
-      "title": "SALE",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "limit": 12,
-      "collection_id": null,
-      "sort": "offers"
     },
     {
       "type": "collection-shelf",
@@ -94,7 +94,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA "
     },
@@ -119,7 +119,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
-      "sort": "sales",
+      "sort": "offers",
       "title": "O QUE MAIS AMAMOS PARA RECEBER ",
       "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
@@ -129,7 +129,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
-      "sort": "sales",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/cafe-da-manha",
       "title": "CAFÉ DA MANHÃ "
     },
