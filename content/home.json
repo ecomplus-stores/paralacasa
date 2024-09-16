@@ -38,15 +38,14 @@
       "sort": "news"
     },
     {
-      "page": 1,
-      "title": "DÉCOR ",
-      "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/pages/sale",
+      "shuffle": false,
       "limit": 12,
-      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR E GIFT:/decor-e-gifts",
-      "sort": "sales"
+      "page": 1,
+      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ "
     },
     {
       "type": "banners-grid",
@@ -73,10 +72,21 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "AS ESCOLHAS DA SEMANA "
+    },
+    {
+      "page": 1,
+      "title": "DÉCOR ",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "limit": 12,
+      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR E GIFT:/decor-e-gifts",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -87,16 +97,6 @@
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "AS ESCOLHAS DA SEMANA "
     },
     {
       "type": "banners-grid",
@@ -118,20 +118,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "633f142c73321213f89fa845:collections:INVERNO 2024:/petiscos-tabuas",
-      "sort": "news",
-      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
-      "link": "https://www.paralacasa.com.br/petiscos-tabuas"
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
-      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
+      "collection_id": "633f142c73321213f89fa845:collections:INVERNO 2024:/petiscos-tabuas",
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ "
+      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
+      "link": "https://www.paralacasa.com.br/petiscos-tabuas"
     },
     {
       "type": "banners-grid",
