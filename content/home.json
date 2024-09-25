@@ -81,6 +81,17 @@
       ]
     },
     {
+      "page": 1,
+      "title": "IMAGENS - Uma conexão espiritual",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/imagens",
+      "limit": 12,
+      "collection_id": "66e4a4719e4b2e07f50ae035:categories:IMAGENS:/imagens",
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -91,22 +102,11 @@
       "title": "AS ESCOLHAS DA SEMANA "
     },
     {
-      "page": 1,
-      "title": "DÉCOR ",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "limit": 12,
-      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR E GIFT:/decor-e-gifts",
-      "sort": "sales"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
@@ -132,7 +132,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/colecao-eme",
       "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
@@ -141,10 +141,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "633f142c73321213f89fa845:collections:INVERNO 2024:/petiscos-tabuas",
+      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
       "sort": "news",
-      "title": "O QUE MAIS AMAMOS PARA RECEBER ",
-      "link": "https://www.paralacasa.com.br/petiscos-tabuas"
+      "title": "BANDEJAS ",
+      "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
     {
       "type": "banners-grid",
