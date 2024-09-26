@@ -41,24 +41,35 @@
     },
     {
       "page": 1,
-      "title": "NEW",
+      "title": "AS ESCOLHAS DA SEMANA",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/new",
+      "link": "https://www.paralacasa.com.br/destaques",
       "limit": 24,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ "
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE"
+    },
+    {
+      "page": 1,
+      "title": "NEW",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/new",
+      "limit": 12,
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -81,32 +92,21 @@
       ]
     },
     {
-      "page": 1,
-      "title": "IMAGENS - Uma conexão espiritual",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/imagens",
-      "limit": 12,
-      "collection_id": "66e4a4719e4b2e07f50ae035:categories:IMAGENS:/imagens",
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "AS ESCOLHAS DA SEMANA "
+      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
@@ -132,7 +132,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/colecao-eme",
       "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
@@ -141,10 +141,10 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
+      "collection_id": "617b471d88313d7b958628c0:categories:BAMBU:/bambu/",
       "sort": "news",
-      "title": "BANDEJAS ",
-      "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
+      "title": "TUDO EM BAMBU",
+      "link": "https://www.paralacasa.com.br/bambu/"
     },
     {
       "type": "banners-grid",
