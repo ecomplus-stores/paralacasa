@@ -40,15 +40,14 @@
       ]
     },
     {
-      "page": 1,
-      "title": "AS ESCOLHAS DA SEMANA",
-      "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/destaques",
+      "shuffle": false,
       "limit": 24,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales"
+      "page": 1,
+      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ"
     },
     {
       "type": "collection-shelf",
@@ -92,21 +91,22 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
       "page": 1,
-      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ"
+      "title": "AS ESCOLHAS DA SEMANA",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "limit": 24,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
@@ -132,7 +132,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/colecao-eme",
       "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
@@ -142,7 +142,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "617b471d88313d7b958628c0:categories:BAMBU:/bambu/",
-      "sort": "news",
+      "sort": "views",
       "title": "TUDO EM BAMBU",
       "link": "https://www.paralacasa.com.br/bambu/"
     },
