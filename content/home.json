@@ -16,12 +16,12 @@
       "banners": [
         {
           "img": "/img/uploads/e-com-plus-home-cafe-marfim788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha",
           "alt": "Os essenciais para o café da manhã."
         },
         {
           "img": "/img/uploads/e-com-plus-home-bambu788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/tudo-em-bambu/",
+          "link": "https://www.paralacasa.com.br/bambu/",
           "alt": "Bambu natural, todas as escolhas que amamos para nossa casa."
         }
       ]
@@ -45,8 +45,8 @@
       "limit": 24,
       "page": 1,
       "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-cafe-da-manha",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/cafe-da-manha",
       "title": "CAFÉ DA MANHÃ"
     },
     {
@@ -61,13 +61,13 @@
     },
     {
       "page": 1,
-      "title": "NEW",
+      "title": "DÉCOR",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/new",
+      "link": "https://www.paralacasa.com.br/decor/",
       "limit": 12,
-      "collection_id": null,
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
       "sort": "news"
     },
     {
