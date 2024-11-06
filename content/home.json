@@ -68,7 +68,7 @@
       "link": "https://www.paralacasa.com.br/decor/",
       "limit": 12,
       "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -99,14 +99,14 @@
       "link": "https://www.paralacasa.com.br/destaques",
       "limit": 24,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
