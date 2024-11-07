@@ -91,25 +91,24 @@
       ]
     },
     {
-      "page": 1,
-      "title": "DÉCOR",
-      "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "limit": 12,
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
-      "sort": "sales"
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "news",
-      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
     },
     {
       "type": "banners-grid",
@@ -127,14 +126,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
       "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
+      "title": "DÉCOR",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/decor/",
+      "limit": 12,
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
