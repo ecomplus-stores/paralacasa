@@ -61,13 +61,13 @@
     },
     {
       "page": 1,
-      "title": "DÉCOR",
+      "title": "AS ESCOLHAS DA SEMANA",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "limit": 12,
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "limit": 24,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "sort": "sales"
     },
     {
@@ -92,14 +92,14 @@
     },
     {
       "page": 1,
-      "title": "AS ESCOLHAS DA SEMANA",
+      "title": "DÉCOR",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "limit": 24,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views"
+      "link": "https://www.paralacasa.com.br/decor/",
+      "limit": 12,
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
