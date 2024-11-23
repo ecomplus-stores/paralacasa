@@ -1,7 +1,7 @@
 {
-  "title": "BLACK NOVEMBER - ATÉ 30% OFF",
-  "body": "\n\nBlack November 2022 - FINALIZADA",
-  "meta_title": "",
+  "title": "BLACK WEEK PARA LA CASA 2024 ",
+  "body": "Black Week Para La Casa: Elegância e praticidade com até 45% OFF!",
+  "meta_title": "Black Week Para La Casa: Elegância e praticidade com até 45% OFF! ",
   "sections": [
     {
       "type": "extra-page",
@@ -9,9 +9,14 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
+      "load_more": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ],
-  "meta_description": ""
+  "meta_description": "Renove seu lar com peças exclusivas para decorar, organizar e usar no dia a dia. Ofertas imperdíveis em nosso site!"
 }
