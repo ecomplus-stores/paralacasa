@@ -7,14 +7,16 @@
       "banners": [
         {
           "img": "/img/uploads/tarja-blackweek.webp",
-          "link": "https://www.paralacasa.com.br/pages/sale"
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "BLACK WEEK PARA LA CASA ATÉ 45% OFF "
         }
       ]
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/black-week-paralacasa-2024-d.webp",
-      "link": "https://www.paralacasa.com.br/pages/sale"
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "alt": "BLACK WEEK PARA LA CASA ATÉ 45% OFF "
     },
     {
       "type": "banners-grid",
@@ -22,12 +24,12 @@
         {
           "img": "/img/uploads/loucas-black-week-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-loucas",
-          "alt": "Os essenciais para o café da manhã."
+          "alt": "30% OFF Louças em Porcelana e Cerâmica - Para la Casa"
         },
         {
           "img": "/img/uploads/tacas-copos-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
-          "alt": "Bambu natural, todas as escolhas que amamos para nossa casa."
+          "alt": "Taças de Cristais e Copos para Fim de Ano e Festas com 30% off em Para la Casa"
         }
       ]
     },
@@ -37,17 +39,17 @@
         {
           "img": "/img/uploads/bandejas-tabuas-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
-          "alt": "Copos e Taças - Para la Casa"
+          "alt": "BANDEJAS EM BAMBU E TÁBUAS COM 30% OFF - BLACK WEEK PARA LA CASA"
         },
         {
           "img": "/img/uploads/cafe-da-manha-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-cafe-da-manha",
-          "alt": "Talheres em bambu, Italianos EME - Para La Casa"
+          "alt": "BLACK WEEK PARA LA CASA- 20% OFF EM CAFÉ DA MANHÃ PARA SUA MESA POSTA"
         },
         {
           "img": "/img/uploads/bambu-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-bambu-e-aperitivos",
-          "alt": "Peças atemporais para o décor."
+          "alt": "BLACK WEEK PARA LA CASA ATÉ 30% OFF  EM BAMBU E APERITIVOS"
         }
       ]
     },
@@ -56,11 +58,13 @@
       "banners": [
         {
           "img": "/img/uploads/talheres-blackweek-2024.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-talheres"
+          "link": "https://www.paralacasa.com.br/descontos-em-talheres",
+          "alt": "15% OFF EM TALHERES ITALIANOS - EME - BLACK WEEK PARA LA CASA "
         },
         {
           "img": "/img/uploads/jogos-americanos-blackweek-2024.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299"
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
+          "alt": "ATÉ 45% OFF EM JOGOS AMERICANOS E GUARDANAPOS - BLACK WEEK PARA LA CASA"
         }
       ]
     },
@@ -96,17 +100,17 @@
         {
           "img": "/img/uploads/cozinha-acrilico-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-cozinha-organizacao-e-acrilicos",
-          "alt": "Cozinha e Organizar - Para la Casa"
+          "alt": "25% OFF EM COZINHA E ACRÍLICO - BLACK WEEK PARA LA CASA"
         },
         {
           "img": "/img/uploads/decor-imagens-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
-          "alt": "Décor e Gifts - Para la Casa"
+          "alt": "30% OFF DÉCOR E IMAGENS - BLACK WEEK PARA LA CASA"
         },
         {
           "img": "/img/uploads/lavabo-aromas-blackweek-2024.webp",
           "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "Lavabo e Aromas - Para la Casa"
+          "alt": "30% OFF Lavabo e Aromas - Para la Casa"
         }
       ]
     }
