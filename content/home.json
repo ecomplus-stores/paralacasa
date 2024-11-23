@@ -6,22 +6,27 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/tarja-frete-gratis-2-.jpg",
+          "img": "/img/uploads/tarja-blackweek.webp",
           "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/black-week-paralacasa-2024-d.webp",
+      "link": "https://www.paralacasa.com.br/pages/sale"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-cafe-marfim788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/cafe-da-manha",
+          "img": "/img/uploads/loucas-black-week-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
           "alt": "Os essenciais para o café da manhã."
         },
         {
-          "img": "/img/uploads/e-com-plus-home-bambu788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/bambu/",
+          "img": "/img/uploads/tacas-copos-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
           "alt": "Bambu natural, todas as escolhas que amamos para nossa casa."
         }
       ]
@@ -30,85 +35,34 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-imagens-788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/imagens"
-        },
-        {
-          "img": "/img/uploads/e-com-plus-hime-acrilicos788-x-518-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/acrilicos/"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE"
-    },
-    {
-      "page": 1,
-      "title": "AS ESCOLHAS DA SEMANA",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "limit": 24,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__paralacasa-home-tacas-e-copos-527px-515px.webp",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos",
+          "img": "/img/uploads/bandejas-tabuas-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-bandejas-e-tabuas",
           "alt": "Copos e Taças - Para la Casa"
         },
         {
-          "img": "/img/uploads/__paralacasa-home-talheres-527px-515px.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "img": "/img/uploads/cafe-da-manha-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-cafe-da-manha",
           "alt": "Talheres em bambu, Italianos EME - Para La Casa"
         },
         {
-          "img": "/img/uploads/__paralacasa-home-objetos-2-527px-515-px.webp",
-          "link": "https://www.paralacasa.com.br/objetos/",
+          "img": "/img/uploads/bambu-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-bambu-e-aperitivos",
           "alt": "Peças atemporais para o décor."
         }
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "O QUE NOSSAS CLIENTES TÊM VISTO POR AQUI",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "title": "COLEÇÃO EME - FAQUEIROS E TALHERES ITALIANOS"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/talheres-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-talheres"
+        },
+        {
+          "img": "/img/uploads/jogos-americanos-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299"
+        }
+      ]
     },
     {
       "type": "banners-grid",
@@ -127,41 +81,31 @@
     },
     {
       "page": 1,
-      "title": "DÉCOR",
+      "title": "VER TODOS OS DESCONTOS",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/decor/",
+      "link": "https://www.paralacasa.com.br/pages/sale",
       "limit": 12,
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617b472488313d7b958628d7:categories:ORGANIZAR:/organizar/",
-      "sort": "news",
-      "title": "PARA ORGANIZAR",
-      "link": "https://www.paralacasa.com.br/organizar/"
+      "collection_id": null,
+      "sort": "offers"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__cozinha_24.webp",
-          "link": "https://www.paralacasa.com.br/cozinha-e-organizacao",
+          "img": "/img/uploads/cozinha-acrilico-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-cozinha-organizacao-e-acrilicos",
           "alt": "Cozinha e Organizar - Para la Casa"
         },
         {
-          "img": "/img/uploads/__para_decor_24.webp",
-          "link": "https://www.paralacasa.com.br/decor-e-gifts",
+          "img": "/img/uploads/decor-imagens-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
           "alt": "Décor e Gifts - Para la Casa"
         },
         {
-          "img": "/img/uploads/__lavabo_24.webp",
-          "link": "https://www.paralacasa.com.br/lavabo-e-aromas",
+          "img": "/img/uploads/lavabo-aromas-blackweek-2024.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
           "alt": "Lavabo e Aromas - Para la Casa"
         }
       ]
