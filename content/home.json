@@ -36,14 +36,14 @@
           "alt": "Taças e Copos - Para la Casa"
         },
         {
-          "img": "/img/uploads/__paralacasa-home-talheres-527px-515px.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Faqueiros e Talheres em Bambu e Italianos - Para la Casa"
-        },
-        {
           "img": "/img/uploads/__para-receber-paralacasa_24.webp",
           "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
           "alt": "Coleção All Green Cerâmicas"
+        },
+        {
+          "img": "/img/uploads/__paralacasa-home-talheres-527px-515px.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Faqueiros e Talheres em Bambu e Italianos - Para la Casa"
         }
       ]
     },
