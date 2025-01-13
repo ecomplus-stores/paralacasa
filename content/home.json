@@ -6,9 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/tarja-frete-gratis-a-partir-499-00-1628-x-200.jpg",
+          "img": "/img/uploads/banner-frete.jpg",
           "link": "",
-          "alt": "Para la Casa Frete Grátis a partir de R$499"
+          "alt": "Para la Casa Frete Grátis a partir de R$699"
+        },
+        {
+          "img": "/img/uploads/sale-janeiro.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "SUMMER SALE Para la Casa até 30% Off"
         }
       ]
     },
@@ -63,6 +68,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SUMMER SALE"
+    },
+    {
       "page": 1,
       "title": "NEW",
       "shuffle": false,
@@ -79,7 +93,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA"
     },
@@ -89,7 +103,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "highest_price",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
     },
@@ -102,11 +116,6 @@
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/decor/",
       "title": "DÉCOR E GIFT"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "banners-grid",
