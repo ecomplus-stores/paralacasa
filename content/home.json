@@ -9,11 +9,16 @@
           "img": "/img/uploads/banner-frete.jpg",
           "link": "",
           "alt": "Para la Casa Frete Grátis a partir de R$699"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/sale-janeiro.jpg",
           "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "SUMMER SALE Para la Casa até 30% Off"
+          "alt": "SUMMER SALE - ATÉ 30% OFF"
         }
       ]
     },
