@@ -16,16 +16,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sale-janeiro.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "SUMMER SALE - ATÉ 30% OFF"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/e-com-plus-home-cafe-da-manha-natural788-x-518-px-23-.jpg",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
           "alt": "Café da Manhã Para la Casa"
@@ -73,15 +63,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SUMMER SALE"
-    },
-    {
       "page": 1,
       "title": "NEW",
       "shuffle": false,
@@ -98,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA"
     },
@@ -108,7 +89,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
     },
@@ -118,7 +99,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR E GIFT:/decor-e-gifts",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/decor/",
       "title": "DÉCOR E GIFT"
     },
