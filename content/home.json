@@ -68,8 +68,18 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "617b471d88313d7b958628c0:categories:BAMBU:/bambu/",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/bambu/",
+      "title": "BAMBU LOVERS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA"
     },
@@ -79,19 +89,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR E GIFT:/decor-e-gifts",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "title": "DÉCOR E GIFT"
     },
     {
       "type": "banners-grid",
