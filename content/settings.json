@@ -1,5 +1,5 @@
 {
-  "domain": "www.paralacasa.com.br",
+  "domain": "paralacasa.com.br",
   "currency_symbol": "R$",
   "primary_color": "#393d47",
   "theme": {
@@ -14,7 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "Outfit",
   "favicon": "/img/uploads/logoapp.jpg",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#636363",
   "icon": "/img/uploads/logoapp.jpg",
