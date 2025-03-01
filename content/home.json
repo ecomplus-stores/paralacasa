@@ -3,12 +3,10 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/salecarnaval.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/salecarnaval.png",
+      "link": "https://www.paralacasa.com.br/",
+      "alt": "Sale Carnaval 15% off"
     },
     {
       "type": "banners-grid",
