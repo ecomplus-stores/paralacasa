@@ -9,6 +9,15 @@
       "alt": "Semana do Consumidor Para la Casa até 30% off em peças selecionadas"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.paralacasa.com.br/pages/sale\">SEMANA DO CONSUMIDOR ATÉ 30% OFF</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -24,13 +33,24 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.paralacasa.com.br/pages/sale\">SEMANA DO CONSUMIDOR ATÉ 30% OFF</a></h4>"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/cafe-da-manha",
+      "title": "CAFÉ DA MANHÃ "
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "offers",
+      "title": "DESTAQUES DA SEMANA ",
+      "link": "https://www.paralacasa.com.br/destaques"
     },
     {
       "type": "banners-grid",
@@ -61,16 +81,6 @@
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ "
     },
     {
       "type": "banners-grid",
