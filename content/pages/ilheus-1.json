@@ -29,6 +29,10 @@
       "limit": 12,
       "page": 1,
       "collection_id": "662ffbe2ee85900185f0ece2:collections:Ilhéus xícaras bolo:/ilheus-xicaras-bolo"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ],
   "title": "ILHÉUS NEW",
