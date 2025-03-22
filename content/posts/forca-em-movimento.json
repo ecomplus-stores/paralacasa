@@ -13,6 +13,10 @@
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
       "title": "NEW IN - AROMAS"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "title": "Força em Movimento",
