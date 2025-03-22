@@ -128,6 +128,10 @@
       "page": 1,
       "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
       "sort": "news"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "body": "## SHOP by LOOK\n\n\nCompartilhando as produções, apostas e escolhas, aqui o nosso olhar sobre as peças e como usá-las em nossas casas.",
