@@ -17,6 +17,10 @@
       "limit": 12,
       "page": 1,
       "collection_id": "618d8d2d0c7c7272257cb59f:collections:Almofadas:/almofada"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "description": "ALMOFADAS ! \n\nOs essenciais para arrematar qualquer decoração, as almofadas nos remetem\nsempre a momentos de descanso com pitadas de conforto",
