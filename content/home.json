@@ -67,6 +67,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "617b472d88313d7b9586290b:categories:FAQUEIROS:/faqueiros/",
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
       "sort": "news",
       "link": "https://www.paralacasa.com.br/new",
