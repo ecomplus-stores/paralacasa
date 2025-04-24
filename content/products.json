@@ -18,11 +18,11 @@
     },
     {
       "type": "related-products",
-      "title": "VEJA MAIS"
+      "title": "Explore também"
     },
     {
       "type": "recommended-products",
-      "title": "RECOMENDAMOS PARA VOCÊ!"
+      "title": "Você pode gostar também "
     },
     {
       "type": "buy-together",
@@ -33,7 +33,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "collection_id": null,
       "sort": "news",
       "title": "NEW - veja mais",
       "link": "https://www.paralacasa.com.br/new"
