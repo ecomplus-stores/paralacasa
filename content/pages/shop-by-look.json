@@ -11,6 +11,26 @@
       "banners": [
         {
           "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
+          "link": "https://www.paralacasa.com.br/pages/colecao-olinda",
+          "alt": "Mesa de café da manhã elegante com louça Coleção Olinda e detalhes em bambu, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-olinda-off-white-shop-the-look-527-x-515-px-13-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/olinda-off-white-bambu",
+          "alt": "Conjunto de mesa Coleção Olinda White: louça branca, jarras e utensílios com bambu, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/colecao-olinda-porcelana-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-olinda-azul",
+          "alt": "Mesa posta elegante Coleção Olinda Azul com louça de porcelana, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
           "link": "https://www.paralacasa.com.br/pages/colecao-olinda"
         },
         {
