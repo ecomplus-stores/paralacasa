@@ -70,6 +70,26 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/cafe-manha-acrilicos-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos",
+          "alt": "Mesa de café da manhã organizada com recipientes de acrílico, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/cafe-da-tarde-lunch-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/lunch-time",
+          "alt": "Mesa de almoço ou café da tarde elegante com vasos de vidro e salada, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/mesa-posta-almoco-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/almoco-outdoors",
+          "alt": "Louça branca e utensílios com detalhes em bambu para mesa posta de almoço, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/bandejas-paralacasa-shopbylook.jpg",
           "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos",
           "alt": "Bandejas para aperitivos em mesa posta festiva, decoração elegante, Para La Casa"
