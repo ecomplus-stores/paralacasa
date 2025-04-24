@@ -173,6 +173,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW ARRIVING:/new-arriving",
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -193,126 +201,11 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
-          "link": "https://www.paralacasa.com.br/pages/colecao-olinda"
-        },
-        {
-          "img": "/img/uploads/2.jpg",
-          "link": "https://www.paralacasa.com.br/pages/cha-da-tarde"
-        },
-        {
-          "img": "/img/uploads/fibras-naturais.jpg",
-          "link": "https://www.paralacasa.com.br/pages/fibras-naturais"
-        },
-        {
-          "img": "/img/uploads/blue-and-white.jpg",
-          "link": "https://www.paralacasa.com.br/pages/blue-and-white"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-527-x-515-px-2-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tapas"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-azul-intenso-527-x-515-px-3-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/azul-intenso"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-olinda-off-white-shop-the-look-527-x-515-px-13-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/olinda-off-white-bambu"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-tabuas-aperitivos-shop-the-look-527-x-515-px-13-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tabuas-e-aperitivos"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-shop-by-look-bandeja-em-ritmo-de-festa-527-x-515-px-14-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-colecao-cafe-da-manha-marfim-527-x-515-px-17-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/new-in-cafe-da-manha-marfim"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-ilheus-527-x-515-px-19-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/ilheus",
-          "alt": "Ilhéus, uma nova curadoria em cerâmica."
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/home-shop-the-look-lavabo-bandeja-top-527x515.jpg",
-          "link": "https://www.paralacasa.com.br/pages/lavabo"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-shop-the-look-summer-times-527-x-515-px-9-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/summer-times"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-colecao-marbella-527-x-515-px-9-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tapas-1"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-lunch-time-shop-the-look-px-11-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/lunch-time"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-cafe-da-manha-olinda-azul-px-12-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-olinda-azul"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-almoco-outdoors-shop-by-look-527-x-515-px-13-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/almoco-outdoors"
-        },
-        {
-          "link": "https://www.paralacasa.com.br/pages/colorfull-pots",
-          "img": "/img/uploads/ecom-plus-colorfull-pots-shop-by-look-527-x-515-px-13-.jpg"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-waffles-domingo-shop-by-look-527-x-515-px-13-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/waflles-no-domingo"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-cafe-da-manha-acrilicos-shop-the-look527-x-515-px-16-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/cafe-da-manha-acrilicos"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-shop-by-look-weekend-527-x-515-px-18-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/weekend"
-        },
-        {
-          "img": "/img/uploads/275.jpg",
-          "link": "https://www.paralacasa.com.br/pages/dia-da-mulher"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW ARRIVING:/new-arriving",
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
       "sort": "news"
     },
     {
