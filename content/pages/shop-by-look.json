@@ -30,6 +30,26 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/jogos-americanos-fibras-bambu-paralacasa-shop.jpg",
+          "alt": "Mesa posta elegante com jogos americanos de fibras naturais e talheres com detalhes em bambu, Para La Casa",
+          "link": "https://www.paralacasa.com.br/pages/cha-da-tarde"
+        },
+        {
+          "img": "/img/uploads/colecao-cafe-manha-marfim-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-marfim",
+          "alt": "Mesa de café da manhã elegante Coleção Marfim, com louça e detalhes em vime, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/mesa-posta-azul-intenso-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-azul",
+          "alt": "Mesa posta elegante com louça azul intenso e detalhes em bambu, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
           "link": "https://www.paralacasa.com.br/pages/colecao-olinda"
         },
