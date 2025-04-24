@@ -50,6 +50,26 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bandejas-paralacasa-shopbylook.jpg",
+          "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos",
+          "alt": "Bandejas para aperitivos em mesa posta festiva, decoração elegante, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/mesa-posta-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tapas",
+          "alt": "Mesa posta elegante com utensílios e pratos para tapas, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/tabuas-aperitivos-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tabuas-e-aperitivos",
+          "alt": "Mesa posta elegante com tábuas de aperitivos e decoração floral, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
           "link": "https://www.paralacasa.com.br/pages/colecao-olinda"
         },
