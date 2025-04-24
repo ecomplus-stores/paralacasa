@@ -6,14 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-cafe-da-manha-natural788-x-518-px-23-.jpg",
+          "img": "/img/uploads/cafe-manha-bambu-natural-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
-          "alt": "Café da Manhã Para la Casa"
+          "alt": "Mesa posta de luxo para café da manhã, utensílios de servir em bambu natural, Para La Casa"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-bambu-788-x-518-px-23-.jpg",
+          "img": "/img/uploads/cafe-manha-acrilico-bambu-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "Tudo em Bambu"
+          "alt": "Mesa posta organizada com recipientes de acrílico e detalhes em bambu para café da manhã, Para La Casa"
         }
       ]
     },
@@ -21,19 +21,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-tacas-527-x-515-px-21-.jpg",
+          "img": "/img/uploads/tacas-copos-paralacasa-banner.jpg",
           "link": "https://www.paralacasa.com.br/tacas-e-copos/",
-          "alt": "Taças e Copos - Para la Casa"
+          "alt": "Taças e copos coloridos para mesa posta elegante, Para La Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-aroma-527-x-515-px-23-.jpg",
+          "img": "/img/uploads/aromas-difusores-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "Descubra nossas fragrâncias para a casa."
+          "alt": "Difusores de aromas cítricos, florais e amadeirados L'envie Parfums para casa elegante, Para La Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-527-x-515-px-21-.jpg",
+          "img": "/img/uploads/colecao-eme-faqueiros-talheres-italianos-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Faqueiros e Talheres em Bambu e Italianos - Para la Casa"
+          "alt": "Talheres italianos EME para mesa posta elegante, Para La Casa"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-imagens-788-x-518-px-18-.jpg",
+          "img": "/img/uploads/imagens-marmore-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/imagens",
-          "alt": "Imagens Religiosas e Objetos - Para la Casa"
+          "alt": "Decoração com estátua religiosa, flores e vela para ambiente acolhedor, Para La Casa"
         },
         {
-          "img": "/img/uploads/_paralacasa_jogosamericanos.webp",
+          "img": "/img/uploads/jogos-americanos-paralacasa.webp",
           "link": "https://www.paralacasa.com.br/jogos-americanos/",
-          "alt": "Jogos Americanos"
+          "alt": "Jogos americanos decorativos para mesa posta, design elegante, Para La Casa"
         }
       ]
     },
@@ -96,14 +96,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-mundinho-788-x-518-px-11-.jpg",
+          "img": "/img/uploads/decoracao-colecao-mundinho-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Coleção Mundinho - Objetos e Decoração - Para la Casa"
+          "alt": "Decoração Coleção Mundinho Para La Casa com enfeites dourados e vaso texturizado, São Paulo"
         },
         {
-          "img": "/img/uploads/e-com-plus-hime-acrilicos788-x-518-px-18-.jpg",
+          "img": "/img/uploads/acrilicos-organizar-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/acrilicos/",
-          "alt": "ACRÍLICOS - PARA LA CASA"
+          "alt": "Bandeja de acrílico para mesa posta elegante com café, água e petiscos, Para La Casa, São Paulo"
         }
       ]
     }
