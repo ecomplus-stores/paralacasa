@@ -129,6 +129,35 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/weekend-mesa-posta-paralacasa-luxo-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/weekend",
+          "alt": "Mesa posta elegante para final de semana, com louça verde e talheres sofisticados, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/colecao-marbella-porcelana-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tapas-1",
+          "alt": "Cerâmicas Coleção Marbella para servir aperitivos em mesa posta, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/colecao-ilheus-ceramica-paralacasa-luxo-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/ilheus",
+          "alt": "Cerâmicas Coleção Ilhéus para mesa posta, design exclusivo, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/ceramica/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/bandejas-paralacasa-shopbylook.jpg",
           "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos",
           "alt": "Bandejas para aperitivos em mesa posta festiva, decoração elegante, Para La Casa"
