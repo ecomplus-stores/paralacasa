@@ -57,10 +57,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE"
     },
     {
       "type": "collection-shelf",
@@ -68,9 +68,19 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
-      "title": "DESTAQUES DA SEMANA ",
-      "link": "https://www.paralacasa.com.br/destaques"
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "AS ESCOLHAS DA SEMANA"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "news",
+      "title": "NEW",
+      "link": "https://www.paralacasa.com.br/new"
     },
     {
       "type": "collection-shelf",
@@ -78,7 +88,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "sales",
+      "sort": "highest_price",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
     },
@@ -87,10 +97,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha",
-      "title": "CAFÉ DA MANHÃ "
+      "collection_id": "617b471788313d7b958628a5:categories:MESA:/mesa/",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/mesa/",
+      "title": "MESA "
     },
     {
       "type": "banners-grid",
