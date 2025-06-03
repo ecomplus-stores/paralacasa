@@ -66,9 +66,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE"
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "NEW"
     },
     {
       "type": "collection-shelf",
@@ -76,7 +76,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "news",
+      "sort": "highest_price",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "AS ESCOLHAS DA SEMANA"
     },
@@ -85,10 +85,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "title": "NEW",
-      "link": "https://www.paralacasa.com.br/new"
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "sort": "highest_price",
+      "title": "DÉCOR",
+      "link": "https://www.paralacasa.com.br/decor/"
     },
     {
       "type": "collection-shelf",
@@ -96,7 +96,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "highest_price",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "O QUE NOSSAS CLIENTES TEM VISTO POR AQUI"
     },
@@ -106,7 +106,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "617b471788313d7b958628a5:categories:MESA:/mesa/",
-      "sort": "news",
+      "sort": "highest_price",
       "link": "https://www.paralacasa.com.br/mesa/",
       "title": "MESA "
     },
