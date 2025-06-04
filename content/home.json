@@ -14,6 +14,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-home-sale-anual-1576-x-1136-32-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/cafe-manha-bambu-natural-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
           "alt": "Mesa posta de luxo para café da manhã, utensílios de servir em bambu natural, Para La Casa"
@@ -42,15 +51,6 @@
           "img": "/img/uploads/colecao-eme-faqueiros-talheres-italianos-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/faqueiros/",
           "alt": "Talheres italianos EME para mesa posta elegante, Para La Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-home-sale-anual-1576-x-1136-32-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
     },
