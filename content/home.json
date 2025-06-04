@@ -49,6 +49,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-home-sale-anual-1576-x-1136-32-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/imagens-marmore-paralacasa.jpg",
           "link": "https://www.paralacasa.com.br/imagens",
           "alt": "Decoração com estátua religiosa, flores e vela para ambiente acolhedor, Para La Casa"
