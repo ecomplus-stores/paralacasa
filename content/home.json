@@ -84,10 +84,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "AS ESCOLHAS DA SEMANA"
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE"
     },
     {
       "type": "collection-shelf",
