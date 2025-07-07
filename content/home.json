@@ -73,6 +73,26 @@
       "type": "banners-grid"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ecom-plus-527-x-515-home-vaso-dzt-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/vasos/",
+          "alt": "Novas escolhas para vasos cheios de poesia para ressignificar o décor"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-527-x-515-home-unque-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/objetos/",
+          "alt": "Bordados feitos à mão que nos trazem arte e reflexão."
+        },
+        {
+          "img": "/img/uploads/ecom-plus-527-x-515-home-gift-dzt-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/gift",
+          "alt": "Mais que um marcador de páginas nossos novos objetos marcam nossas histórias com muita memória afetiva. Ótimos para presentear."
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
