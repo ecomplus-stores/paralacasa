@@ -18,16 +18,16 @@
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.paralacasa.com.br/blog\">MAIS DO BLOG </a></h4>"
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
       "page": 1,
       "collection_id": "66d0c9dcfaf12b08d113b81c:categories:ACRÍLICOS:/acrilicos/",
       "sort": "news"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ],
   "title": "Manhãs que Abraçam ",
