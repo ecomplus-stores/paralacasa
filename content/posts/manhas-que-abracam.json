@@ -20,14 +20,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "66d0c9dcfaf12b08d113b81c:categories:ACRÍLICOS:/acrilicos/",
-      "sort": "news"
     }
   ],
   "title": "Manhãs que Abraçam ",
