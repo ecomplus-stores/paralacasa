@@ -6,14 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-golpe-on-line1576-x-1136-32-.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/ecom-plus-home-sale-anual-1576-x-1136-32-.jpg",
           "link": "https://www.paralacasa.com.br/pages/sale"
         }
