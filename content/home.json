@@ -6,8 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-sale-40-ultimos-dias-colecao-1576-x-1136-32-.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale"
+          "img": "/img/uploads/__paralacasa-home-cafe-menta-788px-518px.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha"
         }
       ]
     },
@@ -93,16 +93,6 @@
       "sort": "news",
       "link": "https://www.paralacasa.com.br/new",
       "title": "NEW"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE"
     },
     {
       "type": "collection-shelf",
