@@ -91,7 +91,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "NOSSAS ESCOLHAS DA SEMANA"
     },
@@ -100,10 +100,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
       "sort": "news",
-      "title": "DÉCOR",
-      "link": "https://www.paralacasa.com.br/decor/"
+      "title": "COLEÇÃO CAFÉ DA MANHÃ",
+      "link": "https://www.paralacasa.com.br/cafe-da-manha"
     },
     {
       "type": "banners-grid",
