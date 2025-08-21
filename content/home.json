@@ -38,6 +38,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Curadoria em Sale: Últimas Peças",
+      "link": "https://www.paralacasa.com.br/pages/sale"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
