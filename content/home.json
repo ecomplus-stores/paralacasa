@@ -38,15 +38,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "Curadoria em Sale: Últimas Peças",
-      "link": "https://www.paralacasa.com.br/pages/sale"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -89,6 +80,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "title": "Curadoria em Sale: Últimas Peças",
+      "link": "https://www.paralacasa.com.br/pages/sale"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": null,
       "sort": "news",
       "link": "https://www.paralacasa.com.br/new",
@@ -105,14 +105,9 @@
       "title": "NOSSAS ESCOLHAS DA SEMANA"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "655685ee2cd6b65959ab7b31:collections:Coleção Café da Manhã:/colecao-cafe-da-manha",
-      "sort": "news",
-      "title": "COLEÇÃO CAFÉ DA MANHÃ",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
