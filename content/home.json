@@ -18,6 +18,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "A Curadoria da Semana"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -38,6 +48,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "New In"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -53,7 +73,21 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
       "type": "banners-grid"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Renove seu Lar: Oportunidades Únicas",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "banners-grid",
@@ -80,34 +114,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "Curadoria em Sale: Últimas Peças",
-      "link": "https://www.paralacasa.com.br/pages/sale"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "NOSSAS ESCOLHAS DA SEMANA"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "title": "As Escolhas que Encantam Nossos Clientes"
     },
     {
       "type": "banners-grid",
