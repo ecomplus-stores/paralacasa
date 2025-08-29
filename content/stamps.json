@@ -3,9 +3,7 @@
     {
       "img": "/img/uploads/tags-para-o-site-1-.jpg",
       "id": "ENCOMENDA",
-      "skus": [
-        "PLC001206"
-      ]
+      "skus": null
     }
   ]
 }
