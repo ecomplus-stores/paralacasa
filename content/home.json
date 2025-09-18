@@ -43,10 +43,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "A Curadoria da Semana"
+      "collection_id": null,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "New In"
     },
     {
       "type": "banners-grid",
@@ -73,10 +73,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "New In"
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "A Curadoria da Semana"
     },
     {
       "type": "banners-grid",
@@ -107,9 +107,9 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": "Renove seu Lar: Oportunidades Únicas",
+      "title": "SEMANA DO CLIENTE ATÉ 50% OFF",
       "link": "https://www.paralacasa.com.br/pages/sale",
-      "collection_id": "617b472e88313d7b9586290f:categories:JOGOS AMERICANOS:/jogos-americanos/"
+      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/"
     },
     {
       "type": "banners-grid",
