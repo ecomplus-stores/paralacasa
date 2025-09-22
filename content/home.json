@@ -6,17 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/semana-do-cliente-paralacasa-2025-d.jpeg",
-          "mobile_img": "/img/uploads/diadocliente-2025-m.png",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "semana do cliente até 50% off"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/ecom-plus-categoria-colecao-1576-x-1136-33-.jpg",
           "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
           "alt": "Coleção Bitossi Home, italianos os pratos cheios de tradição que trazem alegria à mesa."
@@ -74,7 +63,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "A Curadoria da Semana"
     },
@@ -94,9 +83,14 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/gifts",
+      "title": "GIFTS"
     },
     {
       "type": "banners-grid"
@@ -106,9 +100,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "SEMANA DO CLIENTE ATÉ 50% OFF",
-      "link": "https://www.paralacasa.com.br/pages/sale",
+      "sort": "news",
+      "title": "CERÂMICAS",
+      "link": "https://www.paralacasa.com.br/ceramica/",
       "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/"
     },
     {
