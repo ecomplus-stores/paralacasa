@@ -3,6 +3,27 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-09-23T16:29:36.121Z",
+          "end": "2025-10-06T03:00:00.000Z",
+          "img": "/img/uploads/bannerfull-overblu1-1622x600-1-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
+          "alt": "Over Blu, as porcelanas da italiana Bitossi em tons de azul."
+        },
+        {
+          "start": "2025-09-23T16:28:40.329Z",
+          "end": "2025-10-06T16:28:41.412Z",
+          "img": "/img/uploads/bannerfull-overblu1-1622x600-2-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
+          "alt": "Over Blu, as porcelanas da italiana Bitossi em tons de azul."
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
