@@ -27,16 +27,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
-      "sort": "views",
-      "title": "",
-      "link": "https://www.paralacasa.com.br/colecao-olinda"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -55,16 +45,6 @@
           "alt": "Mesa posta elegante com louça azul intenso e detalhes em bambu, Para La Casa"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b473988313d7b9586294b:categories:BANDEJAS | TÁBUAS:/bandejas-tabuas/",
-      "sort": "sales",
-      "title": "",
-      "link": "https://www.paralacasa.com.br/bandejas-tabuas/"
     },
     {
       "type": "banners-grid",
@@ -87,16 +67,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
-      "sort": "sales",
-      "title": "",
-      "link": "https://www.paralacasa.com.br/cafe-da-manha"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -115,15 +85,6 @@
           "alt": "Prato com waffles, talheres e decoração de mesa para café da manhã, Para La Casa"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b472d88313d7b9586290b:categories:FAQUEIROS:/faqueiros/",
-      "link": "https://www.paralacasa.com.br/faqueiros/",
-      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -146,15 +107,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/ceramica/"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -171,14 +123,6 @@
           "link": "https://www.paralacasa.com.br/pages/colorfull-pots"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW ARRIVING:/new-arriving",
-      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -199,18 +143,6 @@
           "alt": "Mesa posta elegante com tábuas de aperitivos e decoração floral, Para La Casa"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "news"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ],
   "body": "## SHOP by LOOK\n\n\nCompartilhando as produções, apostas e escolhas, aqui o nosso olhar sobre as peças e como usá-las em nossas casas.",
