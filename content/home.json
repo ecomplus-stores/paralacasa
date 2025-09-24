@@ -74,7 +74,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "A Curadoria da Semana"
     },
@@ -111,10 +111,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "CERÂMICAS",
-      "link": "https://www.paralacasa.com.br/ceramica/",
-      "collection_id": "617b473b88313d7b95862957:categories:CERÂMICA:/ceramica/"
+      "sort": "views",
+      "title": "COLEÇÃO EME",
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
     },
     {
       "type": "banners-grid",
@@ -141,7 +141,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "As Escolhas que Encantam Nossos Clientes",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
