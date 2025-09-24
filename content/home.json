@@ -39,16 +39,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "New In"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -67,6 +57,16 @@
           "alt": "Uma bandeja um café, um afeto."
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "New In"
     },
     {
       "type": "collection-shelf",
@@ -94,26 +94,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/gifts",
-      "title": "GIFTS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "COLEÇÃO EME",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -138,10 +118,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
       "sort": "sales",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "title": "As Escolhas que Encantam Nossos Clientes",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
+      "link": "https://www.paralacasa.com.br/gifts",
+      "title": "GIFTS"
     },
     {
       "type": "banners-grid",
@@ -157,6 +137,26 @@
           "alt": "Feitos à mão, cheios de poesia eles ressignificam o décor"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "COLEÇÃO EME",
+      "link": "https://www.paralacasa.com.br/colecao-eme",
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "title": "As Escolhas que Encantam Nossos Clientes",
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     }
   ]
 }
