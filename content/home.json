@@ -82,14 +82,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-carciofo-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo",
-          "alt": "As peças alcachofra que mais amamos para servir os aperitivos."
-        },
-        {
           "img": "/img/uploads/e-com-plus-home-olinda-788-x-518-px-23-.jpg",
           "link": "https://www.paralacasa.com.br/colecao-olinda",
           "alt": "As porcelanas feitas à mão da Rosa dos Ventos em três cores diferentes para alegrar nossas mesas."
+        },
+        {
+          "img": "/img/uploads/e-com-plus-home-carciofo-788-x-518-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo",
+          "alt": "As cerâmicas verdes que mais amamos na hora de montar uma bandeja de aperitivos."
         }
       ]
     },
