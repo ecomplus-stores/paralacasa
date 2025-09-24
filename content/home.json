@@ -69,6 +69,21 @@
       "title": "New In"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/e-com-plus-home-olinda-788-x-518-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-olinda",
+          "alt": "As porcelanas feitas à mão da Rosa dos Ventos em três cores diferentes para alegrar nossas mesas."
+        },
+        {
+          "img": "/img/uploads/e-com-plus-home-carciofo-788-x-518-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/all-green-carciofo",
+          "alt": "As cerâmicas verdes que mais amamos na hora de montar uma bandeja de aperitivos."
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -92,21 +107,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-olinda-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-olinda",
-          "alt": "As porcelanas feitas à mão da Rosa dos Ventos em três cores diferentes para alegrar nossas mesas."
-        },
-        {
-          "img": "/img/uploads/e-com-plus-home-carciofo-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo",
-          "alt": "As cerâmicas verdes que mais amamos na hora de montar uma bandeja de aperitivos."
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/ecom-plus-527-x-515-home-vaso-dzt-px-23-.jpg",
           "link": "https://www.paralacasa.com.br/vasos/",
           "alt": "Novas escolhas para vasos cheios de poesia para ressignificar o décor"
@@ -124,16 +124,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/gifts",
-      "title": "GIFTS"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -147,6 +137,16 @@
           "alt": "Feitos à mão, cheios de poesia eles ressignificam o décor"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/gifts",
+      "title": "GIFTS"
     }
   ]
 }
