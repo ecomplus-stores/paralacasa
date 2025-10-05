@@ -3,27 +3,6 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/home-1622x-600-bitossi-1-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
-          "alt": "Bitossi, as porcelanas italianas e a coleção Funky Table, Over Blu. "
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/home-1622x-600-bitossi-2-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
-          "alt": "Bitossi as porcelanas italianas e a coleção Funky Table Over Blu."
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
