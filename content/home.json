@@ -21,19 +21,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-imagens-527-x-515-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/imagens",
-          "alt": "Imagens em pó de mármore com design contemporâneo que complementa o décor e os nossos momentos de conexão espiritual."
+          "img": "/img/uploads/e-com-plus-home-prataria-788-x-518-px-24-.jpg",
+          "link": "https://www.paralacasa.com.br/prataria",
+          "alt": "Nossas escolhas para a prataria para uso diário ou para servir em momentos afetivos."
         },
         {
-          "img": "/img/uploads/ecom-plus-527-x-515-px-home-manta-decor-24-.jpg",
-          "link": "https://www.paralacasa.com.br/mantas",
-          "alt": "Novas apostas para mantas em cores, estampas e texturas que trazem um ar renovado para o décor."
-        },
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-bandeja-cafe-da-manha-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/posts/manhas-que-abracam",
-          "alt": "Uma bandeja um café, um afeto."
+          "img": "/img/uploads/e-com-plus-home-mix-and-match-bitossi-788-x-518-px-24-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
+          "alt": "Um mix and match mais que perfeito! Misturar e criar novas possibilidades com as coleções da Bitossi."
         }
       ]
     },
@@ -51,14 +46,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-prataria-788-x-518-px-24-.jpg",
-          "link": "https://www.paralacasa.com.br/prataria",
-          "alt": "Nossas escolhas para a prataria para uso diário ou para servir em momentos afetivos."
+          "img": "/img/uploads/ecom-plus-home-imagens-527-x-515-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/imagens",
+          "alt": "Imagens em pó de mármore com design contemporâneo que complementa o décor e os nossos momentos de conexão espiritual."
         },
         {
-          "img": "/img/uploads/e-com-plus-home-carciofo-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/all-green-carciofo",
-          "alt": "As cerâmicas verdes que mais amamos na hora de montar uma bandeja de aperitivos."
+          "img": "/img/uploads/ecom-plus-527-x-515-px-home-manta-decor-24-.jpg",
+          "link": "https://www.paralacasa.com.br/mantas",
+          "alt": "Novas apostas para mantas em cores, estampas e texturas que trazem um ar renovado para o décor."
+        },
+        {
+          "img": "/img/uploads/ecom-plus-527-x-515-bandeja-cafe-da-manha-px-23-.jpg",
+          "link": "https://www.paralacasa.com.br/posts/manhas-que-abracam",
+          "alt": "Uma bandeja um café, um afeto."
         }
       ]
     },
