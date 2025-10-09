@@ -67,10 +67,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "title": "COLEÇÃO EME",
-      "link": "https://www.paralacasa.com.br/colecao-eme",
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
+      "sort": "sales",
+      "title": "CURADORIA DA SEMANA",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
     },
     {
       "type": "banners-grid",
@@ -97,10 +97,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "A Curadoria da Semana"
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "title": "NOSSOS CLIENTES RECOMENDAM"
     },
     {
       "type": "banners-grid",
