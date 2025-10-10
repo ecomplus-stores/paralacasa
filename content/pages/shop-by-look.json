@@ -10,6 +10,64 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/aromas-difusores-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/aromas",
+          "alt": "Produtos de aromaterapia L'envie Parfums: sabonete líquido e difusor, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/lavabo-decoracao-organizacao-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/lavabo"
+        },
+        {
+          "img": "/img/uploads/vasos-decoracao-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/colorfull-pots"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bandejas-paralacasa-shopbylook.jpg",
+          "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos",
+          "alt": "Bandejas para aperitivos em mesa posta festiva, decoração elegante, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/mesa-posta-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tapas",
+          "alt": "Mesa posta elegante com utensílios e pratos para tapas, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/tabuas-aperitivos-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tabuas-e-aperitivos",
+          "alt": "Mesa posta elegante com tábuas de aperitivos e decoração floral, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/weekend-mesa-posta-paralacasa-luxo-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/weekend",
+          "alt": "Mesa posta elegante para final de semana, com louça verde e talheres sofisticados, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/colecao-marbella-porcelana-paralacasa-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/tapas-1",
+          "alt": "Cerâmicas Coleção Marbella para servir aperitivos em mesa posta, Para La Casa"
+        },
+        {
+          "img": "/img/uploads/colecao-ilheus-ceramica-paralacasa-luxo-shop.jpg",
+          "link": "https://www.paralacasa.com.br/pages/ilheus",
+          "alt": "Cerâmicas Coleção Ilhéus para mesa posta, design exclusivo, Para La Casa"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/cafe-da-manha-colecao-olinda.jpg",
           "link": "https://www.paralacasa.com.br/pages/colecao-olinda",
           "alt": "Mesa de café da manhã elegante com louça Coleção Olinda e detalhes em bambu, Para La Casa"
@@ -83,64 +141,6 @@
           "img": "/img/uploads/wafles-paralacasa-mesaposta-shop.jpg",
           "link": "https://www.paralacasa.com.br/pages/waflles-no-domingo",
           "alt": "Prato com waffles, talheres e decoração de mesa para café da manhã, Para La Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/weekend-mesa-posta-paralacasa-luxo-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/weekend",
-          "alt": "Mesa posta elegante para final de semana, com louça verde e talheres sofisticados, Para La Casa"
-        },
-        {
-          "img": "/img/uploads/colecao-marbella-porcelana-paralacasa-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tapas-1",
-          "alt": "Cerâmicas Coleção Marbella para servir aperitivos em mesa posta, Para La Casa"
-        },
-        {
-          "img": "/img/uploads/colecao-ilheus-ceramica-paralacasa-luxo-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/ilheus",
-          "alt": "Cerâmicas Coleção Ilhéus para mesa posta, design exclusivo, Para La Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aromas-difusores-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "Produtos de aromaterapia L'envie Parfums: sabonete líquido e difusor, Para La Casa"
-        },
-        {
-          "img": "/img/uploads/lavabo-decoracao-organizacao-paralacasa-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/lavabo"
-        },
-        {
-          "img": "/img/uploads/vasos-decoracao-paralacasa-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/colorfull-pots"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bandejas-paralacasa-shopbylook.jpg",
-          "link": "https://www.paralacasa.com.br/pages/bandeja-aperitivos",
-          "alt": "Bandejas para aperitivos em mesa posta festiva, decoração elegante, Para La Casa"
-        },
-        {
-          "img": "/img/uploads/mesa-posta-paralacasa-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tapas",
-          "alt": "Mesa posta elegante com utensílios e pratos para tapas, Para La Casa"
-        },
-        {
-          "img": "/img/uploads/tabuas-aperitivos-paralacasa-shop.jpg",
-          "link": "https://www.paralacasa.com.br/pages/tabuas-e-aperitivos",
-          "alt": "Mesa posta elegante com tábuas de aperitivos e decoração floral, Para La Casa"
         }
       ]
     }
