@@ -17,19 +17,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__lavabo_24.webp",
-          "link": "https://www.paralacasa.com.br/lavabo-e-aromas",
-          "alt": "Lavabo e aromas - Para la Casa"
+          "img": "/img/uploads/eme-faqueiros-talheres-italianos-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Faqueiros e Talheres Italianos - EME"
         },
         {
-          "img": "/img/uploads/__cozinha_24.webp",
-          "link": "https://www.paralacasa.com.br/cozinha-e-organizacao",
-          "alt": "Cozinha e Organização"
-        },
-        {
-          "img": "/img/uploads/__para-receber-paralacasa_24.webp",
-          "link": "https://www.paralacasa.com.br/pages/all-green-pecas-em-ceramica-aperitivos",
-          "alt": "All Green Cerâmicas - Para la Casa"
+          "img": "/img/uploads/prataria-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/prataria",
+          "alt": "Prataria"
         }
       ]
     }
