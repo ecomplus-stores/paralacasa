@@ -11,6 +11,15 @@
         "PLCCARPLH02",
         "PLCCARPLH01"
       ]
+    },
+    {
+      "img": "/img/uploads/em-estoque.jpg",
+      "skus": [
+        "PLC001225",
+        "PLC001227",
+        "PLC001224",
+        "PLC001226"
+      ]
     }
   ]
 }
