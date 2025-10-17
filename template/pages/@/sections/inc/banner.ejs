@@ -1,73 +1,49 @@
 <%
-if (opt.img) {
-  const { width, height } = _.tryImageSize(opt.img, opt)
-  const sources = [{ src: opt.img }]
-  if (opt.mobile_img) {
-    sources[0].media = '(min-width: 576px)'
-    const { width, height } = _.tryImageSize(opt.mobile_img)
-    sources.push({
-      src: opt.mobile_img,
-      media: '(min-width: 100px)',
-      width,
-      height
-    })
-  }
-  sources.forEach(source => {
-    if (source.src.endsWith('.webp')) {
-      source.type = 'image/webp'
-      sources.push({
-        src: source.src.replace('.webp', '.png'),
-        media: source.media,
-        type: 'image/png'
-      })
-    }
-  })
-  %>
+// Extrai as variáveis que vamos usar do objeto 'opt'
+const { link, img, mobile_img, title, alt, sync_load } = opt
 
-  <div class="banner">
-    <a
-      href="<%= opt.link || 'javascript:;' %>"
-      aria-label="<%= opt.alt %>"
-    >
-      <picture
-        <% if (opt.sync_load) { %>
-          class="img-fluid"
-        <% } else { %>
-          class="lozad fade img-fluid"
-          data-iesrc="<%= _.assetsPrefix || '' %><%= opt.img.replace('.webp', '.png') %>"
-          data-alt="<%= opt.alt %>"
-        <% } %>
-        <% if (!opt.height_auto && width) { %>
-          data-width="<%= width %>"
-          data-height="<%= height %>"
-        <% } %>
-      >
-        <% sources.forEach(({ src, media, type, width, height }) => { %>
-          <source
-            srcset="<%= _.assetsPrefix || '' %><%= src %>"
-            media="<%- media %>"
-            <% if (type) { %>
-              type="<%- type %>"
-            <% } %>
-            <% if (width) { %>
-              width="<%= width %>"
-              height="<%= height %>"
-            <% } %>
-          >
-        <% }) %>
-        <% if (opt.sync_load) { %>
-          <img
-            src="<%= _.assetsPrefix || '' %><%= opt.img.replace('.webp', '.png') %>"
-            alt="<%= opt.alt %>"
-            <% if (width) { %>
-              width="<%= width %>"
-              height="<%= height %>"
-            <% } %>
-          >
-        <% } %>
-      </picture>
-    </a>
-  </div>
-  <%
-}
+// Tenta obter as dimensões da imagem principal para evitar layout shift (CLS)
+const { width, height } = _.tryImageSize(img)
 %>
+
+<a
+  href="<%= link || '#' %>"
+  class="banner"
+  aria-label="<%= alt || title || 'Banner' %>"
+>
+  <picture>
+    <% if (mobile_img) { %>
+      <source
+        media="(max-width: 767px)"
+        sizes="100vw"
+        srcset="<%= mobile_img.replace(',w_2048', ',w_480') %> 480w,
+                <%= mobile_img.replace(',w_2048', ',w_800') %> 800w"
+      >
+    <% } %>
+
+    <source
+      media="(min-width: 768px)"
+      sizes="100vw"
+      srcset="<%= img.replace(',w_2048', ',w_800') %> 800w,
+              <%= img.replace(',w_2048', ',w_1200') %> 1200w,
+              <%= img.replace(',w_2048', ',w_1600') %> 1600w"
+    >
+
+    <img
+      src="<%= img.replace(',w_2048', ',w_1200') %>"
+      alt="<%= alt || title %>"
+      
+      <%# Adiciona as dimensões para evitar que a página "pule" (resolve o CLS) %>
+      <% if (width && height) { %>
+        width="<%= width %>"
+        height="<%= height %>"
+      <% } %>
+
+      <%# Apenas o primeiro banner carrega imediatamente. Os outros esperam (lazy load). %>
+      <%# Isso resolve o "Adie o carregamento de imagens fora da tela" %>
+      <% if (!sync_load) { %>
+        loading="lazy"
+      <% } %>
+    >
+  </picture>
+</a>
