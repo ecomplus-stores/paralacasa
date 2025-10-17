@@ -64,22 +64,36 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       <div class="product-card__pictures">
         <!-- Picture(s) will be inserted and loaded dynamically within `ProductCard` -->
         <% if (imgObj) { %>
-          <picture class="product-card__picture">
-<% const [width, height] = (imgObj.size || '').split('x').map(px => parseInt(px, 10)) %>
-            <img
-              data-src="<%= imgObj.url %>"
-              alt="<%= imgObj.alt || itemData.name %>"
-              class="fade"loading="lazy"
-              <% if (width && height) { %>
-      width="<%= width %>"
-      height="<%= height %>"
-    <% } %>
-    <% if (imgObj.url.startsWith('https://ecoms1.com/')) { %>
-      crossorigin="anonymous"
-                  <% } %>
-            >
-          </picture>
-        <% } %>
+  <picture class="product-card__picture">
+    <% const [width, height] = (imgObj.size || '').split('x').map(px => parseInt(px, 10)) %>
+    
+    <source
+      type="image/webp"
+      sizes="(max-width: 575px) 45vw, 22vw"
+      srcset="<%= _.ecomUtils.img(opt.item, null, 'small').url %> 200w,
+              <%= _.ecomUtils.img(opt.item, null, 'normal').url %> 400w,
+              <%= _.ecomUtils.img(opt.item, null, 'big').url %> 800w"
+    >
+    
+    <img
+      src="<%= _.ecomUtils.img(opt.item, null, 'normal').url.replace(/\.webp$/, '') %>"
+      alt="<%= imgObj.alt || itemData.name %>"
+      class="fade"
+      loading="lazy"
+      sizes="(max-width: 575px) 45vw, 22vw"
+      srcset="<%= _.ecomUtils.img(opt.item, null, 'small').url.replace(/\.webp$/, '') %> 200w,
+              <%= _.ecomUtils.img(opt.item, null, 'normal').url.replace(/\.webp$/, '') %> 400w,
+              <%= _.ecomUtils.img(opt.item, null, 'big').url.replace(/\.webp$/, '') %> 800w"
+      <% if (width && height) { %>
+        width="<%= width %>"
+        height="<%= height %>"
+      <% } %>
+      <% if (imgObj.url.startsWith('https://ecoms1.com/')) { %>
+        crossorigin="anonymous"
+      <% } %>
+    >
+  </picture>
+<% } %>
       </div>
 
       <div data-slot="title">
