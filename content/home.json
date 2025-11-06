@@ -3,6 +3,12 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/black-friday-paralacasa-2025.d.png",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "alt": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -37,10 +43,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "New In"
+      "collection_id": "68f51f9b578b5f7954d435ec:categories:RATTAN:/rattan",
+      "sort": "offers",
+      "title": "Seleção com até 50% OFF",
+      "link": "https://www.paralacasa.com.br/pages/sale"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "banners-grid",
