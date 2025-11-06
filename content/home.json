@@ -104,16 +104,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "title": "NOSSOS CLIENTES RECOMENDAM"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -127,16 +117,6 @@
           "alt": "Feitos à mão, cheios de poesia eles ressignificam o décor"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "638626b273321213f8f92dac:categories:GIFTS:/gifts",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/gifts",
-      "title": "GIFTS"
     }
   ]
 }
