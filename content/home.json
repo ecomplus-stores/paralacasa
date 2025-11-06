@@ -39,19 +39,24 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "autoplay": "",
       "page": 1,
-      "collection_id": "68f51f9b578b5f7954d435ec:categories:RATTAN:/rattan",
-      "sort": "offers",
-      "title": "Seleção com até 50% OFF",
-      "link": "https://www.paralacasa.com.br/pages/sale"
+      "title": "BLACK FRIDAY 2025 descontos até 50% + 5% desc PIX",
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "limit": 20,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "658c334f2cd6b65959eb2c2c:collections:TAÇAS E COPOS:/tacas-e-copos",
+      "sort": "sales",
+      "title": "TACAS e COPOS"
     },
     {
       "type": "banners-grid",
@@ -74,16 +79,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "CURADORIA DA SEMANA",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -102,6 +97,16 @@
           "alt": "Mais que um marcador de páginas nossos novos objetos marcam nossas histórias com muita memória afetiva. Ótimos para presentear."
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "CURADORIA DA SEMANA",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
     },
     {
       "type": "banners-grid",
