@@ -47,7 +47,7 @@
       "link": "https://www.paralacasa.com.br/pages/sale",
       "limit": 20,
       "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales"
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
@@ -55,7 +55,7 @@
       "limit": 20,
       "page": 1,
       "collection_id": "658c334f2cd6b65959eb2c2c:collections:TAÇAS E COPOS:/tacas-e-copos",
-      "sort": "sales",
+      "sort": "offers",
       "title": "TACAS e COPOS"
     },
     {
@@ -103,7 +103,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "offers",
       "title": "CURADORIA DA SEMANA",
       "link": "https://www.paralacasa.com.br/destaques",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
