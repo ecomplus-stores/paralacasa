@@ -79,11 +79,20 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       src="<%= _.ecomUtils.img(opt.item, null, 'normal').url.replace(/\.webp$/, '') %>"
       alt="<%= imgObj.alt || itemData.name %>"
       class="fade"
-      loading="lazy"
       sizes="(max-width: 575px) 45vw, 22vw"
+<%# --- OTIMIZAÇÃO DE VELOCIDADE --- %>
+  <% if (opt.isLCP) { %>
+    fetchpriority="high"
+    loading="eager"
+    decoding="async"
+  <% } else { %>
+    loading="lazy"
+    decoding="async"
+  <% } %>
+  <%# -------------------------------- %>
       srcset="<%= _.ecomUtils.img(opt.item, null, 'small').url.replace(/\.webp$/, '') %> 200w,
               <%= _.ecomUtils.img(opt.item, null, 'normal').url.replace(/\.webp$/, '') %> 400w,
-              <%= _.ecomUtils.img(opt.item, null, 'big').url.replace(/\.webp$/, '') %> 800w"
+              <%= _.ecomUtils.img(opt.item, null, 'big').url.replace(/\.webp$/, '') %> 800w">
       <% if (width && height) { %>
         width="<%= width %>"
         height="<%= height %>"
