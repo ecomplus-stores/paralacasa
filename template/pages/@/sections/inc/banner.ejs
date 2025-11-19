@@ -39,11 +39,16 @@ const { width, height } = _.tryImageSize(img)
         height="<%= height %>"
       <% } %>
 
-      <%# Apenas o primeiro banner carrega imediatamente. Os outros esperam (lazy load). %>
-      <%# Isso resolve o "Adie o carregamento de imagens fora da tela" %>
-      <% if (!sync_load) { %>
-        loading="lazy"
-      <% } %>
+     <%# OTIMIZAÇÃO DE VELOCIDADE %>
+<%# Se for carregamento síncrono (banner topo), damos prioridade total %>
+<% if (sync_load) { %>
+  fetchpriority="high"
+  decoding="async"
+<% } else { %>
+  <%# Se for banner de baixo, usamos lazy load para economizar dados %>
+  loading="lazy"
+  decoding="async"
+<% } %>
     >
   </picture>
 </a>
