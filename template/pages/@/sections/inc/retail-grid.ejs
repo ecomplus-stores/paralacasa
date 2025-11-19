@@ -58,8 +58,11 @@ if (!opt.items) {
               <% for (let i = 0; i < items.length; i++) { %>
                 <div class="col-6 col-md-4 col-lg-3">
                   <%- await include('@/sections/inc/product-item', {
-                    _, opt: { item: items[i] }
-                  }) %>
+    _, opt: { 
+      item: items[i],
+      isLCP: (i < 2)  // <--- O SEGREDO: Avisa se é um dos 2 primeiros
+    } 
+}) %>
                 </div>
               <% } %>
             </div>
