@@ -26,19 +26,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/home-jg-americ-categoria-blog-rodape.jpg",
-          "link": "https://www.paralacasa.com.br/jogos-americanos/",
-          "alt": "Conheça Todos os Jogos Americanos"
+          "img": "/img/uploads/objetos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/objetos/",
+          "alt": "Black Friday 2025 Para la Casa"
         },
         {
-          "img": "/img/uploads/home-copa-categ-blog-rodape.jpg",
-          "link": "https://www.paralacasa.com.br/copa/",
-          "alt": "Produtos para sua Copa"
+          "img": "/img/uploads/bambu-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Black Friday 2025 Para la Casa"
         },
         {
-          "img": "/img/uploads/home-organizar-categ-blog-rodape.jpg",
-          "link": "https://www.paralacasa.com.br/potes-hermeticos/",
-          "alt": "Potes Organizadores escolha aqui "
+          "img": "/img/uploads/acrilicos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/acrilicos/",
+          "alt": "Black Friday 2025 Para la Casa"
         }
       ]
     }
