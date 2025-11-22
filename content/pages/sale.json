@@ -1,6 +1,6 @@
 {
   "title": "BLACK FRIDAY ",
-  "body": "**Black Friday: A Curadoria Encontra a Oportunidade**\n\n\nO nosso esquenta já começou.\n\nPara você, que vê a casa como um refúgio e valoriza o luxo que reside nos detalhes, este não é um simples período de descontos. É a oportunidade de adquirir o design atemporal que seu lar merece.\n\nNossa curadoria de **Black Friday** foi selecionada a dedo, pensando em quem, como você, não busca o comum, mas sim peças com alma, que transformam o cotidiano em rituais de elegância.\n\nMas a exclusividade é, por natureza, limitada.\n\nEsta é a sua chance de garantir nossos ícones de design com condições únicas, antes que se esgotem.\n\nAté **50% OFF** em peças selecionadas com a curadoria Para La Casa.\n\n**5% OFF** adicionais para pagamentos à vista no PIX.\n\n**Frete Grátis** em compras a partir de R$499.\n\n*Não perca tempo. As peças que você ama são as mesmas que outras mulheres de bom gosto estão desejando.*\n\nExplore mais abaixo e garanta sua seleção antes que seja tarde.",
+  "body": "**Black Friday: A Curadoria Encontra a Oportunidade**\n\nAté **50% OFF** em peças selecionadas com a curadoria Para La Casa.\n\n**5% OFF** adicionais para pagamentos à vista no PIX.\n\n**Frete Grátis** em compras a partir de R$499.\n\nExplore mais abaixo e garanta sua seleção antes que seja tarde.",
   "sections": [
     {
       "type": "responsive-banner",
@@ -8,6 +8,21 @@
       "sync_load": true,
       "mobile_img": "",
       "alt": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cafedamanha-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha",
+          "alt": "Até 30% off Para la Casa"
+        },
+        {
+          "img": "/img/uploads/talheres-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Talheres e Faqueiros com 30% Off"
+        }
+      ]
     },
     {
       "type": "extra-page",
