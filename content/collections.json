@@ -17,14 +17,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/eme-faqueiros-talheres-italianos-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-eme",
+          "img": "/img/uploads/talheres-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/eme",
           "alt": "Faqueiros e Talheres Italianos - EME"
         },
         {
-          "img": "/img/uploads/prataria-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/prataria",
-          "alt": "Prataria"
+          "img": "/img/uploads/cafedamanha-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha",
+          "alt": "Black Friday Para la Casa"
         }
       ]
     }
