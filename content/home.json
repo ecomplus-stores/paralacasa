@@ -13,14 +13,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-capuccino-788-x-518-px-_24_.webp",
+          "img": "/img/uploads/cafedamanha-paralacasa-blackfriday2025.webp",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
-          "alt": "Nossas apostas para servir o café da manhã com uma coleção com tudo o que precisamos para servir. Para La Casa"
+          "alt": "Black Friday Para la Casa 2025 - Até 30% de desconto na categoria Café da Manhã"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-colecao-trancoso-788-x-518-px-24-.jpg",
-          "link": "https://www.paralacasa.com.br/trancoso",
-          "alt": "Criamos uma coleção inspirada nos dias ensolarados e no charme natural do litoral."
+          "img": "/img/uploads/prataria-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/prataria",
+          "alt": "Prataria com 15% de desconto na Black Friday da Para la Casa"
         }
       ]
     },
@@ -28,74 +28,59 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/e-com-plus-home-prataria-788-x-518-px-24-.jpg",
-          "link": "https://www.paralacasa.com.br/prataria",
-          "alt": "Nossas escolhas para a prataria para uso diário ou para servir em momentos afetivos."
+          "img": "/img/uploads/talheres-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/faqueiros/",
+          "alt": "Faqueiros e Talheres Eme com até 30% off na Black Friday Para la Casa"
         },
         {
-          "img": "/img/uploads/e-com-plus-home-mix-and-match-bitossi-788-x-518-px-_24_.webp",
-          "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
-          "alt": "Um mix and match mais que perfeito! Misturar e criar novas possibilidades com as coleções da Bitossi."
+          "img": "/img/uploads/tacas-copos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
+          "alt": "Taças e Copos com até 40% off na Black Friday da Para la Casa"
         }
       ]
     },
     {
-      "autoplay": "",
-      "page": 1,
-      "title": "BLACK FRIDAY 2025 descontos até 50% + 5% desc PIX",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "limit": 20,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/vasos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/vasos/",
+          "alt": "Vasos com até 50% off na Black Friday da Para la Casa"
+        },
+        {
+          "img": "/img/uploads/bambu-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Bambu com até 25% off na Black Friday Para la Casa"
+        },
+        {
+          "img": "/img/uploads/acrilicos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/acrilicos/",
+          "alt": "Décor Acrílicos Funcionais até 30% na Black Friday Para la Casa"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
       "sort": "offers"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "658c334f2cd6b65959eb2c2c:collections:TAÇAS E COPOS:/tacas-e-copos",
-      "sort": "offers",
-      "title": "TACAS e COPOS"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-imagens-527-x-515-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/imagens",
-          "alt": "Imagens em pó de mármore com design contemporâneo que complementa o décor e os nossos momentos de conexão espiritual."
+          "img": "/img/uploads/objetos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/objetos/",
+          "alt": "Décor Para la Casa até 40% off Black Friday"
         },
         {
-          "img": "/img/uploads/ecom-plus-bambu-best-seller-527-x-515-px-24-.jpg",
-          "link": "https://www.paralacasa.com.br/tudo-em-bambu/",
-          "alt": "Nossa seleção de peças em bambu natural que é um best seller por aqui."
+          "img": "/img/uploads/aromas-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/aromas",
+          "alt": "Aromas 20% off Black Friday Para la Casa"
         },
         {
-          "img": "/img/uploads/ecom-plus-527-x-515-bandeja-cafe-da-manha-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/posts/manhas-que-abracam",
-          "alt": "Uma bandeja um café, um afeto."
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-home-vaso-dzt-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/vasos/",
-          "alt": "Novas escolhas para vasos cheios de poesia para ressignificar o décor"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-home-unque-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/posts/frases-que-bordam-alma-nos-detalhes",
-          "alt": "Bordados feitos à mão que nos trazem arte e reflexão."
-        },
-        {
-          "img": "/img/uploads/ecom-plus-527-x-515-home-gift-dzt-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/gifts",
-          "alt": "Mais que um marcador de páginas nossos novos objetos marcam nossas histórias com muita memória afetiva. Ótimos para presentear."
+          "img": "/img/uploads/rattan-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/rattan",
+          "alt": "Rattan na Black Friday da Para la Casa"
         }
       ]
     },
@@ -104,25 +89,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "CURADORIA DA SEMANA",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/e-com-plus-home-eme-black-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-eme",
-          "alt": "EME faqueiros italianos chegam para fazer sucesso em nossas mesas."
-        },
-        {
-          "img": "/img/uploads/e-com-plus-home-mundinho-788-x-518-px-23-.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Feitos à mão, cheios de poesia eles ressignificam o décor"
-        }
-      ]
+      "sort": "lowest_price",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "ATÉ 50% OFF + 5% NO PIX, EXPLORE MAIS"
     }
   ]
 }
