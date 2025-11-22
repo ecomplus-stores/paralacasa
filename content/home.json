@@ -60,6 +60,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.paralacasa.com.br/pages/sale\">ATÉ 50% OFF + 5% NO PIX, EXPLORE MAIS</a></h4>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
