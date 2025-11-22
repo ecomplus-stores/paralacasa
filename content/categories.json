@@ -19,20 +19,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__copos_tacas_24.webp",
+          "img": "/img/uploads/vasos-paralacasa-blackfriday2025.webp",
           "mobile_img": "",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
-          "alt": "Taças e Copos - Para la Casa"
+          "link": "https://www.paralacasa.com.br/vasos/",
+          "alt": "Black Friday Para la Casa"
         },
         {
-          "img": "/img/uploads/__para_decor_24.webp",
-          "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Coleção Mundinho - Para la Casa"
+          "img": "/img/uploads/bambu-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Black Friday Para la Casa"
         },
         {
-          "img": "/img/uploads/__talheres_24.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Talheres e Faqueiros Para la Casa"
+          "img": "/img/uploads/acrilicos-paralacasa-blackfriday2025.webp",
+          "link": "https://www.paralacasa.com.br/acrilicos/",
+          "alt": "Acrílicos Para la Casa"
         }
       ]
     }
