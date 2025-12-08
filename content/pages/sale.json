@@ -1,39 +1,7 @@
 {
-  "title": "BLACK FRIDAY ",
-  "body": "**Black Friday: A Curadoria Encontra a Oportunidade**\n\nAté **50% OFF** em peças selecionadas com a curadoria Para La Casa.\n\n**5% OFF** adicionais para pagamentos à vista no PIX.\n\n**Frete Grátis** em compras a partir de R$499.\n\nExplore mais abaixo e garanta sua seleção antes que seja tarde.",
+  "title": "SALE",
+  "body": "**Frete Grátis** em compras a partir de R$499.\n\nExplore mais abaixo e garanta sua seleção antes que seja tarde.",
   "sections": [
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/black-friday-paralacasa-2025.d.png",
-      "sync_load": true,
-      "mobile_img": "",
-      "alt": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cafedamanha-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/cafe-da-manha",
-          "alt": "Até 30% off Para la Casa"
-        },
-        {
-          "img": "/img/uploads/talheres-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Talheres e Faqueiros com 30% Off"
-        },
-        {
-          "img": "/img/uploads/aromas.webp",
-          "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "AROMAS - BLACK FRIDAY PARA LA CASA"
-        },
-        {
-          "img": "/img/uploads/colecaomundinho.webp",
-          "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Black Friday Para la Casa"
-        }
-      ]
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -44,6 +12,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF",
-  "meta_description": "O Esquenta Black Friday Para La Casa começou. Encontre a curadoria de design e mesa posta que seu lar merece. Até 50% OFF + 5% PIX e Frete Grátis*. Estoque limitado."
+  "meta_title": "SALE PARA LA CASA ",
+  "meta_description": ""
 }
