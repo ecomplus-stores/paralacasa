@@ -1,19 +1,13 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/black-friday-paralacasa-2025.d.webp",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "alt": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF"
-    },
-    {
       "type": "document-description",
       "enabled": true
     },
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
