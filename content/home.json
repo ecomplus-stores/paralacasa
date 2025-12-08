@@ -3,88 +3,32 @@
   "meta_description": "SHOP on LINE, peças com cuidadosa curadoria, design, tableware e tendências para o décor da sua Casa. Entregamos em todo o Brasil.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/black-friday-paralacasa-2025.d.webp",
-      "sync_load": true,
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "alt": "Esquenta Black Friday Para La Casa | Seleção com até 50% OFF"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cafedamanha-paralacasa-blackfriday2025.webp",
+          "img": "/img/uploads/cafe-da-manha-para-lacasa-home.webp",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
-          "alt": "Black Friday Para la Casa 2025 - Até 30% de desconto na categoria Café da Manhã"
+          "alt": ""
         },
         {
-          "img": "/img/uploads/prataria-paralacasa-blackfriday2025.webp",
+          "img": "/img/uploads/colecao-trancoso-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/trancoso",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/prataria-paralacasa-home.jpg",
           "link": "https://www.paralacasa.com.br/prataria",
-          "alt": "Prataria com 15% de desconto na Black Friday da Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/talheres-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/faqueiros/",
-          "alt": "Faqueiros e Talheres Eme com até 30% off na Black Friday Para la Casa"
+          "alt": ""
         },
         {
-          "img": "/img/uploads/tacas-copos-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos/",
-          "alt": "Taças e Copos com até 40% off na Black Friday da Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/vasos-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/vasos/",
-          "alt": "Vasos com até 50% off na Black Friday da Para la Casa"
-        },
-        {
-          "img": "/img/uploads/bambu-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/bambu/",
-          "alt": "Bambu com até 25% off na Black Friday Para la Casa"
-        },
-        {
-          "img": "/img/uploads/acrilicos-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/acrilicos/",
-          "alt": "Décor Acrílicos Funcionais até 30% na Black Friday Para la Casa"
-        }
-      ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.paralacasa.com.br/pages/sale\">ATÉ 50% OFF + 5% NO PIX, EXPLORE MAIS</a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/objetos-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/objetos/",
-          "alt": "Décor Para la Casa até 40% off Black Friday"
-        },
-        {
-          "img": "/img/uploads/aromas-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "Aromas 20% off Black Friday Para la Casa"
-        },
-        {
-          "img": "/img/uploads/rattan-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/rattan",
-          "alt": "Rattan na Black Friday da Para la Casa"
+          "img": "/img/uploads/bitossi-paralacasa-home.webp",
+          "link": "https://www.paralacasa.com.br/bitossi",
+          "alt": ""
         }
       ]
     },
@@ -93,23 +37,73 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "ATÉ 50% OFF + 5% NO PIX, EXPLORE MAIS",
-      "collection_id": "655657642cd6b65959ab0d1c:collections:ATÉ 30% OFF - LOUÇAS - BLACK FRIDAY 2024:/descontos-em-loucas"
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
+      "sort": "news",
+      "title": "NEW",
+      "link": "https://www.paralacasa.com.br/new"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/jogosamericanos-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-          "alt": "Até 50% off em Jogos Americanos Black Friday Para la Casa "
+          "img": "/img/uploads/vasos-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/vasos/",
+          "alt": ""
         },
         {
-          "img": "/img/uploads/loucas-paralacasa-blackfriday2025.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
-          "alt": "Até 40% off em Louças Para la Casa Black Friday"
+          "img": "/img/uploads/quadros-objetos-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/quadros/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/gifts-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/gifts",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/imagens-religiosas-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/imagens",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/bambu-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/manhas-que-abracam-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/posts/manhas-que-abracam",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "CURADORIA DA SEMANA",
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/eme-paralacasa-home.jpg",
+          "link": "https://www.paralacasa.com.br/eme",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/colecao-mundinho-paralacasa-home.webp",
+          "link": "https://www.paralacasa.com.br/colecao-mundinho",
+          "alt": ""
         }
       ]
     }
