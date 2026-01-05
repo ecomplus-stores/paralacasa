@@ -3,6 +3,16 @@
   "body": "**Frete Grátis** em compras a partir de R$499.\n\nExplore mais abaixo e garanta sua seleção antes que seja tarde.",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sumer-sale-2026-paralacasa.webp",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "SUMMER SALE 2026 - PARA LA CASA "
+        }
+      ]
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
