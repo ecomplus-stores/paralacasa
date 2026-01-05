@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/sumer-sale-2026-paralacasa.webp",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "SUMMER SALE PARA LA CASA 2026 "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/cafe-da-manha-para-lacasa-home.webp",
           "link": "https://www.paralacasa.com.br/cafe-da-manha",
           "alt": ""
@@ -31,6 +41,15 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "SUMMER SALE ",
+      "link": "https://www.paralacasa.com.br/pages/sale"
     },
     {
       "type": "collection-shelf",
@@ -87,7 +106,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
