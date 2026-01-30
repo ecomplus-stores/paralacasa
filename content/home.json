@@ -4,13 +4,7 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/sumer-sale-2026-paralacasa.webp",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "SUMMER SALE PARA LA CASA 2026 "
-        }
-      ]
+      "banners": []
     },
     {
       "type": "banners-grid",
