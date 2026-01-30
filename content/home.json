@@ -4,6 +4,16 @@
   "sections": [
     {
       "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-full-home-curadoria-verao-1576-x-1350-1622-x-800-px-1-.jpg",
+          "link": "https://www.paralacasa.com.br/colecao-verao",
+          "alt": "Curadoria de itens para o verão brasileiro, com peças em palha e fibras naturais para viver a casa com leveza, sol e encontros sem pressa."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
       "banners": []
     },
     {
