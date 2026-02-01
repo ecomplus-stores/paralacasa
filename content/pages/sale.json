@@ -1,17 +1,7 @@
 {
   "title": "SALE",
-  "body": "**Summer Sale Para La Casa: Curadoria de Design para o seu Lar**\nAproveite nossa seleção exclusiva de verão com até **50% OFF**. Encontre peças com alma e design atemporal para elevar os rituais do seu cotidiano.\n\n**Onde o Estilo Encontra a Oportunidade**\nNossa Summer Sale reúne o melhor da nossa curadoria em mesa posta e decoração. É o momento ideal para adquirir itens de desejo com condições especiais:\n\nMesa Posta: Cerâmicas artesanais, talheres de bambu e itens em fibras naturais.\n\nDecoração: Vasos Murano, bandejas de acrílico e objetos que contam histórias.\n\nServir com Elegância: Cúpulas, tábuas em mármore e peças multifuncionais.\n\nTransforme sua casa em um refúgio de sofisticação. Estoques limitados para garantir a exclusividade do seu acervo.\n\n**+Frete Grátis** em compras a partir de R$499.",
+  "body": "**S﻿ALE ENCERRADA**",
   "sections": [
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/sumer-sale-2026-paralacasa.webp",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "SUMMER SALE 2026 - PARA LA CASA "
-        }
-      ]
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -22,6 +12,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": "Summer Sale Para La Casa | Decoração e Mesa Posta com até 50% OFF",
-  "meta_description": "Encontre itens exclusivos de decoração e mesa posta na Summer Sale Para La Casa. Curadoria de luxo, cerâmicas e peças de design com até 50% de desconto. Confira!"
+  "meta_title": " Sale Para La Casa | Decoração e Mesa Posta ",
+  "meta_description": "Encontre itens exclusivos de decoração e mesa posta na Summer Sale Para La Casa. Curadoria de luxo, cerâmicas e peças de design "
 }
