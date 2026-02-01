@@ -51,10 +51,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "SUMMER SALE ",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos"
+      "sort": "sales",
+      "title": "COLEÇÃO VERÃO",
+      "link": "https://www.paralacasa.com.br/colecao-verao",
+      "collection_id": "697be8b9c650040a8c8ce849:collections:COLEÇÃO VERÃO:/colecao-verao"
     },
     {
       "type": "collection-shelf",
@@ -111,7 +111,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "sort": "highest_price",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques"
