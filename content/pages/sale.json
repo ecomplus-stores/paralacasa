@@ -13,31 +13,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/loucas-paralacasa-summersale.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-loucas",
-          "alt": "Louças e Mesa Posta: Design Atemporal com Valor Especial | Para La Casa"
-        },
-        {
-          "img": "/img/uploads/aromas-lavabo-summersale.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "Lavabo e Aromas: Sofisticação e Bem-Estar com Valor Especial"
-        },
-        {
-          "img": "/img/uploads/tacas-copos-paralacasa-summersale.webp",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos",
-          "alt": "Taças e Copos: Design e Elegância para sua Mesa | Para La Casa"
-        },
-        {
-          "img": "/img/uploads/talheres-faqueiros-eme-bambu-desconto.png",
-          "link": "https://www.paralacasa.com.br/descontos-talheres",
-          "alt": "Talheres e Faqueiros de Design: A Joia da sua Mesa Posta"
-        }
-      ]
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
