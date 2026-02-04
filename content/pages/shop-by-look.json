@@ -10,11 +10,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/aromas-difusores-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "Produtos de aromaterapia L'envie Parfums: sabonete líquido e difusor, Para La Casa"
-        },
-        {
           "img": "/img/uploads/lavabo-decoracao-organizacao-paralacasa-shop.jpg",
           "link": "https://www.paralacasa.com.br/pages/lavabo"
         },
