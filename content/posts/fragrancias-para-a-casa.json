@@ -6,10 +6,6 @@
       "enabled": true
     },
     {
-      "type": "blog-post",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -17,6 +13,10 @@
       "collection_id": "619273930c7c72722582d745:categories:AROMAS:/aromas",
       "sort": "news",
       "link": "https://www.paralacasa.com.br/aromas"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
     }
   ],
   "title": "FRAGRÂNCIAS PARA A CASA",
