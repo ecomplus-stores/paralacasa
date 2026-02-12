@@ -87,7 +87,7 @@ if (mainCategories) {
             </button>
           <% } %>
   
-         
+         <div class="menu__list">
               <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
@@ -120,6 +120,16 @@ if (mainCategories) {
                 </span>
               </a>
             <% }) %>
+          </div>
+
+          <% if (category && category.slug) { %>
+            <a href="/<%= category.slug %>" class="menu__link">
+              <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
+            </a>
+          <% } %>
+        </div>
+      <% } %>
+    <% } %>  
  <a class="menu__item" href="https://www.paralacasa.com.br/new">NEW</a>
              <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
              <a class="menu__item" href="https://www.paralacasa.com.br/blog">BLOG</a>
