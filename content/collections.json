@@ -11,7 +11,7 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
