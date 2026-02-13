@@ -86,9 +86,9 @@ if (mainCategories) {
               <i class="i-arrow-left"></i>
             </button>
           <% } %>
-  
-         <div class="menu__list">
-              <% categoryParents[slug].forEach((subcategory, index) => { %>
+
+          <div class="menu__list">
+            <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
                 <% if (hasSubmenu) {
@@ -120,6 +120,13 @@ if (mainCategories) {
                 </span>
               </a>
             <% }) %>
+
+            <% /* Adiciona os links extras apenas na raiz do menu */ %>
+            <% if (slug === '_') { %>
+              <a class="menu__item" href="/new">NEW</a>
+              <a class="menu__item" href="/pages/shop-by-look">SHOP BY LOOK</a>
+              <a class="menu__item" href="/blog">BLOG</a>
+            <% } %>
           </div>
 
           <% if (category && category.slug) { %>
@@ -129,17 +136,11 @@ if (mainCategories) {
           <% } %>
         </div>
       <% } %>
-    <% } %>  
- <a class="menu__item" href="https://www.paralacasa.com.br/new">NEW</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/blog">BLOG</a>
-          </div>
- 
-          
-      <% } %>
     <% } %>
   </nav>
-<a class="menu__item" href="https://www.paralacasa.com.br/app/#/account/">ENTRAR | CADASTRAR</a>
+
+  <a class="menu__item" href="/app/#/account/">ENTRAR | CADASTRAR</a>
+
   <footer class="menu__footer">
     <% if (menu.phone_wpp) { %>
       <div class="menu__phone">
@@ -186,4 +187,3 @@ if (mainCategories) {
     <% } %>
   </footer>
 </aside>
-  
