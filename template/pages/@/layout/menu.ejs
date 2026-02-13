@@ -19,6 +19,7 @@ const categoryParents = _.lodash.groupBy(allCategories, ({ parent }) => {
   return !parent || !parent.slug ? '_' : parent.slug
 })
 const getSubmenuId = slug => `a-${slug.replace(/\//g, '_')}`
+var category, parent
 
 const mainCategories = categoryParents._
 if (mainCategories) {
@@ -50,7 +51,6 @@ if (mainCategories) {
 
     <% for (const slug in categoryParents) { %>
       <% if (categoryParents.hasOwnProperty(slug)) { %>
-        <% let category, parent %>
         <div
           <% if (slug === '_') { %>
             id="categories-nav"
@@ -88,7 +88,8 @@ if (mainCategories) {
           <% } %>
 
           <div class="menu__list">
-            <% categoryParents[slug].forEach((subcategory, index) => { %>
+         <a class="menu__item" href="https://www.paralacasa.com.br/new">NEW</a>
+             <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
                 <% if (hasSubmenu) {
@@ -121,12 +122,8 @@ if (mainCategories) {
               </a>
             <% }) %>
 
-            <% /* Adiciona os links extras apenas na raiz do menu */ %>
-            <% if (slug === '_') { %>
-              <a class="menu__item" href="/new">NEW</a>
-              <a class="menu__item" href="/pages/shop-by-look">SHOP BY LOOK</a>
-              <a class="menu__item" href="/blog">BLOG</a>
-            <% } %>
+             <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
+             <a class="menu__item" href="https://www.paralacasa.com.br/blog">BLOG</a>
           </div>
 
           <% if (category && category.slug) { %>
@@ -138,9 +135,7 @@ if (mainCategories) {
       <% } %>
     <% } %>
   </nav>
-
-  <a class="menu__item" href="/app/#/account/">ENTRAR | CADASTRAR</a>
-
+<a class="menu__item" href="https://www.paralacasa.com.br/app/#/account/">ENTRAR | CADASTRAR</a>
   <footer class="menu__footer">
     <% if (menu.phone_wpp) { %>
       <div class="menu__phone">
@@ -187,3 +182,4 @@ if (mainCategories) {
     <% } %>
   </footer>
 </aside>
+  
