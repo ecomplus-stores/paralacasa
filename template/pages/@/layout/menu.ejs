@@ -134,13 +134,8 @@ if (mainCategories) {
              <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
              <a class="menu__item" href="https://www.paralacasa.com.br/blog">BLOG</a>
           </div>
-
-          <% if (category && category.slug) { %>
-            <a href="/<%= category.slug %>" class="menu__link">
-              <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
-            </a>
-          <% } %>
-        </div>
+ 
+          
       <% } %>
     <% } %>
   </nav>
