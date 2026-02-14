@@ -22,10 +22,6 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<center><h1 class=\"product__name\">Carnaval com Elegância: Sua Wish List com 15% OFF\n</h1><br></center>\n<center><h1 class=\"product__name\">15% OFF em todo o site (exceto Bitossi Home).Válido para pedidos acima de R$ 399,00.</h1><center>"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
