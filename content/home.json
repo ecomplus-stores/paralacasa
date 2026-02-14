@@ -22,11 +22,6 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -55,6 +50,13 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 17,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
     },
     {
       "type": "collection-shelf",
