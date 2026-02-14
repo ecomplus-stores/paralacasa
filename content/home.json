@@ -69,7 +69,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
