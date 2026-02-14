@@ -7,7 +7,7 @@
       "banners": [
         {
           "img": "/img/uploads/b82e7539-0211-481d-aba0-8a3669f7c5ef.jpg",
-          "alt": "TODA LOJA COM 15% DE DESCONTO * EXCETO BITOSSI "
+          "alt": "TDA LOJA COM 15% DE DOESCONTO * EXCETO BITOSSI "
         }
       ]
     },
@@ -20,10 +20,6 @@
           "alt": "Curadoria de itens para o verão brasileiro, com peças em palha e fibras naturais para viver a casa com leveza, sol e encontros sem pressa."
         }
       ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": []
     },
     {
       "type": "custom-html",
@@ -45,7 +41,7 @@
         {
           "img": "/img/uploads/6e5f3e0e-52b4-4e76-acaf-658806ba2f98.jpg",
           "link": "https://www.paralacasa.com.br/bandeja-cha",
-          "alt": "Bandeja de Chá de Luxo e Decoração | Curadoria Para La Casa"
+          "alt": "Bandeja de Chá, explore nossas escolhas para bandejas."
         }
       ]
     },
