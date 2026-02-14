@@ -6,6 +6,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/b82e7539-0211-481d-aba0-8a3669f7c5ef.jpg",
+          "alt": "TODA LOJA COM 15% DE DESCONTO * EXCETO BITOSSI "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/banner-full-home-curadoria-verao-1576-x-1350-1622-x-800-px-1-.jpg",
           "link": "https://www.paralacasa.com.br/colecao-verao",
           "alt": "Curadoria de itens para o verão brasileiro, com peças em palha e fibras naturais para viver a casa com leveza, sol e encontros sem pressa."
@@ -15,6 +24,15 @@
     {
       "type": "banners-grid",
       "banners": []
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">Carnaval com Elegância: Sua Wish List com 15% OFF\n</h4><br>\n<h1 class=\"product__name\">15% OFF em todo o site (exceto Bitossi Home).Válido para pedidos acima de R$ 399,00.</h1>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -45,26 +63,6 @@
           "alt": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "COLEÇÃO VERÃO",
-      "link": "https://www.paralacasa.com.br/colecao-verao",
-      "collection_id": "697be8b9c650040a8c8ce849:collections:COLEÇÃO VERÃO:/colecao-verao"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new",
-      "sort": "news",
-      "title": "NEW",
-      "link": "https://www.paralacasa.com.br/new"
     },
     {
       "type": "banners-grid",
