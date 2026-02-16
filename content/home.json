@@ -47,6 +47,25 @@
       "title": "COLEÇÃO EME"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/colecao-mundinho",
+      "title": "COLEÇÃO MUNDINHO"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "NEW"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
