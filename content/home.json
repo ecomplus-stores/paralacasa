@@ -6,8 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/b82e7539-0211-481d-aba0-8a3669f7c5ef.jpg",
-          "alt": "TDA LOJA COM 15% DE DOESCONTO * EXCETO BITOSSI "
+          "img": "/img/uploads/carnaval15off-paralacasa-2026_.webp",
+          "alt": "TODA LOJA COM 15% DE DESCONTO * EXCETO BITOSSI "
         }
       ]
     },
@@ -41,7 +41,10 @@
       "shuffle": false,
       "limit": 17,
       "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme"
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/eme",
+      "title": "COLEÇÃO EME"
     },
     {
       "type": "banners-grid",
