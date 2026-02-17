@@ -6,7 +6,7 @@
   "sections": [
     {
       "type": "extra-page",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "breadcrumbs",
