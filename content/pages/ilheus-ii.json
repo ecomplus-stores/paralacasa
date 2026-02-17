@@ -5,18 +5,12 @@
   "meta_description": "Ilhéus uma nova curadoria em cerâmica.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ecom-plus-categoria-shop-by-look-ilheus-1576-x-1136-28-.jpg",
-      "alt": "Ilhéus, uma nova curadoria em cerâmica",
-      "link": "https://www.paralacasa.com.br/colecao-ilheus"
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "custom-html",
