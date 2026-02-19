@@ -6,15 +6,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/carnaval15off-paralacasa-2026_.webp",
-          "alt": "TODA LOJA COM 15% DE DESCONTO * EXCETO BITOSSI "
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/verao-paralacasa-2026_.webp",
           "link": "https://www.paralacasa.com.br/colecao-verao",
           "alt": "Curadoria de itens para o verão brasileiro, com peças em palha e fibras naturais para viver a casa com leveza, sol e encontros sem pressa."
@@ -39,22 +30,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 17,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/eme",
-      "title": "COLEÇÃO EME"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-mundinho",
-      "title": "COLEÇÃO MUNDINHO"
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "NEW"
     },
     {
       "type": "collection-shelf",
@@ -62,8 +42,9 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "CURADORIA DA SEMANA"
     },
     {
       "type": "banners-grid",
@@ -79,16 +60,6 @@
           "alt": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "CURADORIA DA SEMANA"
     },
     {
       "type": "banners-grid",
@@ -109,6 +80,26 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 17,
+      "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/eme",
+      "title": "COLEÇÃO EME"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/colecao-mundinho",
+      "title": "COLEÇÃO MUNDINHO"
     },
     {
       "type": "banners-grid",
