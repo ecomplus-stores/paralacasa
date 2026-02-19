@@ -41,7 +41,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
@@ -60,6 +60,16 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
+      "title": "Mais Vistos: Design e sofisticação para o seu lar.",
+      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "type": "banners-grid",
@@ -84,22 +94,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 17,
-      "page": 1,
-      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/eme",
-      "title": "COLEÇÃO EME"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "647a2fe3a0e875411ea89dd8:collections:Coleção Mundinho:/colecao-mundinho",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/colecao-mundinho",
-      "title": "COLEÇÃO MUNDINHO"
+      "collection_id": "617b471888313d7b958628ab:categories:DÉCOR:/decor/",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/decor/",
+      "title": "DÉCOR"
     },
     {
       "type": "banners-grid",
@@ -124,12 +124,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 17,
       "page": 1,
+      "collection_id": "61804b15239b7206d3fc1940:collections:COLEÇÃO EME:/colecao-eme",
       "sort": "news",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "title": "Mais Vistos: Design e sofisticação para o seu lar.",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
+      "link": "https://www.paralacasa.com.br/eme",
+      "title": "COLEÇÃO EME"
     },
     {
       "type": "banners-grid",
