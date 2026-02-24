@@ -6,13 +6,3 @@
     display: none !important;
   }
 
-/* Impede que scripts gigantes sejam colados nos campos */
-input[name="complement"], input[name="address_line_2"] {
-    max-length: 40 !important;
-}
-
-/* Se alguém tentar injetar um script, ele não vai conseguir clicar no botão de finalizar */
-input[value*="<script"] {
-    border: 5px solid red !important;
-    background: black !important;
-}
