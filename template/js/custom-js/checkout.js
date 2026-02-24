@@ -1,26 +1,33 @@
 // Add your custom JavaScript for checkout here.
-/* TRAVA ANTIFRAUDE AGRESSIVA */
-document.addEventListener('submit', function (event) {
-  // Pega todos os dados que o usuário preencheu no formulário
-  const formData = new FormData(event.target);
-  let isMalicious = false;
-
-  for (let value of formData.values()) {
-    // Procura por qualquer sinal de script ou comando malicioso
-    if (/<script|javascript|eval\(|alert\(|onload|onmouseover/gi.test(value)) {
-      isMalicious = true;
-      break;
-    }
-  }
-
-  if (isMalicious) {
-    event.preventDefault(); // IMPEDE O ENVIO DA VENDA NA HORA
-    event.stopPropagation();
+/* BLOQUEIO DE INJEÇÃO XSS - ANTIFRAUDE */
+(function() {
+  const bloquearFraude = () => {
+    // Lista de campos onde eles mais atacam
+    const campos = document.querySelectorAll('input, textarea');
     
-    alert('Erro de segurança: Sua transação foi bloqueada por conter caracteres inválidos.');
-    
-    // BLOQUEIO: Redireciona para o Google ou Home para tirar o bot do site
-    window.location.href = "https://www.google.com"; 
-    return false;
+    campos.forEach(input => {
+      // O padrão abaixo detecta aspas, tags script e links externos maliciosos
+      const padraoAtaque = /<script|xss\.report|getScript|["'><]/gi;
+
+      input.addEventListener('input', function() {
+        if (padraoAtaque.test(this.value)) {
+          console.error("Tentativa de XSS detectada e bloqueada.");
+          
+          // Limpa o campo e impede o prosseguimento
+          this.value = "";
+          alert("Caracteres inválidos detectados. Por favor, preencha o endereço corretamente.");
+          
+          // BLOQUEIO: Se insistir, joga para fora do checkout
+          window.location.href = "/";
+        }
+      });
+    });
+  };
+
+  // Executa a proteção
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bloquearFraude);
+  } else {
+    bloquearFraude();
   }
-}, true);
+})();
