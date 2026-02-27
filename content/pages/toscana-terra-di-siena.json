@@ -1,0 +1,89 @@
+{
+  "title": "Toscana - Terra di Siena",
+  "body": "\n\nHá lugares que nos ensinam sobre o tempo.\\\nA Toscana é um deles.\n\nNão pela paisagem em si, mas pelo ritmo. Pela forma como a luz toca a terra no fim da tarde, como os verdes se tornam mais profundos, como as cores amadurecem em silêncio.\n\nA Coleção Toscana nasce desse instante: quando a casa desacelera e a mesa deixa de ser apenas funcional para se tornar ponto de encontro.\n\nVerde intenso, marinho, marsala, toffee e off white compõem uma paleta de tons terrosos e densos, pensada para criar camadas e contrastes sutis. Jogos americanos e guardanapos que não competem com a mesa — sustentam. Acolhem. Permanecem.\n\nÉ uma coleção sobre base e profundidade.\\\nSobre receber sem excesso, mas com intenção.\\\nSobre deixar que a cor faça o trabalho de aquecer o ambiente.",
+  "meta_title": "Toscana - Terra di Siena",
+  "meta_description": "Tons terrosos, verde intenso, marinho e marsala para transformar sua mesa posta. Conheça a Coleção Toscana.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ecom-plus-categoria-colecao-toscana-1576-x-1136-35-.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "69a054a6c650040a8ca6689d:collections:Coleção Toscana:/colecao-toscana",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20260226_145921.jpg"
+        },
+        {
+          "img": "/img/uploads/20260226_150539.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62696d0e3da6d37bc2103b66:collections:COLEÇÃO MARBELLA:/colecao-marbella-camel",
+      "headless": true,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20260226_151520.jpg"
+        },
+        {
+          "img": "/img/uploads/20260226_150612.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6185bbdb239b7206d302506a:collections:BAMBU - Talheres e Cestos:/bambu-talheres-cestos",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20260226_145941.jpg"
+        },
+        {
+          "img": "/img/uploads/20260226_152734.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": null,
+      "sort": null,
+      "headless": true
+    }
+  ]
+}
