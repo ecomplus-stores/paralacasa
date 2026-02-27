@@ -17,15 +17,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "69a054a6c650040a8ca6689d:collections:Coleção Toscana:/colecao-toscana",
-      "sort": "news",
-      "headless": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -35,6 +26,15 @@
           "img": "/img/uploads/20260226_150539.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "69a054a6c650040a8ca6689d:collections:Coleção Toscana:/colecao-toscana",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "collection-shelf",
