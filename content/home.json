@@ -144,6 +144,10 @@
           "alt": ""
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
