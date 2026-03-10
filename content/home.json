@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/sale-consumidor.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "Semana do Consumidor: A Curadoria que seu Lar merece."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/banner-full-home-toscana-terra-di-siena-1576-x-1350-1622-x-800-px-3-.jpg",
           "link": "https://www.paralacasa.com.br/pages/toscana-terra-di-siena"
         }
@@ -46,15 +56,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": null,
       "sort": "offers",
       "link": "https://www.paralacasa.com.br/pages/sale",
@@ -65,10 +66,19 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "offers",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/new",
+      "title": "NEW"
     },
     {
       "type": "banners-grid",
@@ -115,7 +125,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "highest_price",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
       "title": "Mais Vistos: Design e sofisticação para o seu lar.",
       "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
@@ -126,7 +136,7 @@
       "limit": 17,
       "page": 1,
       "collection_id": "618042e9239b7206d3fc09b0:collections:COLEÇÃO OLINDA:/colecao-olinda",
-      "sort": "sales",
+      "sort": "offers",
       "link": "https://www.paralacasa.com.br/colecao-olinda",
       "title": "COLEÇÃO OLINDA"
     },
