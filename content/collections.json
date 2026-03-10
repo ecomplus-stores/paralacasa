@@ -1,8 +1,18 @@
 {
   "sections": [
     {
-      "type": "document-banner",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/sale-consumidor.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "Semana do Consumidor: A Curadoria que seu Lar merece."
+        }
+      ]
     },
     {
       "type": "document-description",
@@ -11,20 +21,24 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bitossi-paralacasa-home.webp",
-          "link": "https://www.paralacasa.com.br/bitossi",
+          "img": "/img/uploads/aromas-sale-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
           "alt": ""
         },
         {
-          "img": "/img/uploads/colecao-trancoso-paralacasa-home.jpg",
-          "link": "https://www.paralacasa.com.br/trancoso",
+          "img": "/img/uploads/sale-objetos-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
           "alt": ""
+        },
+        {
+          "img": "/img/uploads/sale-tacaecopos-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos"
         }
       ]
     }
