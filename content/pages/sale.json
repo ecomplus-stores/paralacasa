@@ -1,7 +1,39 @@
 {
-  "title": "SALE",
-  "body": "**S﻿ALE PARA LA CASA**",
+  "title": "Semana do Consumidor: A Curadoria que seu Lar merece.",
+  "body": "**S﻿ALE PARA LA CASA**\n\nSabemos que, para você, a escolha de um objeto nunca é por acaso. É sobre a harmonia do ambiente, o toque do material e a história que cada peça conta. \n\nNa nossa **Semana do Consumidor**, abrimos as portas da nossa reserva especial: uma seleção rigorosa de itens que refletem o nosso olhar curatorial. De cristais que celebram o brinde a cerâmicas que transformam o cotidiano, esta é a sua chance de investir em design atemporal com condições excepcionais. Afinal, luxo de verdade é cercar-se do que é autêntico. \n\nExplore nossa seleção de peças com alma e eleve o padrão do seu refúgio.\n\nAté 50% OFF em peças selecionadas + 5% no PIX. Frete grátis nas compras a partir de R$599.",
   "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/sale-consumidor.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aromas-sale-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
+          "alt": "Aromas e Itens para Lavabo: Curadoria com Desconto"
+        },
+        {
+          "img": "/img/uploads/sale-objetos-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
+          "alt": "Oportunidade de Design: Decor e Gifts Selecionados"
+        },
+        {
+          "img": "/img/uploads/sale-tacaecopos-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos",
+          "alt": "Taças e Copos: O Brilho dos Seus Melhores Brindes."
+        }
+      ]
+    },
     {
       "type": "extra-page",
       "enabled": true
@@ -12,6 +44,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": " Sale Para La Casa | Decoração e Mesa Posta ",
-  "meta_description": "Encontre itens exclusivos de decoração e mesa posta na Sale Para La Casa. Curadoria de luxo, cerâmicas e peças de design "
+  "meta_title": "Semana do Consumidor Para La Casa | Design e Curadoria com até 50% OFF",
+  "meta_description": "Aproveite a oportunidade única de assinar sua casa com peças com alma. Curadoria exclusiva Para La Casa com até 50% OFF em itens selecionados de decor, mesa posta e aromas. Design atemporal para quem não abre mão da sofisticação."
 }
