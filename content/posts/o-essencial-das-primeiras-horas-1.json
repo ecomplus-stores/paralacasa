@@ -37,6 +37,10 @@
       "headless": true
     },
     {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nOutros conteúdos da casa\n</p>\n</div>"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
