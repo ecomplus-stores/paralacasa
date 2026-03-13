@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-13T22:26:29.820Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nToscana, o outono à mesa\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20260226_151520-2-.jpg\" \nalt=\"Mesa de café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nHá momentos do ano em que a casa muda de tom quase sem que percebamos. A luz fica mais suave, o ritmo desacelera um pouco e a mesa — como extensão natural da casa — acompanha esse gesto silencioso.\nFoi pensando nesses dias que revisitamos a nossa coleção Toscana.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20260226_152823-1-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nInspirada na paisagem tranquila do interior italiano, onde o tempo parece caminhar com outra delicadeza, a coleção nasce da ideia de uma mesa simples, acolhedora e profundamente convidativa. Tons terrosos, texturas suaves e formas orgânicas criam uma composição que não pede ocasião especial — apenas a vontade de reunir.\n\nNo outono, essa atmosfera se revela ainda mais bonita. Uma toalha que cai com leveza sobre a mesa, o café servido sem pressa, frutas maduras, pão recém-partido. São cenas pequenas, quase cotidianas, mas que carregam algo precioso: a sensação de estar exatamente onde se gostaria de estar.\n\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20260226_150539-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nA Toscana sempre nos encantou por isso. Não pela exuberância, mas pela harmonia. Pela maneira como a beleza aparece nos detalhes, nos materiais honestos, na mesa posta com naturalidade.\nAo escolhermos cada peça dessa curadoria, imaginamos justamente essas cenas — encontros que começam despretensiosos e se estendem, conversas que atravessam a tarde, refeições que se tornam memória.\nTalvez seja essa a essência da coleção.\n\nUma mesa que não busca impressionar.\nMas que convida, com suavidade, a permanecer.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "collection_id": "69a1fdfec650040a8ca7a449:collections:TOSCANA - JOGOS AMERICANOS:/toscana---jogos-americanos",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "collection_id": "69a1fe6fc650040a8ca7a47a:collections:TOSCANA - Guardanapos:/toscana---guardanapos",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "Toscana, o outono à mesa",
+  "description": "Há momentos do ano em que a casa muda de tom quase sem que percebamos. A luz fica mais suave, o ritmo desacelera um pouco e a mesa — como extensão natural da casa — acompanha esse gesto silencioso.\nFoi pensando nesses dias que revisitamos a nossa coleção Toscana.",
+  "thumbnail": "/img/uploads/20260226_151520-2-.jpg"
+}
