@@ -122,7 +122,10 @@ if (mainCategories) {
                 </span>
               </a>
             <% } %>
-
+<a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
+             <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
+             <a class="menu__item" href="https://www.paralacasa.com.br/blog">CADERNO</a>
+          
           <% if (category && category.slug) { %>
             <a href="/<%= category.slug %>" class="menu__link">
               <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
@@ -130,10 +133,7 @@ if (mainCategories) {
           <% } %>
         </div>
       <% } %>
-    <% } %><a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/blog">CADERNO</a>
-          </div>
+    <% } %>
   </nav>
 <a class="menu__item" href="https://www.paralacasa.com.br/app/#/account/">ENTRAR | CADASTRAR</a>
   <footer class="menu__footer">
