@@ -1,4 +1,5 @@
-<%
+
+   <%
 // load menu options and contacts from content
 const menu = _.cms('menu') || {}
 const contacts = _.cms('contacts') || {}
@@ -88,9 +89,10 @@ if (mainCategories) {
           <% } %>
 
           <div class="menu__list">
- <a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
-         <a class="menu__item" href="https://www.paralacasa.com.br/new">NEW</a>
-             <% categoryParents[slug].forEach((subcategory, index) => { %>
+            <a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
+            <a class="menu__item" href="https://www.paralacasa.com.br/new">NEW</a>
+            
+            <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
                 <% if (hasSubmenu) {
@@ -121,21 +123,25 @@ if (mainCategories) {
                   <%= subcategory.name %>
                 </span>
               </a>
+            <% }) %>
+
+            <a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
+            <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
+            <a class="menu__item" href="https://www.paralacasa.com.br/blog">CADERNO</a>
+            
+            <% if (category && category.slug) { %>
+              <a href="/<%= category.slug %>" class="menu__link">
+                <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
+              </a>
             <% } %>
-<a class="menu__item" href="https://www.paralacasa.com.br/pages/sale">SALE</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/pages/shop-by-look">SHOP BY LOOK</a>
-             <a class="menu__item" href="https://www.paralacasa.com.br/blog">CADERNO</a>
-          
-          <% if (category && category.slug) { %>
-            <a href="/<%= category.slug %>" class="menu__link">
-              <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
-            </a>
-          <% } %>
+          </div>
         </div>
       <% } %>
-    <% } )%>
+    <% } %>
   </nav>
-<a class="menu__item" href="https://www.paralacasa.com.br/app/#/account/">ENTRAR | CADASTRAR</a>
+  
+  <a class="menu__item" href="https://www.paralacasa.com.br/app/#/account/">ENTRAR | CADASTRAR</a>
+  
   <footer class="menu__footer">
     <% if (menu.phone_wpp) { %>
       <div class="menu__phone">
