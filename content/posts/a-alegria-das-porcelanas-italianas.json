@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-13T16:58:33.769Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nA alegria das porcelanas italianas\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20251003_144229-1-.jpg\" \nalt=\"Mesa de café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nQuando pensamos nas peças que fazem parte da nossa curadoria, buscamos mais do que beleza. Procuramos objetos que tragam consigo uma certa alegria de viver — aqueles que transformam a mesa em um lugar de encontro, de conversa, de pequenos rituais cotidianos.Foi assim que as porcelanas da Bitossi Home entraram na nossa história.\n</p>\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20251003_142730-1-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nHá algo nelas que nos conquistou imediatamente: a liberdade das estampas, os verdes botânicos que parecem trazer um pouco de jardim para dentro de casa, e as bordas douradas que capturam a luz com delicadeza. Cada prato tem um desenho próprio, uma personalidade quase espontânea.\nGostamos especialmente dessa ideia de que a mesa não precisa ser perfeitamente igual. Pelo contrário — quando as peças se encontram, cada uma diferente da outra, surge uma composição viva, cheia de movimento.\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20251003_155454.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nTalvez seja esse o encanto das porcelanas italianas da Bitossi Home: elas têm algo de festivo, mas sem esforço. Como aquelas mesas que se formam naturalmente, com luz entrando pela janela, conversa boa e tempo para permanecer mais um pouco.\nFoi por isso que escolhemos trazê-las para cá. Porque acreditamos em mesas que contam histórias — e que, aos poucos, passam a fazer parte das nossas também.Peças que acompanham o ritmo do dia que começa — discretas, versáteis e pensadas para estar presentes todos os dias.Entre verdes botânicos, grafismos livres e bordas delicadamente douradas, cada prato carrega um desenho próprio. Nenhum é exatamente igual ao outro — e é justamente nesse encontro inesperado que a mesa ganha vida.\nMisturar essas peças é quase um gesto criativo. Como compor um pequeno jardim sobre a mesa: folhas que se encontram, estampas que dialogam, tons de verde que se espalham em diferentes ritmos.\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "collection_id": "68e96573578b5f7954cb33ea:collections:Bitossi floral verde 1:/bitossi-floral-verde",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "collection_id": "68e96691578b5f7954cb34d7:collections:Bitossi Botanica Verde:/bitossi-botanica-verde",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "A alegria das porcelanas italianas",
+  "thumbnail": "/img/uploads/20251003_144229-1-.jpg",
+  "description": "Há algo nelas que nos conquistou imediatamente: a liberdade das estampas, os verdes botânicos que parecem trazer um pouco de jardim para dentro de casa, e as bordas douradas que capturam a luz com delicadeza."
+}
