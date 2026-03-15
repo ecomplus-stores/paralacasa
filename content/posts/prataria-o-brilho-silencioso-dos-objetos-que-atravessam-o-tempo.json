@@ -13,6 +13,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "headless": true,
+      "collection_id": "69b5ad6bc650040a8cb37a6b:collections:PRATARIA:/prataria"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 4,
       "page": 1,
       "collection_id": "69b5aeb7c650040a8cb37b92:collections:PRATARIA II:/prataria-ii",
