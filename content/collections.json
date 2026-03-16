@@ -1,18 +1,8 @@
 {
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/sale-consumidor.jpg",
-          "link": "https://www.paralacasa.com.br/pages/sale",
-          "alt": "Semana do Consumidor: A Curadoria que seu Lar merece."
-        }
-      ]
+      "type": "document-banner",
+      "enabled": true
     },
     {
       "type": "document-description",
