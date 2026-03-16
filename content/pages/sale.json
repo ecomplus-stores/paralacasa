@@ -3,26 +3,6 @@
   "body": "**S﻿ALE PARA LA CASA**",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aromas-sale-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "Aromas e Itens para Lavabo: Curadoria com Desconto"
-        },
-        {
-          "img": "/img/uploads/sale-objetos-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
-          "alt": "Oportunidade de Design: Decor e Gifts Selecionados"
-        },
-        {
-          "img": "/img/uploads/sale-tacaecopos-paralacasa.jpg",
-          "link": "https://www.paralacasa.com.br/tacas-e-copos",
-          "alt": "Taças e Copos: O Brilho dos Seus Melhores Brindes."
-        }
-      ]
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
