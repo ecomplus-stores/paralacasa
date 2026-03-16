@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-16T20:39:03.463Z",
+  "title": "Entre pães, frutas e luz natural",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nEntre pães, frutas e luz natural\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/img_20241015_174410_882-2-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nO dia desperta devagar, e a mesa se torna o lugar onde tudo encontra seu ritmo. Luz natural atravessa a cozinha, o aroma do café se espalha, e cada gesto ganha atenção — cortar pães, servir frutas, abrir a manteigueira. É nesse instante que o café da manhã deixa de ser apenas refeição e se transforma em ritual.\nA coleção Café da Manhã Bambu nasce desse momento de uso. No café da manhã mais demorado do fim de semana, em uma mesa simples de almoço, ou naquele gesto rápido de servir um café no meio da tarde.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20241011_142828-3-1-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nPorta-frios, porta-frutas, pães e manteigueiras, com pratos de apoio em vidro e bambu e tampas de acrílico, peças que combinam materiais com uma presença leve e natural. O brilho transparente do vidro se harmoniza com a textura acolhedora do bambu e a leveza prática do acrílico, criando uma coleção que fala a mesma língua da simplicidade.\nSão objetos pensados para organizar a mesa sem rigidez, deixando que cada elemento encontre seu lugar com naturalidade. O pão recém-cortado, as frutas da estação, a manteiga à espera da primeira fatia ainda morna.\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20241011_142647-2-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nHá também algo de silenciosamente elegante nesses materiais. O bambu traz um gesto orgânico, quase doméstico, enquanto o vidro permite que as cores dos alimentos façam parte da composição da mesa. Nada precisa ser escondido — tudo pode ser visto, servido, compartilhado.\n\nMais do que utensílios, são peças que ajudam a construir aquele tipo de mesa que convida a permanecer um pouco mais. A repetir o café. A conversar sem olhar o relógio.\n\nPorque às vezes o melhor do dia começa assim:\ncom a mesa posta, a casa acordando devagar e pequenas coisas feitas para durar.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "description": "O dia desperta devagar, e a mesa se torna o lugar onde tudo encontra seu ritmo. Luz natural atravessa a cozinha, o aroma do café se espalha, e cada gesto ganha atenção — cortar pães, servir frutas, abrir a manteigueira. É nesse instante que o café da manhã deixa de ser apenas refeição e se transforma em ritual.",
+  "thumbnail": "/img/uploads/20241011_142647-2-1-.jpg"
+}
