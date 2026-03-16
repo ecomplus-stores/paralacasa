@@ -12,6 +12,22 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "collection_id": "69b869a3c650040a8cb57ef6:collections:CAFÉ DA MANHÃ BAMBU:/cafe-da-manha-bambu",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "collection_id": "69b86a1ac650040a8cb57fbf:collections:CAFÉ DA MANHÃ BAMBU II:/cafe-da-manha-bambu-ii",
+      "headless": true
+    },
+    {
       "type": "custom-html",
       "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
     },
