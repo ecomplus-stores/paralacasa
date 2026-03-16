@@ -1,19 +1,7 @@
 {
-  "title": "Semana do Consumidor: A Curadoria que seu Lar merece.",
-  "body": "**S﻿ALE PARA LA CASA**\n\nSabemos que, para você, a escolha de um objeto nunca é por acaso. É sobre a harmonia do ambiente, o toque do material e a história que cada peça conta. \n\nNa nossa **Semana do Consumidor**, abrimos as portas da nossa reserva especial: uma seleção rigorosa de itens que refletem o nosso olhar curatorial. De cristais que celebram o brinde a cerâmicas que transformam o cotidiano, esta é a sua chance de investir em design atemporal com condições excepcionais. Afinal, luxo de verdade é cercar-se do que é autêntico. \n\nExplore nossa seleção de peças com alma e eleve o padrão do seu refúgio.\n\nAté 50% OFF em peças selecionadas + 5% no PIX. Frete grátis nas compras a partir de R$599.",
+  "title": "SALE",
+  "body": "**S﻿ALE PARA LA CASA**",
   "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/sale-consumidor.jpg"
-        }
-      ]
-    },
     {
       "type": "banners-grid",
       "banners": [
@@ -44,6 +32,6 @@
       "sort": "offers"
     }
   ],
-  "meta_title": "Semana do Consumidor Para La Casa | Design e Curadoria com até 50% OFF",
-  "meta_description": "Aproveite a oportunidade única de assinar sua casa com peças com alma. Curadoria exclusiva Para La Casa com até 50% OFF em itens selecionados de decor, mesa posta e aromas. Design atemporal para quem não abre mão da sofisticação."
+  "meta_title": "SALE  Para La Casa | Design e Curadoria ",
+  "meta_description": "Aproveite a oportunidade única de assinar sua casa com peças com alma. Curadoria exclusiva Para La Casa "
 }
