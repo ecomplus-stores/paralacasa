@@ -12,16 +12,24 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "68f68848578b5f7954d56a05:collections:BITOSSI OVER BLU I:/bitossi-over-blu",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69bc32acc650040a8cb83018:collections:BITOSSI OVER BLUE IV:/bitossi-over-blue-iv",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
     },
     {
       "type": "blog",
