@@ -23,6 +23,14 @@
       "headless": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69bbfdc0c650040a8cb7f71f:collections:ACRÍLICO BANDEJAS:/acrilico-bandejas",
+      "headless": true
+    },
+    {
       "type": "blog",
       "enabled": true
     }
