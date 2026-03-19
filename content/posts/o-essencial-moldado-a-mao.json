@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-19T11:43:33.874Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nO essencial, moldado à mão\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250806_160028-2-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nAntes de chegar à mesa, a cerâmica passa pelo tempo. Pelo tempo das mãos, do descanso, do forno. Existe um percurso invisível em cada peça — e é ele que, no fim, se revela nos detalhes.\nNada é absolutamente igual. E é justamente aí que reside sua beleza. As variações de textura, o esmalte que reage de forma sutilmente imprevisível, o contorno que se afasta do rigor — tudo carrega a marca de um fazer atento, paciente, humano.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250806_160007.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\n\nTrazer essas peças para o cotidiano é também mudar o ritmo das coisas. A mesa deixa de ser apenas funcional e passa a ser vivida. Um bowl, um prato, uma bandeja ou uma molheira deixam de cumprir apenas um papel e passam a compor um cenário de presença.\n\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250806_155605-2-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\n\nHá uma delicadeza em escolher o que nos acompanha todos os dias. Um vaso que acolhe a luz da manhã. Um prato que recebe os pães com naturalidade. Uma bandeja que organiza sem rigidez. Pequenos gestos que transformam o ordinário em algo sentido.\nNo fim, são esses objetos que, silenciosamente, constroem a atmosfera da casa — e a forma como nos relacionamos com ela.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "collection_id": "69b9eef3c650040a8cb69219:collections:cerâmica:/ceramica",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "collection_id": "69b9ef39c650040a8cb69258:collections:cerâmica II:/ceramica-ii",
+      "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "description": "Antes de chegar à mesa, a cerâmica passa pelo tempo. Pelo tempo das mãos, do descanso, do forno. Existe um percurso invisível em cada peça — e é ele que, no fim, se revela nos detalhes.\nNada é absolutamente igual. E é justamente aí que reside sua beleza.",
+  "title": "O essencial, moldado à mão",
+  "thumbnail": "/img/uploads/20250806_160028-2-.jpg"
+}
