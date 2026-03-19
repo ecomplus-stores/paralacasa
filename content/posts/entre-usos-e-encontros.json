@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-19T14:23:22.067Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nEntre usos e encontros\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250905_163901-2-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nServir pode ser simples — e ainda assim cheio de intenção. Nesta produção, as peças de cerâmica feitas à mão entram em cena de forma natural, acompanhando pequenos momentos com leveza e presença.\nDispostas sobre uma bandeja de acrílico, elas organizam o gesto de receber sem impor regras. Cada elemento encontra seu lugar: bowls com aperitivos, uma molheira para servir, pequenas porções pensadas mais para aproximar do que para impressionar.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250905_164000.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\n\nTudo parece acontecer com facilidade. As peças transitam entre usos, se adaptam ao que é servido, acolhem diferentes combinações. São daquelas que não pedem ocasião específica — apenas presença.\nExiste um cuidado silencioso em compor assim: de maneira intuitiva, sem excessos, deixando que os objetos façam parte da cena quase como extensão do próprio gesto de servir. A bandeja reúne, as cerâmicas acolhem, e o conjunto se resolve com naturalidade.\n\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250905_163940-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\n\nReceber em casa, no fundo, é sobre isso. Não sobre perfeição ou formalidade, mas sobre abrir espaço — na mesa e no tempo — para que as pessoas se sintam à vontade. É no detalhe despretensioso, no servir que circula, no gesto de oferecer, que o encontro ganha sentido.\nMais do que uma forma de apresentar, é uma maneira de viver a casa. De usar com frequência, de misturar, de não guardar para depois. Porque quando as peças acompanham o ritmo do dia, tudo se torna mais próximo — e mais verdadeiro.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69b9eef3c650040a8cb69219:collections:cerâmica:/ceramica",
+      "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "Entre usos e encontros",
+  "description": "Servir pode ser simples — e ainda assim cheio de intenção. Nesta produção, as peças de cerâmica feitas à mão entram em cena de forma natural, acompanhando pequenos momentos com leveza e presença."
+}
