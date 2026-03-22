@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-22T22:23:09.665Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nEntre páginas, pequenos mundos\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250601_093653-1-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nHá objetos que não servem apenas para marcar onde paramos — eles criam um motivo para voltar. Nossos marcadores de página nascem assim: entre o gesto preciso da joalheria de bancada e o desejo de guardar, em metal, algo que não se diz apressadamente.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250601_104345-2-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nCada peça é construída como uma pequena escultura. O peso certo na mão, o brilho contido do acabamento em ouro ou a sobriedade luminosa do níquel. Superfícies que recebem frases curtas, quase sussurros, gravadas para acompanhar o tempo lento da leitura. Não como enfeite, mas como presença.\nHá um lado lúdico que se revela aos poucos — no desenho que escapa do óbvio, na forma que sugere mais do que explica, na frase que encontra quem lê em momentos diferentes. São objetos que não pedem atenção imediata, mas permanecem.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250601_095944.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nFeitos em pequena escala, carregam também a ideia de exclusividade: não apenas pelo processo, mas pela relação que constroem com quem escolhe usá-los. Um marcador que se torna íntimo, que atravessa livros, fases, histórias.\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "Entre páginas, pequenos mundos",
+  "thumbnail": "/img/uploads/20250601_093653-1-.jpg",
+  "description": "Há objetos que não servem apenas para marcar onde paramos — eles criam um motivo para voltar. Nossos marcadores de página nascem assim: entre o gesto preciso da joalheria de bancada e o desejo de guardar, em metal, algo que não se diz apressadamente.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
