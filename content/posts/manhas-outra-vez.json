@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-22T10:53:05.475Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nManhãs, outra vez.\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20240111_134618.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nEles sempre voltam.\nNão da mesma forma, nem no mesmo ritmo — mas voltam. Um novo dia se anuncia, a cozinha ainda em silêncio, a primeira xícara sendo preparada quase no automático. Há algo de repetido, sim. E ainda assim, nunca é igual.\nA coleção café da manhã marfim acompanha esse movimento discreto dos dias que recomeçam. Está ali quando tudo ainda é começo: no café servido sem pressa, na fruta cortada com luz atravessando a mesa, no gesto simples de organizar o que vai sustentar a manhã.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20231219_153532.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nO marfim tem essa qualidade rara de permanecer sem pesar. Ele atravessa as mudanças — de humor, de estação, de rotina — sem perder o lugar. É constante, mas nunca rígido. Acolhe o que chega: um café mais demorado, uma conversa inesperada, ou apenas o silêncio de quem ainda está acordando.\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20231219_153305-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nAs peças seguem esse mesmo princípio. Feitas para voltar ao uso, dia após dia. Para não exigir ocasião. Para estarem presentes naquilo que, justamente por ser cotidiano, constrói intimidade.\nPorque no fim, o que fica não são os excessos, nem as exceções. São os retornos. O café que recomeça, a mesa que se recompõe, o hábito de servir — de novo, e de novo.\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "645d59494bd2e929c1f8a5ef:collections:COLEÇÃO MARFIM:/colecao-marfim",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69bdb0eec650040a8cb93ef9:collections:MARFIM II:/marfim-ii",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "Manhãs, outra vez.",
+  "description": "Eles sempre voltam.\nNão da mesma forma, nem no mesmo ritmo — mas voltam. Um novo dia se anuncia, a cozinha ainda em silêncio, a primeira xícara sendo preparada quase no automático. Há algo de repetido, sim. E ainda assim, nunca é igual.\nA coleção café da manhã marfim acompanha esse movimento discreto dos dias que recomeçam."
+}
