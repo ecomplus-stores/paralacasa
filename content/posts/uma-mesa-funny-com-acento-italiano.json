@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-24T21:09:31.736Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nUma mesa funny, com acento italiano\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250919_175425-1-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nCertas peças não se impõem — elas se insinuam. E, pouco a pouco, transformam o cenário. A coleção Bitossi chega assim: em tons de rosa e verdes que se encontram com naturalidade, como se sempre tivessem pertencido um ao outro.\nAs estampas carregam um frescor particular. São desenhos originais, quase intuitivos, que fogem da repetição e criam pequenas narrativas visuais em cada prato. Nada é excessivamente calculado — e talvez por isso funcione tão bem. Existe liberdade, mas também uma medida precisa de intenção.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250919_174958-2-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nO ouro nas bordas não formaliza: ilumina. Surge como um detalhe que acompanha o olhar, revelando-se aos poucos, conforme a mesa ganha vida. Um brilho sutil que não compete com as cores, apenas as sustenta.\nBitossi, marca italiana com origem em Montelupo Fiorentino, atravessa décadas explorando o encontro entre tradição artesanal e linguagem contemporânea. Nesta coleção, esse equilíbrio aparece de forma especialmente leve — quase lúdica, mas sem perder a sofisticação.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250919_175013-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nE então, algo muda no clima da mesa. As combinações deixam de buscar harmonia perfeita e passam a seguir outro ritmo — mais intuitivo, mais livre, guiado pelo olhar. Existe um prazer quase despreocupado nessas escolhas, como quem monta a mesa mais pelo desejo do momento do que por regra. Uma certa irreverência silenciosa, que convida ao riso fácil, à conversa longa, ao gesto espontâneo.\nSão peças que não pedem cerimônia. Pelo contrário — parecem funcionar melhor quando a mesa se torna mais solta, mais viva, mais divertida.\nPorque, no fim, compor também pode ser isso: um jogo.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "Uma mesa funny, com acento italiano",
+  "description": "As estampas carregam um frescor particular. São desenhos originais, quase intuitivos, que fogem da repetição e criam pequenas narrativas visuais em cada prato. Nada é excessivamente calculado — e talvez por isso funcione tão bem. Existe liberdade, mas também uma medida precisa de intenção.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68e96691578b5f7954cb34d7:collections:Bitossi Botanica Verde:/bitossi-botanica-verde",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68ed5402578b5f7954cdad5f:collections:Bitossi Botânica Azul:/bitossi-botanica-azul",
+      "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "thumbnail": "/img/uploads/20250919_174958-2-.jpg"
+}
