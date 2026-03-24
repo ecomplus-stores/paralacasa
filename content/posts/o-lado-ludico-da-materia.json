@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-24T12:34:42.878Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nO lado lúdico da matéria\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20240111_122842.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nNem tudo o que compõe uma casa precisa cumprir uma função evidente. Alguns objetos estão ali por outra razão — instauram presença, organizam o olhar, criam pequenos centros de atenção que mudam a atmosfera ao redor.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/img_20240108_170439_188-1-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nOs vasos e peças desta curadoria partem desse princípio. A cerâmica, moldada à mão, guarda a memória do processo: a marca sutil dos dedos, a variação de espessura, o ritmo próprio de cada forma. Já o metal, trabalhado com técnicas de joalheria de bancada, introduz precisão e escala reduzida — um tipo de detalhe que se revela aos poucos, quase em segredo.\nQuando esses dois universos se encontram, o resultado não é apenas contraste, mas conversa. O peso terroso da cerâmica e o brilho contido do metal se equilibram em peças que não pedem atenção, mas a sustentam com naturalidade — às vezes com um gesto quase lúdico, outras com uma delicadeza mais silenciosa, próxima do poético.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20240103_132146-7-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nSão vasos que não precisam de flores para existir, embora as acolham com beleza. Objetos que atravessam a função e permanecem, mesmo quando não estão sendo usados.\nTalvez porque carreguem, em sua essência, a presença de quem fez. E, por isso mesmo, convidem a uma outra forma de relação: mais próxima, mais sensível, mais atenta.\nNo fim, não são apenas objetos sobre a mesa ou em uma estante. São pequenas pausas no espaço — e, de algum modo, no tempo também.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "O lado lúdico da matéria",
+  "description": "Nem tudo o que compõe uma casa precisa cumprir uma função evidente. Alguns objetos estão ali por outra razão — instauram presença, organizam o olhar, criam pequenos centros de atenção que mudam a atmosfera ao redor.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c281a6c650040a8cbb91fc:collections:Mundinho II:/mundinho-ii",
+      "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "thumbnail": "/img/uploads/20240111_122842.jpg"
+}
