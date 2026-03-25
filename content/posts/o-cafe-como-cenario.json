@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-25T19:07:58.732Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nO café como cenário\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250404_132513.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nA bandeja não espera uma ocasião — ela cria uma.\nAo permanecer pronta, por perto, ela redesenha o cotidiano com uma elegância despretensiosa. O café deixa de ser um intervalo improvisado e passa a existir como um pequeno território dentro do dia. Um lugar onde tudo já foi pensado, ainda que com leveza.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250404_132040.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nO acrílico entra como escolha precisa. Sua transparência não compete, apenas organiza. A bandeja delimita, o porta cápsulas estabelece um ritmo visual, as xícaras encontram seu lugar. Cada elemento existe com clareza, sem excesso, como se o gesto de servir começasse muito antes do primeiro gole.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250404_132201.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nExiste um prazer particular em não precisar montar esse momento. Ele já está ali — pronto, silencioso, à espera de ser habitado.\nEntre uma pausa e outra, a bandeja sustenta mais do que o café. Sustenta a intenção de viver melhor o tempo.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "O café como cenário",
+  "thumbnail": "/img/uploads/20250404_132513.jpg",
+  "description": "A bandeja não espera uma ocasião — ela cria uma.\n\nAo permanecer pronta, por perto, ela redesenha o cotidiano com uma elegância despretensiosa. O café deixa de ser um intervalo improvisado e passa a existir como um pequeno território dentro do dia. Um lugar onde tudo já foi pensado, ainda que com leveza.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
