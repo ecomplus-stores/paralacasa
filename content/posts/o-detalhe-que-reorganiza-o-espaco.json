@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-26T22:30:35.190Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nO detalhe que reorganiza o espaço\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250403_143459-2-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nEles raramente são o ponto de partida — mas, quase sempre, são o que termina de contar a história.\nOs vasos ocupam esse lugar silencioso no décor: não pedem protagonismo, mas têm o poder de reorganizar tudo ao redor. Um gesto simples — trocar um formato, mudar a cor, escolher outra textura — e a atmosfera se desloca. A mesa fica mais leve, o aparador ganha presença, o ambiente respira de outro jeito.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250110_143853.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nHá dias em que o olhar pede transparência. Vidros incolores, quase invisíveis, que deixam a luz atravessar e fazem da sombra parte da composição. Em outros, o desejo é oposto: cerâmicas densas, esmaltes irregulares, superfícies que carregam matéria e calor.\nOs formatos também dizem muito, mesmo quando não percebemos de imediato. Linhas orgânicas suavizam, acolhem, aproximam. Geometrias mais marcadas organizam, trazem ritmo, criam pausas visuais. Um vaso alto alonga o olhar; um mais baixo, aberto, convida à proximidade. E há aqueles inesperados, que funcionam quase como pequenas esculturas — independem das flores para existir.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250926_163731-2-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nA cor entra como nuance, nunca como obrigação. Tons neutros sustentam a permanência, acompanham diferentes estações da casa. Já as cores mais vivas surgem como um acento — um ponto de interesse que muda conforme a luz do dia ou o humor de quem habita o espaço.\nTalvez o mais interessante seja isso: o vaso não precisa estar preenchido para fazer sentido. Ele já é, por si, uma escolha de intenção. Com flores, ele amplia. Sem elas, ele sustenta.\nNo fim, são peças que convidam a experimentar sem compromisso. Trocar de lugar, combinar materiais, testar proporções. Pequenos movimentos que, quase sem esforço, renovam o cenário — e, de algum modo, também o olhar.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c5a805a250b50298a0f37f:collections:VASOS I:/vasos-i",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c5a87da250b50298a0f39e:collections:VASOS II:/vasos-ii",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c5a954a250b50298a0f434:collections:VASOS III:/vasos-iii",
+      "headless": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "title": "O detalhe que reorganiza o espaço",
+  "description": "Eles raramente são o ponto de partida — mas, quase sempre, são o que termina de contar a história.\nOs vasos ocupam esse lugar silencioso no décor: não pedem protagonismo, mas têm o poder de reorganizar tudo ao redor. Um gesto simples — trocar um formato, mudar a cor, escolher outra textura — e a atmosfera se desloca. A mesa fica mais leve, o aparador ganha presença, o ambiente respira de outro jeito.",
+  "thumbnail": "/img/uploads/20250403_143459-2-.jpg"
+}
