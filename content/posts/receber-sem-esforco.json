@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-27T20:47:23.448Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nReceber, sem esforço\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250905_135121.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nTem dias em que a casa pede gente.\nSem muita explicação. Só um desejo de abrir uma garrafa, colocar alguma coisa na mesa e deixar o tempo correr com companhia.\nNada elaborado.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250905_135749.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nUma bandeja com suas peças preferidas, bowls com aperitivos simples, guardanapos, taças para um bom vinho. Um vaso com flores frescas, daqueles que mudam o ambiente sem esforço.\nSão escolhas que não exigem planejamento, mas fazem diferença no todo.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250905_135906.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nPorque quando esses elementos já fazem parte da casa, o encontro ganha outra qualidade. Tudo parece mais cuidado — ainda que tenha sido resolvido em poucos minutos.\nE talvez seja isso que impressiona de verdade.\nNão o excesso, nem a produção.\nMas a sensação de que foi simples — e ainda assim especial.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>",
+  "title": "Receber, sem esforço",
+  "description": "Tem dias em que a casa pede gente.\n\nSem muita explicação. Só um desejo de abrir uma garrafa, colocar alguma coisa na mesa e deixar o tempo correr com companhia.\n\nNada elaborado.",
+  "thumbnail": "/img/uploads/20250905_135121.jpg",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c6e3aea250b50298a1af88:collections:BANDEJA APERITIVOS I:/bandeja-aperitivos-i",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c6e411a250b50298a1afcc:collections:BANDEJA APERITIVOS II:/bandeja-aperitivos-ii",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69c6e56da250b50298a1b197:collections:BANDEJA APERITIVOS III:/bandeja-aperitivos-iii",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
