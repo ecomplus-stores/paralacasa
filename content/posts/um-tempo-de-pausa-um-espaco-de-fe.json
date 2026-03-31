@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-31T21:50:35.613Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nUm tempo de pausa, um espaço de fé\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20241011_160614.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nAs imagens religiosas, sobretudo quando trazidas em materiais delicados como o pó de mármore, carregam uma presença silenciosa que transforma o ambiente com discrição e profundidade. Há nelas uma espécie de pausa. Um convite à contemplação que não exige ritual, mas sugere um ritmo mais lento, mais atento.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20240920_143513-2-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\n Durante a Semana Santa, essa presença ganha outra camada. Não se trata apenas de tradição ou simbologia, mas de uma disposição interna: a vontade de recolher, de reorganizar o que é essencial, de encontrar algum tipo de harmonia em meio ao cotidiano.\nSobre uma mesa lateral, em um aparador ou mesmo em um pequeno altar doméstico, figuras como Nossa Senhora Aparecida, a Sagrada Família, Nossa Senhora grávida ou a Imaculada Conceição introduzem uma narrativa sutil no espaço. Não competem com o décor — ao contrário, o apaziguam. São pontos de silêncio em meio aos excessos, trazendo equilíbrio através da forma, da textura e do significado.\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20240913_133808.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nO acabamento em pó de mármore reforça essa sensação. A superfície fosca, levemente aveludada, capta a luz de maneira suave, sem brilho excessivo. Há uma elegância contida, quase atemporal, que permite que essas peças atravessem estilos e momentos com naturalidade.\nMais do que elementos decorativos, são presenças que acompanham. Que sugerem pausa antes do café, um olhar mais demorado ao final do dia, um instante de gratidão quase involuntário.\nNesta Semana Santa, talvez seja isso que se busca dentro de casa: menos ruído, mais sentido. Uma beleza que não chama atenção, mas que sustenta — em silêncio — aquilo que importa.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "Um tempo de pausa, um espaço de fé",
+  "description": "As imagens religiosas, sobretudo quando trazidas em materiais delicados como o pó de mármore, carregam uma presença silenciosa que transforma o ambiente com discrição e profundidade. Há nelas uma espécie de pausa. Um convite à contemplação que não exige ritual, mas sugere um ritmo mais lento, mais atento.",
+  "thumbnail": "/img/uploads/20241011_160614.jpg",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69cc3c55a250b50298a474bc:collections:imagens:/imagens",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
