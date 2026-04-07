@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-07T19:37:32.334Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nO aroma como assinatura invisível\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20251023_123204-4-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nHá espaços que se revelam aos poucos — primeiro no silêncio, depois na luz, e, por fim, no ar. É pelo aroma que a casa antecipa sua presença. Antes do olhar reconhecer formas, texturas ou cores, é o olfato que constrói a primeira memória.\nPerfumar um ambiente não é apenas um gesto estético. É uma escolha sensível, quase invisível, que orienta a experiência de quem chega e de quem permanece. Um aroma pode acolher, despertar, acalmar ou até marcar a passagem do tempo dentro de um mesmo espaço.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/20250328_123522-1-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nNa sala, notas mais amplas e envolventes tendem a criar uma sensação de abertura — como se o ambiente respirasse com mais profundidade. No quarto, acordes suaves e contínuos convidam ao recolhimento, diminuindo o ritmo sem exigir silêncio absoluto. Já em áreas de passagem ou de encontro, fragrâncias mais frescas e luminosas trazem leveza, como um gesto de boas-vindas que não precisa ser anunciado.\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250328_113149.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nMas há algo ainda mais particular: a construção de uma identidade olfativa. Assim como a escolha de materiais ou de objetos, o aroma também compõe a assinatura de uma casa. Ele não se impõe, não ocupa espaço físico, mas permanece. E, com o tempo, passa a ser reconhecido — por quem vive ali e por quem retorna.\nÉ nesse território sutil que mora a diferenciação. Não se trata de intensidade, mas de intenção. De encontrar fragrâncias que dialoguem com a atmosfera desejada, com a luz que entra pela manhã, com o ritmo do fim de tarde, com a pausa que se cria à noite.\nNo fim, a casa não é apenas o que se vê. É o que se sente — e, muitas vezes, o que se respira sem perceber.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "O aroma como assinatura invisível",
+  "description": "Há espaços que se revelam aos poucos — primeiro no silêncio, depois na luz, e, por fim, no ar. É pelo aroma que a casa antecipa sua presença. Antes do olhar reconhecer formas, texturas ou cores, é o olfato que constrói a primeira memória.",
+  "thumbnail": "/img/uploads/20251023_123204-4-.jpg",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69d53b03a250b50298a96f37:collections:AROMA 1:/aroma-1",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69d53b56a250b50298a96fa6:collections:AROMA II:/aroma-ii",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69d53bbea250b50298a9700f:collections:AROMA III:/aroma-iii",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
