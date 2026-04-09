@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-09T19:38:18.021Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nA casa no ritmo do outono\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/20250404_142823-1-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nCom a chegada do outono, a casa muda de ritmo. A luz se torna mais suave, o silêncio parece mais presente, e os dias pedem um outro tipo de permanência — mais calma, mais íntima, mais sensorial.\nÉ nesse intervalo entre estações que surgem os pequenos gestos de acolhimento. Uma manta repousada sobre a poltrona deixa de ser apenas um objeto e passa a ser um convite. Um chamado discreto para desacelerar, para permanecer um pouco mais, para se envolver.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/screenshot_20250224_154550_instagram.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nAs mantas desta coleção nascem desse lugar. Pensadas para acompanhar o tempo mais frio, elas trazem texturas que aquecem não só o corpo, mas também o ambiente. São peças que transformam a paisagem da casa com suavidade — dobradas com cuidado, lançadas de forma despretensiosa, sempre à espera de um uso espontâneo.\nHá algo de reconfortante em se acomodar sob uma manta ao final do dia. Assistir a uma série sem pressa, avançar algumas páginas de um livro, compartilhar o sofá em um momento de família. Situações simples, quase silenciosas, que ganham outra qualidade quando o corpo está aquecido e o entorno convida ao descanso.\n\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/20250626_133627-1-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nMais do que aquecer, essas mantas constroem atmosfera. Elas ajudam a desenhar um espaço onde o tempo desacelera e a casa passa a acolher de forma mais evidente — não como cenário, mas como lugar de permanência.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "A casa no ritmo do outono",
+  "thumbnail": "/img/uploads/20250404_142823-1-.jpg",
+  "description": "Com a chegada do outono, a casa muda de ritmo. A luz se torna mais suave, o silêncio parece mais presente, e os dias pedem um outro tipo de permanência — mais calma, mais íntima, mais sensorial.\n\nÉ nesse intervalo entre estações que surgem os pequenos gestos de acolhimento. Uma manta repousada sobre a poltrona deixa de ser apenas um objeto e passa a ser um convite. Um chamado discreto para desacelerar, para permanecer um pouco mais, para se envolver.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69d64a56a250b50298aa0846:collections:mantas I:/mantas-i",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69d64ab1a250b50298aa0909:collections:mantas II:/mantas-ii",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
