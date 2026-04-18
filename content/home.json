@@ -6,6 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-sale-feriado-1576-x-1136-37-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/banner-full-home-toscana-terra-di-siena-1576-x-1350-1622-x-800-px-3-.jpg",
           "link": "https://www.paralacasa.com.br/pages/toscana-terra-di-siena"
         }
