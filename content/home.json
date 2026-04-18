@@ -6,7 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-sale-feriado-1576-x-1136-37-.jpg"
+          "img": "/img/uploads/ecom-plus-sale-feriado-1576-x-1136-37-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
     },
