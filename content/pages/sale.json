@@ -1,15 +1,7 @@
 {
   "title": "SALE",
-  "body": "Durantes estes dias de feriado reunimos uma condição especial em Sale.  \n\nP﻿eças para o décor e para a mesa que atravessam o tempo com leveza agora em uma condição diferente. A mesma curadoria, o mesmo cuidado, em uma condição que se integra naturalmente a estes dias.",
+  "body": "<!--StartFragment-->\n\n**Sale**\n\nHá algo de especial na mesa que revela quem somos — na escolha do prato, na dobra do guardanapo, na luz que atravessa um copo de cristal. Nossa curadoria nasce desse olhar atento ao detalhe, daquele senso apurado de que beleza e função andam sempre juntos.\n\nPor tempo limitado, peças selecionadas com critério e sensibilidade chegam com condições especiais. Uma chance de compor, renovar e se expressar — porque uma mesa bem posta é, antes de tudo, um ato de intenção.\n\n<!--EndFragment-->",
   "sections": [
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-sale-feriado-1576-x-1136-37-.jpg"
-        }
-      ]
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -21,5 +13,5 @@
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
-  "meta_description": "Aproveite a oportunidade única de assinar sua casa com peças com alma. Curadoria exclusiva Para La Casa "
+  "meta_description": "Por tempo limitado, peças selecionadas com critério e sensibilidade chegam com condições especiais."
 }
