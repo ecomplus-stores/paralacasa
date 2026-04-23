@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-23T16:28:33.421Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nUm guia para o servir: onde cada taça encontra o seu lugar\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/img_20241126_093954_120.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nHá uma delicadeza silenciosa na escolha de uma taça. Mais do que um recipiente, ela define o gesto, conduz a experiência e revela o cuidado por trás de uma mesa posta. Cada formato carrega uma intenção — e, quando bem escolhido, transforma não apenas a bebida, mas o próprio momento.\nNa composição da mesa, as taças se organizam de maneira quase intuitiva, sempre à direita do prato, acompanhando a ordem do servir. Do uso mais frequente ao mais eventual, elas desenham uma linha sutil que equilibra função e estética.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/19c41b25-0bea-4acb-9e52-5f0427756946.png\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\n\n\nTaça de água —\nOcupa a posição mais próxima do prato — é a presença constante, aquela que acompanha toda a refeição.\n\nTaça de vinho tinto —\nVem em seguida, com seu bojo mais amplo, abrindo espaço para a expressão dos aromas.\n\nTaça de vinho branco —\nAparece logo após, com proporções mais delicadas, pensadas para preservar o frescor e conduzir o vinho com precisão. No dia a dia, é possível simplificar: a taça de vinho tinto pode assumir esse papel sem comprometer a experiência. Embora o formato mais amplo não conserve a temperatura com a mesma eficiência, ele funciona bem em contextos mais descomplicados — quando a intenção é receber com leveza, sem excessos de regras.\n\nTaça de espumante —\nSurge na sequência, mais alta e estreita, trazendo à mesa um gesto de celebração e mantendo a efervescência por mais tempo.\n\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/gin.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\n\n\nTaça de gin —\nAmplia a composição com um caráter mais contemporâneo. De bojo generoso e abertura maior, permite que os aromas botânicos se expressem com liberdade e costuma ocupar a posição mais externa quando presente.\n\n\nCopo long drink —\nTraz uma leitura mais versátil e descomplicada do servir. De linhas retas e altura alongada, é ideal para bebidas com gelo, sucos, refrigerantes e coquetéis leves. Na mesa, pode acompanhar a taça de água ou substituí-la em propostas mais informais, criando uma composição mais leve e atual — especialmente quando a intenção é um encontro sem rigidez, onde o conforto guia as escolhas.\n\n\nNão se trata de rigidez, mas de intenção. A disposição organiza o servir com naturalidade e cria uma leitura visual serena, onde cada elemento encontra o seu lugar sem excessos.\nEm um momento em que a casa convida a novos olhares, revisitamos esses gestos com uma curadoria em condição especial — a mesma atenção às formas, agora com valores que tornam essas escolhas ainda mais próximas.\nPorque, no fim, são esses detalhes que permanecem: a transparência do vidro sob a luz, o toque ao segurar cada peça, o som sutil de um brinde que marca o instante.\n</p>",
+  "title": "Um guia para o servir: onde cada taça encontra o seu lugar",
+  "thumbnail": "/img/uploads/img_20241126_093954_120.jpg",
+  "description": "Há uma delicadeza silenciosa na escolha de uma taça. Mais do que um recipiente, ela define o gesto, conduz a experiência e revela o cuidado por trás de uma mesa posta. Cada formato carrega uma intenção — e, quando bem escolhido, transforma não apenas a bebida, mas o próprio momento.\n\nNa composição da mesa, as taças se organizam de maneira quase intuitiva, sempre à direita do prato, acompanhando a ordem do servir. Do uso mais frequente ao mais eventual, elas desenham uma linha sutil que equilibra função e estética.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
