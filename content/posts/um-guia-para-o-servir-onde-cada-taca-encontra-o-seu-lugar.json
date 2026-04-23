@@ -17,13 +17,25 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "69ea53425cf40d16089095ec:collections:TAÇA I:/taca-i",
+      "headless": true
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "69ea6c395cf40d160890a75d:collections:TAÇA II:/taca-ii",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69ea6c8a5cf40d160890a7ba:collections:TAÇA III:/taca-iii",
+      "headless": true
     },
     {
       "type": "custom-html",
