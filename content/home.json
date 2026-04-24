@@ -38,6 +38,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
+      "title": "COLEÇÃO BITOSSI HOME",
+      "collection_id": "68c32057578b5f7954aa0684:collections:COLEÇÃO BITOSSI HOME:/colecao-bitossi-home"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -85,16 +95,6 @@
           "alt": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/o-que-nossas-clientes-tem-visto-por-aqui",
-      "title": "MAIS  VISTOS",
-      "collection_id": "6599d79e2cd6b65959f60cf4:collections:O que nossas clientes têm visto por aqui:/o-que-nossas-clientes-tem-visto-por-aqui"
     },
     {
       "type": "collection-shelf",
