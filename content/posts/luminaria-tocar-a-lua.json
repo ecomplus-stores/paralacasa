@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-29T21:24:22.581Z",
+  "body": "<div style=\"max-width:900px;margin:0 auto;padding:20px;text-align:center;font-family:Georgia, serif;\">\n\n<h1 style=\"font-size:34px;font-weight:300;margin-bottom:35px;\">\nLuminária Tocar a Lua\n\n</h1>\n\n<!-- IMAGEM HERO -->\n\n<img src=\"/img/uploads/luminaria-3-1-.jpg\" \nalt=\"mesa café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:18px;line-height:1.7;margin-bottom:60px;\">\nOnde a luz encontra o feito à mão — e o tempo ganha forma.\nNem toda luz serve apenas para iluminar.\nAlgumas parecem existir para desacelerar o olhar, criar silêncio, abrir espaço para o que não se explica. Esta luminária habita esse lugar mais sutil — onde o gesto é pequeno, mas o efeito permanece.\n\n<!-- IMAGEM AMBIENTE -->\n\n<img src=\"/img/uploads/luminaria-3-3-.jpg\"\nalt=\"Ambiente café da manhã\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:60px;\">\nQuando acesa, a luz não se impõe. Ela se espalha com delicadeza, desenhando contornos mais suaves, convidando o ambiente a um outro ritmo. Tudo parece encontrar um tempo mais calmo, quase suspenso.\nHá também algo de lúdico, quase íntimo, que se revela sem pressa. No topo, duas miniaturas feitas em técnica de joalheria de bancada — trabalhadas manualmente em metal, uma com acabamento em níquel, outra em ouro — surgem como pequenos gestos de imaginação. Não são apenas detalhes: são marcas do fazer cuidadoso, da escala íntima, do tempo dedicado.\n</p>\n\n<!-- IMAGEM DETALHE -->\n\n<img src=\"/img/uploads/luminaria-3-2-.jpg\"\nalt=\"Detalhe da coleção café\"\nstyle=\"width:100%;height:auto;margin-bottom:45px;display:block;\">\n\n<p style=\"font-size:17px;line-height:1.6;margin-bottom:70px;\">\nAo escolher peças assim, escolhe-se também sustentar uma cadeia mais sensível — feita de mãos, saberes e histórias. Há valor no que não é apressado, no que carrega intenção, no que preserva o vínculo com quem faz.\nUm convite discreto para observar mais devagar, para estar mais presente.\nÉ nesse equilíbrio — entre luz e silêncio, entre forma e gesto — que a peça encontra sua força.\nNo fim, é isso que fica:uma luz que não ocupa — acolhe.\n\n</p>\n\n<h2 style=\"font-size:26px;font-weight:300;margin-bottom:30px;\">\nExplorar coleção\n</h2>\n\n</div>",
+  "title": "Luminária Tocar a Lua",
+  "description": "Onde a luz encontra o feito à mão — e o tempo ganha forma.\n\nNem toda luz serve apenas para iluminar.\n\nAlgumas parecem existir para desacelerar o olhar, criar silêncio, abrir espaço para o que não se explica. Esta luminária habita esse lugar mais sutil — onde o gesto é pequeno, mas o efeito permanece.\n\nQuando acesa, a luz não se impõe. Ela se espalha com delicadeza, desenhando contornos mais suaves, convidando o ambiente a um outro ritmo. Tudo parece encontrar um tempo mais calmo, quase suspenso.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69dd5481a250b50298ae058c:collections:Objetos I:/objetos-i",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"text-align:center;margin-top:60px;margin-bottom:20px;font-family:Georgia, serif;\">\n<p style=\"font-size:22px;font-weight:300;\">\nMais do nosso caderno\n</p>\n</div>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
+}
