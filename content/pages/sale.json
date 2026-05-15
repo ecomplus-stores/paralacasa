@@ -7,6 +7,25 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/30-off-jogos-americanos_.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299"
+        },
+        {
+          "img": "/img/uploads/20off-aromas_.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
+          "alt": "Aromas e Decor para Lavabo com Design | Para La Casa"
+        },
+        {
+          "img": "/img/uploads/30off-decor-objetos_.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-decor-e-gift",
+          "alt": "Design e Decoração Atemporal com Desconto | Para La Casa"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
