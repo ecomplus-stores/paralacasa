@@ -26,6 +26,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/30-off-bambu_.webp",
+          "link": "https://www.paralacasa.com.br/tudo-em-bambu/"
+        },
+        {
+          "img": "/img/uploads/30offtacasecopos_.webp",
+          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos"
+        },
+        {
+          "img": "/img/uploads/15off-talheres-faqueiro-eme_.webp",
+          "link": "https://www.paralacasa.com.br/colecao-eme"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
