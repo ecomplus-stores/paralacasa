@@ -12,6 +12,15 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "V﻿EJA TAMBÉM"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     }
   ]
 }
