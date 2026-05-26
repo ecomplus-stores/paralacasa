@@ -54,7 +54,8 @@
       "page": 1,
       "sort": "news",
       "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW"
+      "title": "NEW",
+      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new"
     },
     {
       "type": "banners-grid",
