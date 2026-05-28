@@ -27,7 +27,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
       "title": "COLEÇÃO BITOSSI HOME",
       "collection_id": "68c32057578b5f7954aa0684:collections:COLEÇÃO BITOSSI HOME:/colecao-bitossi-home"
@@ -53,6 +53,16 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
+      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
+      "link": "https://www.paralacasa.com.br/destaques",
+      "title": "CURADORIA DA SEMANA"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "lowest_price",
       "link": "https://www.paralacasa.com.br/new",
       "title": "NEW",
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new"
@@ -75,12 +85,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 17,
       "page": 1,
+      "collection_id": null,
       "sort": "offers",
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "link": "https://www.paralacasa.com.br/destaques",
-      "title": "CURADORIA DA SEMANA"
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE"
     },
     {
       "type": "banners-grid",
@@ -96,16 +106,6 @@
           "alt": ""
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 17,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE"
     },
     {
       "type": "banners-grid",
