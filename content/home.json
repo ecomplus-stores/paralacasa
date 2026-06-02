@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-sale-troca-colecao1576-x-1136-37-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "Troca de coleção. Estoques limitados. Últimas unidades."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/home-aromas-decor-paralacasa.webp",
           "link": "https://www.paralacasa.com.br/aromas",
           "alt": "Aromas e Decor na Paralacasa"
