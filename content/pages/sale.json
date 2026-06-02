@@ -10,6 +10,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-sale-troca-de-colecao-1576-x-1136-37-.jpg",
+          "alt": "Por tempo limitado, Sale por troca de coleção. Estoques limitados. Últimas unidades."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/30-off-jogos-americanos_.webp",
           "link": "https://www.paralacasa.com.br/jogos-americanos/"
         },
@@ -49,5 +58,5 @@
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
-  "meta_description": "Por tempo limitado, peças selecionadas com critério e sensibilidade chegam com condições especiais."
+  "meta_description": "Por tempo limitado, Sale por troca de coleção. Estoques limitados. Últimas unidades."
 }
