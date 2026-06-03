@@ -47,7 +47,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
@@ -72,7 +72,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
       "title": "COLEÇÃO BITOSSI HOME",
       "collection_id": "68c32057578b5f7954aa0684:collections:COLEÇÃO BITOSSI HOME:/colecao-bitossi-home"
@@ -112,7 +112,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price",
+      "sort": "sales",
       "link": "https://www.paralacasa.com.br/new",
       "title": "NEW",
       "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new"
