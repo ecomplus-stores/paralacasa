@@ -87,6 +87,16 @@
           "alt": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6a1f94c4568e833125f19508:collections:Sale - Últimas Peças:/sale-ultimas-pecas",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/sale-ultimas-pecas",
+      "title": "Últimas Unidades: Peças com Alma e Estoque Quase Esgotado."
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
