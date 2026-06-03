@@ -87,6 +87,12 @@
           "alt": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
