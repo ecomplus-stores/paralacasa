@@ -20,6 +20,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "65569f302cd6b65959aba712:collections:Jogos Americanos, Argolas e Guardanapos -Especial:/descontos-em-jogos-americanos-argolas-e-guardanapos",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
+      "title": "Troca de coleção. Últimas unidades."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "6556aa7f2cd6b65959abbd1e:collections:Descontos em Lavabo e Aromas:/descontos-em-lavabo-e-aromas",
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
@@ -43,10 +53,19 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR SALE:/decor-sale",
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/decor-sale",
-      "title": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
+      "collection_id": "655662612cd6b65959ab29a4:collections:ATÉ 30% OFF - TAÇAS E COPOS:/descontos-em-tacas-e-copos",
+      "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
+      "title": "Troca de coleção. Últimas unidades."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6a1f94c4568e833125f19508:collections:Sale - Últimas Peças:/sale-ultimas-pecas",
+      "sort": "news",
+      "link": "https://www.paralacasa.com.br/sale-ultimas-pecas",
+      "title": "Últimas Unidades: Peças com Alma e Estoque Quase Esgotado."
     },
     {
       "type": "banners-grid",
@@ -73,10 +92,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6a1f94c4568e833125f19508:collections:Sale - Últimas Peças:/sale-ultimas-pecas",
-      "sort": "news",
-      "link": "https://www.paralacasa.com.br/sale-ultimas-pecas",
-      "title": "Últimas Unidades: Peças com Alma e Estoque Quase Esgotado."
+      "collection_id": "658eef5b2cd6b65959ed9524:collections:DÉCOR SALE:/decor-sale",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/decor-sale",
+      "title": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
