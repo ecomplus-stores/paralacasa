@@ -20,16 +20,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "658c425f2cd6b65959eb47ab:collections:ATÉ 30% OFF - JOGOS AMERICANOS, ARGOLAS e GUARDANAPOS:/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-      "title": "Seleção Exclusiva de Jogos Americanos com Condições Especiais por Tempo Limitado."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6556aa7f2cd6b65959abbd1e:collections:Descontos em Lavabo e Aromas:/descontos-em-lavabo-e-aromas",
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
@@ -57,16 +47,6 @@
       "sort": "sales",
       "link": "https://www.paralacasa.com.br/decor-sale",
       "title": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "655662612cd6b65959ab29a4:collections:ATÉ 30% OFF - TAÇAS E COPOS:/descontos-em-tacas-e-copos",
-      "sort": "views",
-      "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos",
-      "title": "Edição Limitada: A Arte de Servir com Leveza e Sofisticação por Pouco Tempo."
     },
     {
       "type": "banners-grid",
