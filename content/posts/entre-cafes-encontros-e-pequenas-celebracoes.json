@@ -20,13 +20,15 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6a3c3ec8568e833125014b25:collections:CAFÉ DA MANHÃ  JG AMER:/cafe-da-manha-olinda-azul"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6a3c402f568e833125014ba9:collections:CAFÉ DA MANHÃ FAQ:/cafe-da-manha-faq"
     },
     {
       "type": "custom-html",
