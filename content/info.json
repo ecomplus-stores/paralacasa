@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil."
+    "text": "Entregamos para todo o Brasil.",
+    "link": "https://www.paralacasa.com.br/pages/faq"
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas compras em até 6x no cartão de crédito."
+    "text": "10% OFF NO PIX | PARCELE NO CARTÃO",
+    "link": "https://paralacasa.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
