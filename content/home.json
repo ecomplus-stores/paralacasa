@@ -37,17 +37,17 @@
       "shuffle": false,
       "limit": 17,
       "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE"
+      "collection_id": "6a39a4b5568e833125ffff0f:collections:TEMPO DE TORCER:/tempo-de-torcer",
+      "sort": "sales",
+      "link": "https://www.paralacasa.com.br/tempo-de-torcer",
+      "title": "Tempo de Torcer: o cenário perfeito para os seus encontros de Copa."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
@@ -72,7 +72,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.paralacasa.com.br/colecao-bitossi-home",
       "title": "COLEÇÃO BITOSSI HOME",
       "collection_id": "68c32057578b5f7954aa0684:collections:COLEÇÃO BITOSSI HOME:/colecao-bitossi-home"
@@ -112,10 +112,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "link": "https://www.paralacasa.com.br/new",
-      "title": "NEW",
-      "collection_id": "617300969bb4ce40f93b03d6:collections:NEW:/new"
+      "sort": "offers",
+      "link": "https://www.paralacasa.com.br/pages/sale",
+      "title": "SALE",
+      "collection_id": null
     },
     {
       "type": "banners-grid",
