@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/colecao-sale-home-1-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "Nossas escolhas para a edição 2026."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/ecom-plus-colecao-tempo-de-torcer1576-x-1136-37-.jpg",
           "link": "https://www.paralacasa.com.br/tempo-de-torcer",
           "alt": "Tempo de Torcer reúne peças escolhidas para celebrar os encontros que fazem da Copa um momento especial. Uma coleção por tempo limitado para receber, compartilhar e torcer ao redor da mesa."
