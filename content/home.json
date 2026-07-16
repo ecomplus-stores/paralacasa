@@ -37,7 +37,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
       "link": "https://www.paralacasa.com.br/destaques",
       "title": "CURADORIA DA SEMANA"
@@ -102,7 +102,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "lowest_price",
       "link": "https://www.paralacasa.com.br/decor/",
       "title": "DÉCOR",
       "collection_id": "6556a7d22cd6b65959abb818:collections:Décor:/decor"
