@@ -37,19 +37,6 @@
       "sort": "sales"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/30-off-bambu_.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-bambu-e-cafe-da-manha"
-        },
-        {
-          "img": "/img/uploads/30offtacasecopos_.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-tacas-e-copos"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -68,26 +55,6 @@
       "sort": "news",
       "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
       "title": "Nossas escolhas para a Sale Edição 2026. Por tempo limitado."
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/30-off-jogos-americanos_.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-jogos-americanos-argolas-e-guardanapos-c299",
-          "alt": "Seleção Exclusiva de Jogos Americanos com Condições Especiais por Tempo Limitado."
-        },
-        {
-          "img": "/img/uploads/20off-aromas_.webp",
-          "link": "https://www.paralacasa.com.br/descontos-em-lavabo-e-aromas",
-          "alt": "Aromas e Decor para Lavabo com Design | Para La Casa"
-        },
-        {
-          "img": "/img/uploads/decor-sale-paralacasa.jpeg",
-          "link": "https://www.paralacasa.com.br/decor-sale",
-          "alt": "Tempo Limitado: Eleve o Padrão do Seu Lar com Nossa Seleção Decor Sale."
-        }
-      ]
     },
     {
       "type": "collection-shelf",
