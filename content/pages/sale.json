@@ -1,13 +1,13 @@
 {
   "title": "SALE",
-  "body": "<!--StartFragment-->\n\nNossas escolhas para a edição Sale 2026 .Por tempo e estoques limitados.\n\n1﻿0% OFF no Pix. \n\nF﻿rete Grátis a partir de 599,00.\n\n<!--EndFragment-->",
+  "body": "\n\n<!--StartFragment-->\n\nUma seleção especial de peças para transformar a casa, agora com condições especiais.\n\nEncontre porcelanas, mesa posta, objetos e detalhes para compor ambientes cheios de personalidade — peças que continuam fazendo sentido muito depois da compra.\n\n**Até 25% OFF + 10% OFF no Pix.**\n\nEscolha suas favoritas e aproveite enquanto durarem os estoques.\n\n<!--EndFragment-->",
   "sections": [
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/colecao-sale-pag-sale.jpg",
-          "alt": "Nossas escolhas para Sale edição 2026",
+          "img": "/img/uploads/ecom-plus-sale-ate-25-off-1576-x-1136-38-.jpg",
+          "alt": "Uma seleção especial de peças para transformar a casa, agora com condições especiais.",
           "link": "https://www.paralacasa.com.br/pages/sale"
         }
       ]
@@ -101,5 +101,5 @@
     }
   ],
   "meta_title": "SALE  Para La Casa | Design e Curadoria ",
-  "meta_description": "Nossas escolhas para a edição Sale 2026."
+  "meta_description": "\"Tableware, decoração e mesa posta com curadoria exclusiva. Marcas nacionais e importadas. Frete grátis acima de R$599 e 10% off no PIX.\""
 }
