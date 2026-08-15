@@ -1,0 +1,111 @@
+{
+  "title": "CURADORIA PARA LA CASA",
+  "body": "<!--StartFragment-->\n\nToda semana, uma nova seleção de peças que despertam nosso olhar.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/curadoria-da-semana-paralacasa.jpg"
+        }
+      ]
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bitossi-paralacasa.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68c32057578b5f7954aa0684:collections:COLEÇÃO BITOSSI HOME:/colecao-bitossi-home",
+      "sort": "views",
+      "title": "EXPLORE MAIS",
+      "link": "https://www.paralacasa.com.br/bitossi"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nEntre mesa posta, objetos e detalhes para a casa, reunimos nossas escolhas favoritas para inspirar novas composições, encontros e maneiras de viver a casa.\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/eme-talheres-paralacasa.jpg",
+          "link": "https://www.paralacasa.com.br/eme"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68f78791578b5f7954d65052:categories:EME:/eme",
+      "sort": "sales",
+      "title": "Talheres Italianos EME ",
+      "link": "https://www.paralacasa.com.br/eme"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cafedamanha-paralacasa.webp",
+          "link": "https://www.paralacasa.com.br/cafe-da-manha"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64566a2a4bd2e929c1ef73a0:categories:CAFÉ DA MANHÃ:/cafe-da-manha",
+      "sort": "sales",
+      "title": "Descubra a curadoria da semana e encontre aquela peça  que pode fazer toda a diferença.",
+      "link": "https://www.paralacasa.com.br/cafe-da-manha"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/tacas-paralacasa.png",
+          "link": "https://www.paralacasa.com.br/tacas-e-copos/"
+        },
+        {
+          "img": "/img/uploads/decor-mundinho-paralacasa.png",
+          "link": "https://www.paralacasa.com.br/colecao-mundinho"
+        },
+        {
+          "img": "/img/uploads/prataria-paralacasa.png",
+          "link": "https://www.paralacasa.com.br/prataria"
+        }
+      ]
+    }
+  ]
+}
