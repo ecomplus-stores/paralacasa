@@ -6,6 +6,15 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-sale-jogos-americanos-colecao-1576-x-1136-38-.jpg",
+          "link": "https://www.paralacasa.com.br/jogos-americanos/"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/ecom-plus-bitossi-home-1576-x-1136-38-.jpg",
           "link": "https://www.paralacasa.com.br/bitossi",
           "alt": "Cada coleção reflete o cuidado de um espaa produção feita com paixão — da escolha dos materiais às estampas exclusivas e aos delicados detalhes em ouro. A Bitossi é reconhecida mundialmente por transformar a mesa em umço de arte, estilo e expressão pessoal."
