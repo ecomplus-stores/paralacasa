@@ -17,14 +17,9 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "",
-      "title": ""
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     }
   ],
   "meta_title": "Sale Mesa Posta e Décor | Louças, Taças e Itens para Casa em Promoção.",
