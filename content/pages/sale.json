@@ -3,16 +3,6 @@
   "body": "<!--StartFragment-->\n\n<!--StartFragment-->\n\nUma seleção de peças atemporais pensadas para quem valoriza os detalhes da casa e a arte de receber. Nossa promoção reúne desde louças em porcelana artesanal e taças em cristal ecológico até enxoval de mesa com acabamento refinado e itens de decoração para o living e lavabo. Escolha suas favoritas e aproveite nossas condições especiais enquanto durarem os estoques.\n\n<!--EndFragment-->",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ecom-plus-sale-ate-60-1576-x-1136-38-.jpg",
-          "alt": "Uma seleção especial de peças para transformar a casa, agora com condições especiais.",
-          "link": "https://www.paralacasa.com.br/pages/sale"
-        }
-      ]
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
