@@ -6,6 +6,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/ecom-plus-black-friday-2026-70-off-1576-x-1136-38-.jpg",
+          "link": "https://www.paralacasa.com.br/pages/sale",
+          "alt": "Black Friday 2026 Para la Casa | Sale com até 70% OFF em mesa posta e decoração."
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/ecom-plus-bitossi-home-1576-x-1136-38-.jpg",
           "link": "https://www.paralacasa.com.br/bitossi",
           "alt": "Cada coleção reflete o cuidado de um espaa produção feita com paixão — da escolha dos materiais às estampas exclusivas e aos delicados detalhes em ouro. A Bitossi é reconhecida mundialmente por transformar a mesa em umço de arte, estilo e expressão pessoal."
@@ -16,19 +26,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ecom-plus-home-aromas-527-x-515-px-26-.jpg",
+          "img": "/img/uploads/ecom-plus-objetos-527-x-515-px-30-.jpg",
+          "link": "https://www.paralacasa.com.br/objetos/",
+          "alt": "Objetos decorativos para casa com descontos de até 70% OFF na Black Friday 2026 | Para la Casa"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-bambu-527-x-515-px-30-.jpg",
+          "link": "https://www.paralacasa.com.br/bambu/",
+          "alt": "Peças em bambu para servir, organizar e compor a mesa com descontos de até 70% OFF na Black Friday 2026 | Para la Casa"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-aroma-527-x-515-px-28-.jpg",
           "link": "https://www.paralacasa.com.br/aromas",
-          "alt": "Aromas e Decor na Paralacasa"
-        },
-        {
-          "img": "/img/uploads/ecom-plus-home-para-rebeber-527-x-515-px-26-.jpg",
-          "link": "https://www.paralacasa.com.br/para-receber",
-          "alt": ""
-        },
-        {
-          "img": "/img/uploads/rattan-home-paralacasa.webp",
-          "link": "https://www.paralacasa.com.br/rattan",
-          "alt": "Rattan - Bandejas na Paralacasa"
+          "alt": "Aromas para casa, difusores e fragrâncias para ambientes com descontos especiais na Black Friday 2026 | Para la Casa"
         }
       ]
     },
