@@ -43,16 +43,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "collection_id": "65ce7a8587ab487fbfb9261d:collections:As escolhas da semana:/destaques",
-      "link": "https://www.paralacasa.com.br/pages/curadoria-para-la-casa",
-      "title": "CURADORIA DA SEMANA"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -96,16 +86,6 @@
           "alt": "Esculturas e Décor - Coleção Mundinho"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "lowest_price",
-      "link": "https://www.paralacasa.com.br/decor/",
-      "title": "DÉCOR",
-      "collection_id": "6556a7d22cd6b65959abb818:collections:Décor:/decor"
     },
     {
       "type": "banners-grid",
