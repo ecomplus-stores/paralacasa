@@ -76,14 +76,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/eme-paralacasa-home.webp",
-          "link": "https://www.paralacasa.com.br/eme",
-          "alt": "Faqueiros e Talheres Italianos Eme "
+          "img": "/img/uploads/ecom-plus-vasos-527-x-515-px-30-.jpg",
+          "link": "https://www.paralacasa.com.br/vasos/",
+          "alt": "Vasos decorativos para compor ambientes e valorizar a decoração da casa, com descontos especiais na Black Friday 2026 | Para la Casa"
         },
         {
-          "img": "/img/uploads/mundinho-paralacasa-home.jpg",
-          "link": "https://www.paralacasa.com.br/colecao-mundinho",
-          "alt": "Esculturas e Décor - Coleção Mundinho"
+          "img": "/img/uploads/ecom-plus-acrilicos-527-x-515-px-30-.jpg",
+          "link": "https://www.paralacasa.com.br/acrilicos/",
+          "alt": "Acessórios em acrílico para organizar, servir e compor a mesa com praticidade e elegância, com descontos especiais na Black Friday 2026 | Para la Casa"
+        },
+        {
+          "img": "/img/uploads/ecom-plus-rattan-bandejas-e-tabuas-527-x-515-px-30-.jpg",
+          "link": "https://www.paralacasa.com.br/bandejas-tabuas/",
+          "alt": "Peças em rattan, bandejas e tábuas para servir, receber e compor a mesa, com descontos especiais na Black Friday 2026 | Para la Casa"
         }
       ]
     },
