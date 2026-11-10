@@ -68,16 +68,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "link": "https://www.paralacasa.com.br/pages/sale",
-      "title": "SALE",
-      "collection_id": null
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
